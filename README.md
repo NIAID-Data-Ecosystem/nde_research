@@ -6,4 +6,4 @@ Contributors, please organize your code and data before contributing to this rep
 
 ## Table of contents
 
-* [tool_suitability_research](https://github.com/NIAID-Data-Ecosystem/nde_research/tool_suitability_research/): The repos contained here include research on the performance of tools for potential use in metadata augmentation.
+* [tool_suitability_research](https://github.com/NIAID-Data-Ecosystem/nde_research/tree/main/tool_suitability_research/): The repos contained here include research on the performance of tools for potential use in metadata augmentation.

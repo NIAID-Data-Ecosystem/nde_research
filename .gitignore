@@ -1,3 +1,17 @@
-**/*.ipynb_checkpoints/
+# jupyter notebook checkpoints
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+**/*.ipynb_checkpoints/
+
+# large files
+tool_suitability_research/EXTRACT_check/data/processed_species_results.pickle
+tool_suitability_research/EXTRACT_check/data/test_50000_data.pickle
+tool_suitability_research/Pubtator_Check/data/citation_df_clean.tsv
+tool_suitability_research/Pubtator_Check/data/species2pubtatorcentral.gz
+tool_suitability_research/Pubtator_Check/data/taxa_found.tsv
+tool_suitability_research/text2term_test/data/clean_pubtator_results_from_nde.tsv
+tool_suitability_research/text2term_test/data/matched_merged.tsv
+tool_suitability_research/text2term_test/data/processed_species_results.pickle
+tool_suitability_research/text2term_test/data/raw_species_results.pickle
+tool_suitability_research/text2term_test/cache/*
+

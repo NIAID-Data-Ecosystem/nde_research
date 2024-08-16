@@ -1,0 +1,273 @@
+	Source Term ID	Source Term	Mapped Term Label	Mapped Term CURIE	Mapped Term IRI	Mapping Score	Tags	match
+746	http://ccb.hms.harvard.edu/t2t/RKBkQcZLJym	virology	Virology	EDAM.TOPIC:0781	http://edamontology.org/topic_0781	0.993	None	good
+117	http://ccb.hms.harvard.edu/t2t/RHYGKwKez4t	toxicity	Toxicology	EDAM.TOPIC:2840	http://edamontology.org/topic_2840	0.553	None	ok
+721	http://ccb.hms.harvard.edu/t2t/R3dS7P5wJji	surgery	Surgery	EDAM.TOPIC:3421	http://edamontology.org/topic_3421	0.994	None	good
+1001	http://ccb.hms.harvard.edu/t2t/R3T9cUrPhbk	physiopathology	Physiology	EDAM.TOPIC:3300	http://edamontology.org/topic_3300	0.658	None	good
+99	http://ccb.hms.harvard.edu/t2t/RAXCEN7kXtQ	physiology	Physiology	EDAM.TOPIC:3300	http://edamontology.org/topic_3300	0.994	None	good
+313	http://ccb.hms.harvard.edu/t2t/RJvZaGZrSEx	pharmacology	Pharmacology	EDAM.TOPIC:0202	http://edamontology.org/topic_0202	0.985	None	good
+106	http://ccb.hms.harvard.edu/t2t/RB9oAjeSd8a	pathology	Pathology	EDAM.TOPIC:0634	http://edamontology.org/topic_0634	0.995	None	good
+83	http://ccb.hms.harvard.edu/t2t/RERFFfW8XEJ	parasitology	Parasitology	EDAM.TOPIC:3302	http://edamontology.org/topic_3302	0.98	None	good
+391	http://ccb.hms.harvard.edu/t2t/R68kjku4fLB	microbiology	Microbiology	EDAM.TOPIC:3301	http://edamontology.org/topic_3301	0.995	None	good
+18	http://ccb.hms.harvard.edu/t2t/RH6ecMyMRZd	methods	Chromosome conformation capture	EDAM.TOPIC:3940	http://edamontology.org/topic_3940	0.617	None	bad
+30	http://ccb.hms.harvard.edu/t2t/RHrXidPMjKF	metabolism	Drug metabolism	EDAM.TOPIC:3375	http://edamontology.org/topic_3375	0.811	None	bad
+248	http://ccb.hms.harvard.edu/t2t/R5AJLEaudRP	immunology	Immunology	EDAM.TOPIC:0804	http://edamontology.org/topic_0804	0.994	None	good
+412	http://ccb.hms.harvard.edu/t2t/R3QzWG4bGR3	growth & development	Drug development	EDAM.TOPIC:3373	http://edamontology.org/topic_3373	0.669	None	bad
+3	http://ccb.hms.harvard.edu/t2t/RCfTRcoJghm	genetics	Genetics	EDAM.TOPIC:3053	http://edamontology.org/topic_3053	0.998	None	good
+1297	http://ccb.hms.harvard.edu/t2t/RBA2EH8CgcH	fas Receptor	G protein-coupled receptors (GPCR)	EDAM.TOPIC:0151	http://edamontology.org/topic_0151	0.335	None	ok
+1390	http://ccb.hms.harvard.edu/t2t/R6pyuDmFdMM	etiology	Biology	EDAM.TOPIC:3070	http://edamontology.org/topic_3070	0.658	None	bad
+998	http://ccb.hms.harvard.edu/t2t/RA3p8LAEynx	epidemiology	Public health and epidemiology	EDAM.TOPIC:3305	http://edamontology.org/topic_3305	0.65	None	good
+709	http://ccb.hms.harvard.edu/t2t/R72fR9dckmd	embryology	Embryology	EDAM.TOPIC:3065	http://edamontology.org/topic_3065	0.988	None	good
+632	http://ccb.hms.harvard.edu/t2t/RJLrKvsiQMk	deficiency	Critical care medicine	EDAM.TOPIC:3403	http://edamontology.org/topic_3403	0.328	None	bad
+409	http://ccb.hms.harvard.edu/t2t/R3PJBpvmiR6	classification	Classification	EDAM.TOPIC:2230	http://edamontology.org/topic_2230	0.99	None	good
+114	http://ccb.hms.harvard.edu/t2t/R3mzBhikjDZ	chemistry	Chemistry	EDAM.TOPIC:3314	http://edamontology.org/topic_3314	0.994	None	good
+191	http://ccb.hms.harvard.edu/t2t/R9pY4GT4BSv	biosynthesis	Synthetic biology	EDAM.TOPIC:3895	http://edamontology.org/topic_3895	0.503	None	bad
+1059	http://ccb.hms.harvard.edu/t2t/RGHJe5HnU7e	Wound Infection	Infectious disease	EDAM.TOPIC:3324	http://edamontology.org/topic_3324	0.379	None	bad
+1057	http://ccb.hms.harvard.edu/t2t/R4wch6XJ8LM	Wound Healing	Medical informatics	EDAM.TOPIC:3063	http://edamontology.org/topic_3063	0.334	None	bad
+1187	http://ccb.hms.harvard.edu/t2t/R4bMabifwg6	Western	Exome sequencing	EDAM.TOPIC:3676	http://edamontology.org/topic_3676	0.58	None	bad
+1160	http://ccb.hms.harvard.edu/t2t/RHHCY4aHonJ	Viral Proteins	Proteins	EDAM.TOPIC:0078	http://edamontology.org/topic_0078	0.61	None	ok
+1633	http://ccb.hms.harvard.edu/t2t/R4rPywCPUPg	Vasopressin	Gene expression	EDAM.TOPIC:0203	http://edamontology.org/topic_0203	0.332	None	bad
+93	http://ccb.hms.harvard.edu/t2t/R3cmie9D4c5	Up-Regulation	Gene regulation	EDAM.TOPIC:0204	http://edamontology.org/topic_0204	0.715	None	good
+764	http://ccb.hms.harvard.edu/t2t/R4S9oSVN8fm	Triticum	Nutritional science	EDAM.TOPIC:3390	http://edamontology.org/topic_3390	0.382	None	bad
+24	http://ccb.hms.harvard.edu/t2t/REScGx2YzBK	Transcriptome	RNA-Seq	EDAM.TOPIC:3170	http://edamontology.org/topic_3170	0.817	None	bad
+1262	http://ccb.hms.harvard.edu/t2t/R4u9eiPdEQV	Transcription Elongation	Transcription	EDAM.TOPIC:0110	http://edamontology.org/topic_0110	0.711	None	good
+90	http://ccb.hms.harvard.edu/t2t/RFXTzeYbBE7	Transcription	Transcription	EDAM.TOPIC:0110	http://edamontology.org/topic_0110	0.993	None	good
+806	http://ccb.hms.harvard.edu/t2t/RC66eLUPo8M	Tissue Fixation	Biobank	EDAM.TOPIC:3337	http://edamontology.org/topic_3337	0.585	None	bad
+430	http://ccb.hms.harvard.edu/t2t/Rzij5ejULTr	Time Factors	Transcription factors and regulatory sites	EDAM.TOPIC:0749	http://edamontology.org/topic_0749	0.385	None	bad
+469	http://ccb.hms.harvard.edu/t2t/RBzw3ZasbFv	Thermodynamics	Nucleic acid thermodynamics	EDAM.TOPIC:0094	http://edamontology.org/topic_0094	0.844	None	bad
+685	http://ccb.hms.harvard.edu/t2t/RD98qiqFbTA	Telomere-Binding Proteins	Protein binding sites	EDAM.TOPIC:3534	http://edamontology.org/topic_3534	0.546	None	bad
+295	http://ccb.hms.harvard.edu/t2t/R4yZAUUscui	Tandem Mass Spectrometry	Mass spectrometry	EDAM.TOPIC:0134	http://edamontology.org/topic_0134	0.825	None	ok
+887	http://ccb.hms.harvard.edu/t2t/R8gbxdP3vAH	Sulfonic Acids	Nucleic acids	EDAM.TOPIC:0077	http://edamontology.org/topic_0077	0.458	None	bad
+657	http://ccb.hms.harvard.edu/t2t/RFZg689nbeZ	Subtraction Technique	Laboratory techniques	EDAM.TOPIC:3361	http://edamontology.org/topic_3361	0.528	None	bad
+394	http://ccb.hms.harvard.edu/t2t/RK3bPEbLkzM	Streptococcal Infections	Infectious disease	EDAM.TOPIC:3324	http://edamontology.org/topic_3324	0.311	None	good
+518	http://ccb.hms.harvard.edu/t2t/RALWV8SRood	Statistics as Topic	Topic	EDAM.TOPIC:0003	http://edamontology.org/topic_0003	0.61	None	bad
+1028	http://ccb.hms.harvard.edu/t2t/RDuiQ9T9vMb	Spain	Pain medicine	EDAM.TOPIC:3401	http://edamontology.org/topic_3401	0.377	None	bad
+427	http://ccb.hms.harvard.edu/t2t/R9hpk87RtPK	Soil Microbiology	Microbiology	EDAM.TOPIC:3301	http://edamontology.org/topic_3301	0.806	None	good
+901	http://ccb.hms.harvard.edu/t2t/RpUQ9qFjpu5	Small Interfering	RNA-Seq	EDAM.TOPIC:3170	http://edamontology.org/topic_3170	0.483	None	bad
+863	http://ccb.hms.harvard.edu/t2t/RAjreNhKrCu	Small	RNA-Seq	EDAM.TOPIC:3170	http://edamontology.org/topic_3170	0.674	None	bad
+1221	http://ccb.hms.harvard.edu/t2t/RHLmbrp5PoA	Skin Diseases	Pathology	EDAM.TOPIC:0634	http://edamontology.org/topic_0634	0.641	None	bad
+1468	http://ccb.hms.harvard.edu/t2t/RDoJYSqhtkC	Secondary Metabolism	Drug metabolism	EDAM.TOPIC:3375	http://edamontology.org/topic_3375	0.568	None	bad
+479	http://ccb.hms.harvard.edu/t2t/R65rL37W39b	SCID	Informatics	EDAM.TOPIC:0605	http://edamontology.org/topic_0605	0.365	None	bad
+855	http://ccb.hms.harvard.edu/t2t/RKDVAgBnGqv	Ribosome Subunits	Ribosomes	EDAM.TOPIC:0617	http://edamontology.org/topic_0617	0.592	None	ok
+852	http://ccb.hms.harvard.edu/t2t/RCt3eNGn9Yx	Ribosomal Proteins	Ribosomes	EDAM.TOPIC:0617	http://edamontology.org/topic_0617	0.65	None	ok
+780	http://ccb.hms.harvard.edu/t2t/R8FWKfJuJCk	Ribosomal	Ribosomes	EDAM.TOPIC:0617	http://edamontology.org/topic_0617	0.757	None	good
+937	http://ccb.hms.harvard.edu/t2t/R5jQKkGfAjb	Reverse Transcriptase Polymerase Chain Reaction	PCR experiment	EDAM.TOPIC:3519	http://edamontology.org/topic_3519	0.739	None	good
+722	http://ccb.hms.harvard.edu/t2t/R9yzB8QPzXf	Retinal Pigment Epithelium	Epigenetics	EDAM.TOPIC:3295	http://edamontology.org/topic_3295	0.301	None	bad
+424	http://ccb.hms.harvard.edu/t2t/RD7mHFqsbsK	Reproduction	Reproductive health	EDAM.TOPIC:3420	http://edamontology.org/topic_3420	0.62	None	good
+224	http://ccb.hms.harvard.edu/t2t/R9TmeC89Vhf	Repressor Proteins	Proteins	EDAM.TOPIC:0078	http://edamontology.org/topic_0078	0.509	None	ok
+541	http://ccb.hms.harvard.edu/t2t/RKHGJypQKRP	Regulator	Regulatory RNA	EDAM.TOPIC:3060	http://edamontology.org/topic_3060	0.76	None	ok
+319	http://ccb.hms.harvard.edu/t2t/R6rbQJXzKH7	Receptors	G protein-coupled receptors (GPCR)	EDAM.TOPIC:0151	http://edamontology.org/topic_0151	0.512	None	ok
+631	http://ccb.hms.harvard.edu/t2t/RFpyAtdoSPN	Receptor	G protein-coupled receptors (GPCR)	EDAM.TOPIC:0151	http://edamontology.org/topic_0151	0.417	None	ok
+142	http://ccb.hms.harvard.edu/t2t/RETycwY538i	Real-Time Polymerase Chain Reaction	PCR experiment	EDAM.TOPIC:3519	http://edamontology.org/topic_3519	0.84	None	good
+1595	http://ccb.hms.harvard.edu/t2t/R4hBG4Zh9nS	Rats	Mice or rats	EDAM.TOPIC:0213	http://edamontology.org/topic_0213	0.661	None	good
+1302	http://ccb.hms.harvard.edu/t2t/R9pRLGbtLYw	RNA-Binding Proteins	Protein binding sites	EDAM.TOPIC:3534	http://edamontology.org/topic_3534	0.654	None	good
+1257	http://ccb.hms.harvard.edu/t2t/RKuuxL8JYCG	RNA Splicing	RNA splicing	EDAM.TOPIC:3320	http://edamontology.org/topic_3320	0.996	None	good
+1254	http://ccb.hms.harvard.edu/t2t/R4eVRGBHaug	RNA Polymerase II	PCR experiment	EDAM.TOPIC:3519	http://edamontology.org/topic_3519	0.563	None	bad
+359	http://ccb.hms.harvard.edu/t2t/RJKjmNnKCso	Proto-Oncogenes	Oncology	EDAM.TOPIC:2640	http://edamontology.org/topic_2640	0.394	None	good
+339	http://ccb.hms.harvard.edu/t2t/REXtZD9rTZB	Proto-Oncogene Proteins c-maf	Proteins	EDAM.TOPIC:0078	http://edamontology.org/topic_0078	0.477	None	ok
+1213	http://ccb.hms.harvard.edu/t2t/RKH2jZ5VA6P	Proto-Oncogene Proteins c-akt	Proteins	EDAM.TOPIC:0078	http://edamontology.org/topic_0078	0.467	None	ok
+292	http://ccb.hms.harvard.edu/t2t/R53oZwn3V6d	Proteomics	Proteomics	EDAM.TOPIC:0121	http://edamontology.org/topic_0121	0.994	None	good
+289	http://ccb.hms.harvard.edu/t2t/RKKJk7sxhmL	Proteome	Proteome	EDAM.TOPIC:0644	http://edamontology.org/topic_0644	0.991	None	good
+286	http://ccb.hms.harvard.edu/t2t/R8CHCF3pAiG	Proteolysis	Protein cleavage sites and proteolysis	EDAM.TOPIC:0141	http://edamontology.org/topic_0141	0.646	None	good
+843	http://ccb.hms.harvard.edu/t2t/RDGdCNfPQHv	Protein Structure	Protein structure analysis	EDAM.TOPIC:2814	http://edamontology.org/topic_2814	0.985	None	good
+840	http://ccb.hms.harvard.edu/t2t/R4cYeceMRQr	Protein Interaction Domains and Motifs	Protein domains	EDAM.TOPIC:3539	http://edamontology.org/topic_3539	0.625	None	ok
+457	http://ccb.hms.harvard.edu/t2t/R8uQosixuzD	Protein Domains	Protein domains	EDAM.TOPIC:3539	http://edamontology.org/topic_3539	0.974	None	good
+449	http://ccb.hms.harvard.edu/t2t/R95kuxLpJfu	Protein Conformation	Proteins	EDAM.TOPIC:0078	http://edamontology.org/topic_0078	0.614	None	ok
+446	http://ccb.hms.harvard.edu/t2t/RJr8YL7a8uT	Protein Binding	Protein binding sites	EDAM.TOPIC:3534	http://edamontology.org/topic_3534	0.815	None	good
+307	http://ccb.hms.harvard.edu/t2t/RCsZVGuw4KM	Preclinical	Preclinical and clinical studies	EDAM.TOPIC:3379	http://edamontology.org/topic_3379	0.808	None	good
+283	http://ccb.hms.harvard.edu/t2t/REsbwtvXUTA	Post-Translational	Protein modifications	EDAM.TOPIC:0601	http://edamontology.org/topic_0601	0.66	None	good
+260	http://ccb.hms.harvard.edu/t2t/RBUrcdUoFtz	Populus	Population genetics	EDAM.TOPIC:3056	http://edamontology.org/topic_3056	0.558	None	bad
+981	http://ccb.hms.harvard.edu/t2t/R7MFuoyETu9	Population	Population genetics	EDAM.TOPIC:3056	http://edamontology.org/topic_3056	0.812	None	ok
+212	http://ccb.hms.harvard.edu/t2t/R9uY7dUjaYn	Polymorphism	DNA polymorphism	EDAM.TOPIC:2885	http://edamontology.org/topic_2885	0.923	None	good
+987	http://ccb.hms.harvard.edu/t2t/R5wCphirCpN	Polymerase Chain Reaction	PCR experiment	EDAM.TOPIC:3519	http://edamontology.org/topic_3519	0.99	None	good
+737	http://ccb.hms.harvard.edu/t2t/R8QLim2PZ8r	Pluripotent Stem Cells	Regenerative medicine	EDAM.TOPIC:3395	http://edamontology.org/topic_3395	0.342	None	bad
+895	http://ccb.hms.harvard.edu/t2t/RKJZU9r7YAK	Plastids	Plant biology	EDAM.TOPIC:0780	http://edamontology.org/topic_0780	0.334	None	bad
+53	http://ccb.hms.harvard.edu/t2t/R8X6fbaXQqH	Plants	Plant biology	EDAM.TOPIC:0780	http://edamontology.org/topic_0780	0.989	None	good
+257	http://ccb.hms.harvard.edu/t2t/R8Rtm8fjpxc	Plant Nectar	Plant biology	EDAM.TOPIC:0780	http://edamontology.org/topic_0780	0.6	None	bad
+254	http://ccb.hms.harvard.edu/t2t/RFvJco5Wwxx	Plant Leaves	Plant biology	EDAM.TOPIC:0780	http://edamontology.org/topic_0780	0.576	None	bad
+42	http://ccb.hms.harvard.edu/t2t/RKicBfchGRQ	Plant	Plant biology	EDAM.TOPIC:0780	http://edamontology.org/topic_0780	0.977	None	good
+68	http://ccb.hms.harvard.edu/t2t/RG6oPmwX2ei	Physiological	Physiology	EDAM.TOPIC:3300	http://edamontology.org/topic_3300	0.712	None	good
+913	http://ccb.hms.harvard.edu/t2t/R9SGpA7aZrT	Phylogeny	Phylogeny	EDAM.TOPIC:0084	http://edamontology.org/topic_0084	0.987	None	good
+1159	http://ccb.hms.harvard.edu/t2t/RsoWUc7Tsez	Phosphorylation	Phosphorylation sites	EDAM.TOPIC:0751	http://edamontology.org/topic_0751	0.914	None	good
+443	http://ccb.hms.harvard.edu/t2t/RFy8fpXm6M3	Phosphoproteins	Phosphorylation sites	EDAM.TOPIC:0751	http://edamontology.org/topic_0751	0.568	None	ok
+774	http://ccb.hms.harvard.edu/t2t/R3CG426CGQV	Phospholipids	Lipids	EDAM.TOPIC:0153	http://edamontology.org/topic_0153	0.577	None	ok
+1208	http://ccb.hms.harvard.edu/t2t/R4pR26V6Te4	Phospholipase C gamma	Phosphorylation sites	EDAM.TOPIC:0751	http://edamontology.org/topic_0751	0.437	None	ok
+1206	http://ccb.hms.harvard.edu/t2t/R8vaMqDYMEZ	Phosphatidylinositol 3-Kinases	Phosphorylation sites	EDAM.TOPIC:0751	http://edamontology.org/topic_0751	0.359	None	ok
+1363	http://ccb.hms.harvard.edu/t2t/R9Gt8PazpKw	Paracrine Communication	Infectious disease	EDAM.TOPIC:3324	http://edamontology.org/topic_3324	0.42	None	bad
+1609	http://ccb.hms.harvard.edu/t2t/RB4wVZuXMBP	Ovarian Neoplasms	Protein variants	EDAM.TOPIC:3120	http://edamontology.org/topic_3120	0.339	None	bad
+718	http://ccb.hms.harvard.edu/t2t/RDj4tjrGkyv	Organogenesis	Genetic organisation	EDAM.TOPIC:3062	http://edamontology.org/topic_3062	0.474	None	bad
+336	http://ccb.hms.harvard.edu/t2t/R5fvnPg2ZKj	Oncogenes	Oncology	EDAM.TOPIC:2640	http://edamontology.org/topic_2640	0.478	None	good
+715	http://ccb.hms.harvard.edu/t2t/R4L9xtKER9H	Oncogene Proteins	Proteins	EDAM.TOPIC:0078	http://edamontology.org/topic_0078	0.548	None	ok
+209	http://ccb.hms.harvard.edu/t2t/R3zDTyaN6rp	Nuclear Proteins	Proteins	EDAM.TOPIC:0078	http://edamontology.org/topic_0078	0.546	None	ok
+734	http://ccb.hms.harvard.edu/t2t/RKBMiz4tN3s	Neural Stem Cells	Regenerative medicine	EDAM.TOPIC:3395	http://edamontology.org/topic_3395	0.427	None	bad
+1293	http://ccb.hms.harvard.edu/t2t/RBfVca7izRX	Neoplastic Stem Cells	Regenerative medicine	EDAM.TOPIC:3395	http://edamontology.org/topic_3395	0.414	None	bad
+803	http://ccb.hms.harvard.edu/t2t/R9DF3SCxqmA	Neoplasm Staging	Imaging	EDAM.TOPIC:3382	http://edamontology.org/topic_3382	0.423	None	bad
+483	http://ccb.hms.harvard.edu/t2t/R7e5rwZXfpQ	Neoplasm Proteins	Proteins	EDAM.TOPIC:0078	http://edamontology.org/topic_0078	0.571	None	bad
+482	http://ccb.hms.harvard.edu/t2t/R46uVFGqjk5	Neoplasm Metastasis	Epistasis	EDAM.TOPIC:3974	http://edamontology.org/topic_3974	0.466	None	bad
+550	http://ccb.hms.harvard.edu/t2t/RGoJ7HxUmwN	Myogenic Regulatory Factors	Transcription factors and regulatory sites	EDAM.TOPIC:0749	http://edamontology.org/topic_0749	0.591	None	ok
+547	http://ccb.hms.harvard.edu/t2t/RCDQzTNhBvB	Mutant Proteins	Proteins	EDAM.TOPIC:0078	http://edamontology.org/topic_0078	0.575	None	ok
+271	http://ccb.hms.harvard.edu/t2t/RBKUMTM6yzG	Muscle Proteins	Proteins	EDAM.TOPIC:0078	http://edamontology.org/topic_0078	0.524	None	ok
+1456	http://ccb.hms.harvard.edu/t2t/RSQGa4oFCgF	Mucoproteins	Proteins	EDAM.TOPIC:0078	http://edamontology.org/topic_0078	0.513	None	ok
+1431	http://ccb.hms.harvard.edu/t2t/RGNEVpmC4ja	Moths	Mathematics	EDAM.TOPIC:3315	http://edamontology.org/topic_3315	0.625	None	bad
+1133	http://ccb.hms.harvard.edu/t2t/REy9CaX8evr	Molecular Sequence Annotation	Sequence annotation	EDAM.TOPIC:0221	http://edamontology.org/topic_0221	0.789	None	good
+1158	http://ccb.hms.harvard.edu/t2t/RJvLTXfwCrZ	Mitosis	Mitochondria	EDAM.TOPIC:0779	http://edamontology.org/topic_0779	0.328	None	bad
+1601	http://ccb.hms.harvard.edu/t2t/R9kAez3Xj4D	Mitochondrial	Mitochondria	EDAM.TOPIC:0779	http://edamontology.org/topic_0779	0.894	None	good
+1085	http://ccb.hms.harvard.edu/t2t/RDY2S4tsWNX	Microscopy	Light microscopy	EDAM.TOPIC:3385	http://edamontology.org/topic_3385	0.793	None	good
+1010	http://ccb.hms.harvard.edu/t2t/RFGBUgp6HWh	Microbial	Microbial ecology	EDAM.TOPIC:3697	http://edamontology.org/topic_3697	0.779	None	good
+126	http://ccb.hms.harvard.edu/t2t/R6KhiU74owi	Mice	Mice or rats	EDAM.TOPIC:0213	http://edamontology.org/topic_0213	0.594	None	good
+1568	http://ccb.hms.harvard.edu/t2t/RBqNBhGg2Mz	Methylation	DNA methylation	EDAM.TOPIC:3171	http://edamontology.org/topic_3171	0.849	None	ok
+442	http://ccb.hms.harvard.edu/t2t/RJSt2V5p6L9	Metalloproteases	Protein databases	EDAM.TOPIC:2225	http://edamontology.org/topic_2225	0.307	None	bad
+1526	http://ccb.hms.harvard.edu/t2t/RD7jdxvXBiK	Metabolic Syndrome	Metabolic disease	EDAM.TOPIC:3323	http://edamontology.org/topic_3323	0.532	None	good
+1082	http://ccb.hms.harvard.edu/t2t/RDPfHKXyL8p	Membrane Proteins	Protein membrane regions	EDAM.TOPIC:1456	http://edamontology.org/topic_1456	0.784	None	good
+1079	http://ccb.hms.harvard.edu/t2t/RAbaoKvANSK	Membrane Glycoproteins	Membrane and lipoproteins	EDAM.TOPIC:0820	http://edamontology.org/topic_0820	0.611	None	ok
+1589	http://ccb.hms.harvard.edu/t2t/RDR95PjkFKA	Mathematics	Mathematics	EDAM.TOPIC:3315	http://edamontology.org/topic_3315	0.975	None	good
+1196	http://ccb.hms.harvard.edu/t2t/RBcrQCJ3Bkw	Mammary Neoplasms	Mammals	EDAM.TOPIC:3048	http://edamontology.org/topic_3048	0.443	None	bad
+1549	http://ccb.hms.harvard.edu/t2t/RRwtMqWiPU2	Mammals	Mammals	EDAM.TOPIC:3048	http://edamontology.org/topic_3048	0.987	None	good
+796	http://ccb.hms.harvard.edu/t2t/R8xgbFcH7Vm	Longitudinal Studies	Experimental design and studies	EDAM.TOPIC:3678	http://edamontology.org/topic_3678	0.736	None	ok
+1564	http://ccb.hms.harvard.edu/t2t/R9z8zRDxXgG	Kv Channel-Interacting Proteins	Protein interactions	EDAM.TOPIC:0128	http://edamontology.org/topic_0128	0.542	None	ok
+173	http://ccb.hms.harvard.edu/t2t/RBBRDxb7ecJ	Introns	Introns	EDAM.TOPIC:2754	http://edamontology.org/topic_2754	0.985	None	good
+694	http://ccb.hms.harvard.edu/t2t/R5Xxjd8H4EX	Insect Proteins	Proteins	EDAM.TOPIC:0078	http://edamontology.org/topic_0078	0.694	None	ok
+1351	http://ccb.hms.harvard.edu/t2t/R6FUTnYDtGw	Inflammatory Bowel Diseases	Pathology	EDAM.TOPIC:0634	http://edamontology.org/topic_0634	0.419	None	ok
+1618	http://ccb.hms.harvard.edu/t2t/R6oTeuoyUur	Immunoprecipitation	RNA immunoprecipitation	EDAM.TOPIC:3794	http://edamontology.org/topic_3794	0.938	None	good
+1119	http://ccb.hms.harvard.edu/t2t/R7CBSM43Bkf	Immunomagnetic Separation	Immunogenetics	EDAM.TOPIC:3930	http://edamontology.org/topic_3930	0.427	None	bad
+476	http://ccb.hms.harvard.edu/t2t/REncoeTqkVz	Immunological	Immunology	EDAM.TOPIC:0804	http://edamontology.org/topic_0804	0.734	None	good
+925	http://ccb.hms.harvard.edu/t2t/R5vUSFGz8Pr	Immunologic Deficiency Syndromes	Immunology	EDAM.TOPIC:0804	http://edamontology.org/topic_0804	0.435	None	good
+123	http://ccb.hms.harvard.edu/t2t/RCDrGDf4a3M	Immunohistochemistry	Chemistry	EDAM.TOPIC:3314	http://edamontology.org/topic_3314	0.618	None	bad
+12	http://ccb.hms.harvard.edu/t2t/R8fYiKMqckd	Humans	Human biology	EDAM.TOPIC:2815	http://edamontology.org/topic_2815	0.992	None	good
+9	http://ccb.hms.harvard.edu/t2t/RHiFFCSuPzT	Human	Human genetics	EDAM.TOPIC:3574	http://edamontology.org/topic_3574	0.807	None	bad
+1506	http://ccb.hms.harvard.edu/t2t/RJVSgwHwftv	Host-Pathogen Interactions	Pathogens	EDAM.TOPIC:0783	http://edamontology.org/topic_0783	0.565	None	good
+741	http://ccb.hms.harvard.edu/t2t/R6DmfSS3vhT	Host-Parasite Interactions	Protein interactions	EDAM.TOPIC:0128	http://edamontology.org/topic_0128	0.507	None	bad
+1350	http://ccb.hms.harvard.edu/t2t/R9YCGxDfeGK	Homeostasis	Epistasis	EDAM.TOPIC:3974	http://edamontology.org/topic_3974	0.425	None	bad
+923	http://ccb.hms.harvard.edu/t2t/R6H4NvjXYVx	High-Throughput Screening Assays	High-throughput sequencing	EDAM.TOPIC:2842	http://edamontology.org/topic_2842	0.566	None	bad
+538	http://ccb.hms.harvard.edu/t2t/RJdQgx55fUF	High-Throughput Nucleotide Sequencing	High-throughput sequencing	EDAM.TOPIC:2842	http://edamontology.org/topic_2842	0.711	None	good
+594	http://ccb.hms.harvard.edu/t2t/RAhgMj9Z4qv	Hepatocytes	Hepatic and biliary medicine	EDAM.TOPIC:3412	http://edamontology.org/topic_3412	0.577	None	ok
+585	http://ccb.hms.harvard.edu/t2t/RGZ39ZiMNgB	Hepatocellular	Hepatic and biliary medicine	EDAM.TOPIC:3412	http://edamontology.org/topic_3412	0.507	None	ok
+1183	http://ccb.hms.harvard.edu/t2t/R9EBR2uddAY	Hematopoietic Stem Cells	Regenerative medicine	EDAM.TOPIC:3395	http://edamontology.org/topic_3395	0.347	None	bad
+1182	http://ccb.hms.harvard.edu/t2t/RJCTPPMoCvY	Hematopoietic Stem Cell Transplantation	Regenerative medicine	EDAM.TOPIC:3395	http://edamontology.org/topic_3395	0.325	None	bad
+946	http://ccb.hms.harvard.edu/t2t/R6xC73iYniY	HSP70 Heat-Shock Proteins	Proteins	EDAM.TOPIC:0078	http://edamontology.org/topic_0078	0.364	None	ok
+1130	http://ccb.hms.harvard.edu/t2t/RGERw4HXtSb	HMGB Proteins	Proteins	EDAM.TOPIC:0078	http://edamontology.org/topic_0078	0.542	None	ok
+1105	http://ccb.hms.harvard.edu/t2t/RAn257b73Cg	Graft vs Host Disease	Pathology	EDAM.TOPIC:0634	http://edamontology.org/topic_0634	0.55	None	ok
+1534	http://ccb.hms.harvard.edu/t2t/RD4gBRipQU7	Germination	Structure determination	EDAM.TOPIC:2226	http://edamontology.org/topic_2226	0.626	None	bad
+1251	http://ccb.hms.harvard.edu/t2t/R6WuDoGJmLi	Genotype	Genotype and phenotype	EDAM.TOPIC:0625	http://edamontology.org/topic_0625	0.886	None	good
+162	http://ccb.hms.harvard.edu/t2t/R4v6Cfm2pPo	Genomics	Genomics	EDAM.TOPIC:0622	http://edamontology.org/topic_0622	0.999	None	good
+575	http://ccb.hms.harvard.edu/t2t/R5Y3kNx3BM4	Genome-Wide Association Study	GWAS study	EDAM.TOPIC:3517	http://edamontology.org/topic_3517	0.811	None	good
+978	http://ccb.hms.harvard.edu/t2t/RAPoSrdPWd8	Genetics	Genetics	EDAM.TOPIC:3053	http://edamontology.org/topic_3053	0.998	None	good
+56	http://ccb.hms.harvard.edu/t2t/RChCrzipkEQ	Genetically Modified	Genetic engineering	EDAM.TOPIC:3912	http://edamontology.org/topic_3912	0.631	None	good
+933	http://ccb.hms.harvard.edu/t2t/R4Waw4pqPVY	Genetic Variation	Genetic variation	EDAM.TOPIC:0199	http://edamontology.org/topic_0199	0.995	None	good
+793	http://ccb.hms.harvard.edu/t2t/RBm78qfKL4A	Genetic Predisposition to Disease	Pathology	EDAM.TOPIC:0634	http://edamontology.org/topic_0634	0.534	None	ok
+503	http://ccb.hms.harvard.edu/t2t/RJZnKQYTrqr	Genetic Engineering	Genetic engineering	EDAM.TOPIC:3912	http://edamontology.org/topic_3912	0.993	None	good
+45	http://ccb.hms.harvard.edu/t2t/RKjsHiQ8f3N	Gene Regulatory Networks	Gene regulatory networks	EDAM.TOPIC:2846	http://edamontology.org/topic_2846	0.988	None	good
+1289	http://ccb.hms.harvard.edu/t2t/RCPxnuHQanT	Gene Knockout Techniques	Laboratory techniques	EDAM.TOPIC:3361	http://edamontology.org/topic_3361	0.561	None	ok
+348	http://ccb.hms.harvard.edu/t2t/R6bgjn3tq9t	Gene Knockdown Techniques	Laboratory techniques	EDAM.TOPIC:3361	http://edamontology.org/topic_3361	0.535	None	ok
+569	http://ccb.hms.harvard.edu/t2t/RDgjgo5rFTN	Gene Expression	Gene expression	EDAM.TOPIC:0203	http://edamontology.org/topic_0203	0.997	None	good
+1493	http://ccb.hms.harvard.edu/t2t/REv6zU8yeAH	Gastrointestinal Tract	Gastroenterology	EDAM.TOPIC:3409	http://edamontology.org/topic_3409	0.344	None	ok
+1462	http://ccb.hms.harvard.edu/t2t/RHeQYkQ9YE9	Fungal Proteins	Proteins	EDAM.TOPIC:0078	http://edamontology.org/topic_0078	0.528	None	ok
+500	http://ccb.hms.harvard.edu/t2t/R7BrST9rWrY	Fungal	Fungi	EDAM.TOPIC:0782	http://edamontology.org/topic_0782	0.559	None	good
+1453	http://ccb.hms.harvard.edu/t2t/R5WYiQUULhy	Follicular	Molecular modelling	EDAM.TOPIC:2275	http://edamontology.org/topic_2275	0.352	None	bad
+886	http://ccb.hms.harvard.edu/t2t/RFGynqdYe5j	Fluorocarbons	Carbon cycle	EDAM.TOPIC:4020	http://edamontology.org/topic_4020	0.399	None	bad
+241	http://ccb.hms.harvard.edu/t2t/RKxojxSR882	Fatty Acids	Nucleic acids	EDAM.TOPIC:0077	http://edamontology.org/topic_0077	0.454	None	bad
+238	http://ccb.hms.harvard.edu/t2t/R9FKc3mq8cH	Exocytosis	Exome sequencing	EDAM.TOPIC:3676	http://edamontology.org/topic_3676	0.357	None	bad
+749	http://ccb.hms.harvard.edu/t2t/RKpejpQHLtr	Evolution	Evolutionary biology	EDAM.TOPIC:3299	http://edamontology.org/topic_3299	0.992	None	good
+834	http://ccb.hms.harvard.edu/t2t/RCwcuRw6dcN	Eukaryotic Initiation Factors	Eukaryotes	EDAM.TOPIC:2818	http://edamontology.org/topic_2818	0.589	None	ok
+860	http://ccb.hms.harvard.edu/t2t/RFLGcveKXAD	Eukaryotic	Eukaryotes	EDAM.TOPIC:2818	http://edamontology.org/topic_2818	0.843	None	good
+1405	http://ccb.hms.harvard.edu/t2t/RKLbJoczKzg	Escherichia coli Proteins	Proteins	EDAM.TOPIC:0078	http://edamontology.org/topic_0078	0.384	None	ok
+591	http://ccb.hms.harvard.edu/t2t/RE9u6TbQToD	Epigenomics	Epigenomics	EDAM.TOPIC:3173	http://edamontology.org/topic_3173	0.991	None	good
+535	http://ccb.hms.harvard.edu/t2t/R6xnydZMGD7	Epigenesis	Epigenetics	EDAM.TOPIC:3295	http://edamontology.org/topic_3295	0.673	None	ok
+418	http://ccb.hms.harvard.edu/t2t/R53HA26hx8M	Environmental Monitoring	Environmental sciences	EDAM.TOPIC:3855	http://edamontology.org/topic_3855	0.642	None	good
+880	http://ccb.hms.harvard.edu/t2t/R5dw8qXp3XW	Environmental Exposure	Environmental sciences	EDAM.TOPIC:3855	http://edamontology.org/topic_3855	0.627	None	good
+497	http://ccb.hms.harvard.edu/t2t/R6KAwt6QNFm	Energy Metabolism	Drug metabolism	EDAM.TOPIC:3375	http://edamontology.org/topic_3375	0.619	None	bad
+1370	http://ccb.hms.harvard.edu/t2t/RKFUs8Q3Jgq	Embryonic Stem Cells	Embryology	EDAM.TOPIC:3065	http://edamontology.org/topic_3065	0.465	None	ok
+729	http://ccb.hms.harvard.edu/t2t/RJgqHpVHUGv	Embryonic Development	Drug development	EDAM.TOPIC:3373	http://edamontology.org/topic_3373	0.622	None	bad
+1016	http://ccb.hms.harvard.edu/t2t/RKHvYnxZ2kT	Electrophoresis	Two-dimensional gel electrophoresis	EDAM.TOPIC:0133	http://edamontology.org/topic_0133	0.637	None	ok
+156	http://ccb.hms.harvard.edu/t2t/RAnzffvPsZ9	Drosophila Proteins	Proteins	EDAM.TOPIC:0078	http://edamontology.org/topic_0078	0.448	None	ok
+188	http://ccb.hms.harvard.edu/t2t/R9gpLJaQeoU	Down-Regulation	Gene regulation	EDAM.TOPIC:0204	http://edamontology.org/topic_0204	0.635	None	ok
+1268	http://ccb.hms.harvard.edu/t2t/RAPcz9LhfMD	Disease-Free Survival	Pathology	EDAM.TOPIC:0634	http://edamontology.org/topic_0634	0.526	None	ok
+379	http://ccb.hms.harvard.edu/t2t/R9q8nweNox8	Disease Models	Pathology	EDAM.TOPIC:0634	http://edamontology.org/topic_0634	0.707	None	ok
+706	http://ccb.hms.harvard.edu/t2t/RJ9wXP6bzg8	Developmental	Developmental biology	EDAM.TOPIC:3064	http://edamontology.org/topic_3064	0.864	None	good
+1503	http://ccb.hms.harvard.edu/t2t/RKueyyyYBZG	Densitometry	Cytometry	EDAM.TOPIC:3934	http://edamontology.org/topic_3934	0.489	None	bad
+153	http://ccb.hms.harvard.edu/t2t/R8KVvLKSyn7	DNA-Binding Proteins	DNA binding sites	EDAM.TOPIC:3125	http://edamontology.org/topic_3125	0.694	None	ok
+1580	http://ccb.hms.harvard.edu/t2t/R4EkGskkHJ4	DNA Replication Timing	DNA replication and recombination	EDAM.TOPIC:3127	http://edamontology.org/topic_3127	0.591	None	ok
+604	http://ccb.hms.harvard.edu/t2t/R3ETkRaM8KD	DNA Mutational Analysis	DNA	EDAM.TOPIC:0654	http://edamontology.org/topic_0654	0.759	None	bad
+532	http://ccb.hms.harvard.edu/t2t/RHUqL7Q5rPP	DNA Methylation	DNA methylation	EDAM.TOPIC:3171	http://edamontology.org/topic_3171	0.995	None	good
+917	http://ccb.hms.harvard.edu/t2t/R3uPM38jqWt	DNA (Cytosine-5-)-Methyltransferases	DNA methylation	EDAM.TOPIC:3171	http://edamontology.org/topic_3171	0.441	None	ok
+1574	http://ccb.hms.harvard.edu/t2t/RWhjsZkVrdp	DNA (Cytosine-5-)-Methyltransferase 1	DNA methylation	EDAM.TOPIC:3171	http://edamontology.org/topic_3171	0.437	None	ok
+1318	http://ccb.hms.harvard.edu/t2t/R3CAy9tiggU	Cytoskeletal Proteins	Musculoskeletal medicine	EDAM.TOPIC:3416	http://edamontology.org/topic_3416	0.461	None	ok
+1500	http://ccb.hms.harvard.edu/t2t/R5PfonFspef	Cytoplasm	Cytometry	EDAM.TOPIC:3934	http://edamontology.org/topic_3934	0.435	None	bad
+77	http://ccb.hms.harvard.edu/t2t/RELrgvmFNak	Cultured	Cell culture collection	EDAM.TOPIC:3340	http://edamontology.org/topic_3340	0.503	None	bad
+828	http://ccb.hms.harvard.edu/t2t/RJ8zJ6hGdek	Crystallography	X-ray diffraction	EDAM.TOPIC:2828	http://edamontology.org/topic_2828	0.993	None	good
+1013	http://ccb.hms.harvard.edu/t2t/R6wkrXbbX2y	Cross Infection	Infectious disease	EDAM.TOPIC:3324	http://edamontology.org/topic_3324	0.404	None	ok
+1276	http://ccb.hms.harvard.edu/t2t/R5rhcxwFfL2	Cricetulus	Rice	EDAM.TOPIC:0787	http://edamontology.org/topic_0787	0.331	None	bad
+1275	http://ccb.hms.harvard.edu/t2t/RFwgcVUSzMT	Cricetinae	Rice	EDAM.TOPIC:0787	http://edamontology.org/topic_0787	0.358	None	bad
+530	http://ccb.hms.harvard.edu/t2t/R93yBv33FCV	CpG Islands	CpG island and isochores	EDAM.TOPIC:1304	http://edamontology.org/topic_1304	0.679	None	ok
+1520	http://ccb.hms.harvard.edu/t2t/R4FdSeX8Ryw	Coronary Artery Disease	Pathology	EDAM.TOPIC:0634	http://edamontology.org/topic_0634	0.501	None	ok
+960	http://ccb.hms.harvard.edu/t2t/R6W4dybDaiU	Computational Biology	Computational biology	EDAM.TOPIC:3307	http://edamontology.org/topic_3307	0.994	None	good
+966	http://ccb.hms.harvard.edu/t2t/R6WjJLFe86o	Complementary	Complementary medicine	EDAM.TOPIC:3423	http://edamontology.org/topic_3423	0.799	None	ok
+1621	http://ccb.hms.harvard.edu/t2t/RBeTsWTgzZm	Collecting	Data acquisition	EDAM.TOPIC:3077	http://edamontology.org/topic_3077	0.756	None	good
+788	http://ccb.hms.harvard.edu/t2t/R35it4eHaEE	Cohort Studies	Experimental design and studies	EDAM.TOPIC:3678	http://edamontology.org/topic_3678	0.713	None	good
+109	http://ccb.hms.harvard.edu/t2t/RAE2jfcZDx7	Coculture Techniques	Laboratory techniques	EDAM.TOPIC:3361	http://edamontology.org/topic_3361	0.613	None	good
+1490	http://ccb.hms.harvard.edu/t2t/R7sSx6YnjrH	Clostridium Infections	Infectious disease	EDAM.TOPIC:3324	http://edamontology.org/topic_3324	0.304	None	good
+1047	http://ccb.hms.harvard.edu/t2t/RKd4oNCMiMa	Chronic Disease	Pathology	EDAM.TOPIC:0634	http://edamontology.org/topic_0634	0.716	None	good
+595	http://ccb.hms.harvard.edu/t2t/R6E4jqbaGkV	Chromosomes	Chromosomes	EDAM.TOPIC:0624	http://edamontology.org/topic_0624	0.997	None	good
+1247	http://ccb.hms.harvard.edu/t2t/R6JU8EQ5vQA	Chromosomal Proteins	Chromosomes	EDAM.TOPIC:0624	http://edamontology.org/topic_0624	0.666	None	ok
+664	http://ccb.hms.harvard.edu/t2t/R3CWajCbmDW	Chromatin Immunoprecipitation	Immunoprecipitation experiment	EDAM.TOPIC:3656	http://edamontology.org/topic_3656	0.988	None	good
+661	http://ccb.hms.harvard.edu/t2t/RCySoBHoZtJ	Chromatin	Immunoprecipitation experiment	EDAM.TOPIC:3656	http://edamontology.org/topic_3656	0.532	None	ok
+1234	http://ccb.hms.harvard.edu/t2t/RCLV3s3WG86	Chemokines	Chemometrics	EDAM.TOPIC:3931	http://edamontology.org/topic_3931	0.37	None	ok
+1586	http://ccb.hms.harvard.edu/t2t/R4gYPn46PkA	Chemistry	Chemistry	EDAM.TOPIC:3314	http://edamontology.org/topic_3314	0.994	None	good
+1583	http://ccb.hms.harvard.edu/t2t/R7Y3rxcmCNs	Chemical Phenomena	Phenomics	EDAM.TOPIC:3298	http://edamontology.org/topic_3298	0.543	None	ok
+1231	http://ccb.hms.harvard.edu/t2t/RFREwoZPsgY	Cellular Microenvironment	Microbial ecology	EDAM.TOPIC:3697	http://edamontology.org/topic_3697	0.571	None	bad
+1116	http://ccb.hms.harvard.edu/t2t/RGibJ7bhxxB	Cellular	Cellular process pathways	EDAM.TOPIC:3527	http://edamontology.org/topic_3527	0.63	None	ok
+103	http://ccb.hms.harvard.edu/t2t/RJugqVvWp9f	Cell Nucleus	Cell cycle	EDAM.TOPIC:0612	http://edamontology.org/topic_0612	0.382	None	bad
+342	http://ccb.hms.harvard.edu/t2t/R8EULpagwNU	Cell Cycle Checkpoints	Cell cycle	EDAM.TOPIC:0612	http://edamontology.org/topic_0612	0.594	None	ok
+723	http://ccb.hms.harvard.edu/t2t/R529VWpT74n	Cell Cycle	Cell cycle	EDAM.TOPIC:0612	http://edamontology.org/topic_0612	0.98	None	good
+1228	http://ccb.hms.harvard.edu/t2t/RvP7etMcvKc	Cell Adhesion Molecules	Molecules	EDAM.TOPIC:2839	http://edamontology.org/topic_2839	0.692	None	ok
+1335	http://ccb.hms.harvard.edu/t2t/RBioEVCu6Nm	Cations	Protein modifications	EDAM.TOPIC:0601	http://edamontology.org/topic_0601	0.469	None	bad
+179	http://ccb.hms.harvard.edu/t2t/RBRZYiCFUDM	Carrier Proteins	Proteins	EDAM.TOPIC:0078	http://edamontology.org/topic_0078	0.496	None	ok
+584	http://ccb.hms.harvard.edu/t2t/RGEAZkWN59y	Carcinogens	Pathogens	EDAM.TOPIC:0783	http://edamontology.org/topic_0783	0.303	None	bad
+1305	http://ccb.hms.harvard.edu/t2t/RGo9aas2TWe	Calmodulin-Binding Proteins	Protein binding sites	EDAM.TOPIC:3534	http://edamontology.org/topic_3534	0.531	None	ok
+1332	http://ccb.hms.harvard.edu/t2t/R5bj6GFw3K6	Calcium Signaling	Signaling pathways	EDAM.TOPIC:0754	http://edamontology.org/topic_0754	0.461	None	ok
+1102	http://ccb.hms.harvard.edu/t2t/R53HzVVTqwF	CD11 Antigens	Immunoproteins and antigens	EDAM.TOPIC:2830	http://edamontology.org/topic_2830	0.442	None	ok
+1430	http://ccb.hms.harvard.edu/t2t/RBMbTP8wcFk	Butterflies	Flies	EDAM.TOPIC:0211	http://edamontology.org/topic_0211	0.505	None	bad
+1166	http://ccb.hms.harvard.edu/t2t/RKiXh5miMYV	Bone Morphogenetic Proteins	Proteins	EDAM.TOPIC:0078	http://edamontology.org/topic_0078	0.406	None	ok
+1184	http://ccb.hms.harvard.edu/t2t/RBVZdk7rvXc	Biomarkers	Biomarkers	EDAM.TOPIC:3360	http://edamontology.org/topic_3360	0.992	None	good
+150	http://ccb.hms.harvard.edu/t2t/RCecYXLFXr3	Binding Sites	Protein binding sites	EDAM.TOPIC:3534	http://edamontology.org/topic_3534	0.877	None	good
+765	http://ccb.hms.harvard.edu/t2t/RKaQjhnPo9q	Bacterial Typing Techniques	Laboratory techniques	EDAM.TOPIC:3361	http://edamontology.org/topic_3361	0.56	None	ok
+904	http://ccb.hms.harvard.edu/t2t/R9hUk52gTg8	Bacterial Proteins	Proteins	EDAM.TOPIC:0078	http://edamontology.org/topic_0078	0.547	None	ok
+1402	http://ccb.hms.harvard.edu/t2t/RKSe9AYJ66y	Bacterial Outer Membrane Proteins	Protein membrane regions	EDAM.TOPIC:1456	http://edamontology.org/topic_1456	0.521	None	good
+1347	http://ccb.hms.harvard.edu/t2t/RD4HXKpWxVY	Autocrine Communication	Infectious disease	EDAM.TOPIC:3324	http://edamontology.org/topic_3324	0.395	None	bad
+33	http://ccb.hms.harvard.edu/t2t/RDtCDbrnxGj	Arabidopsis Proteins	Arabidopsis	EDAM.TOPIC:0786	http://edamontology.org/topic_0786	0.893	None	ok
+27	http://ccb.hms.harvard.edu/t2t/RE2ifbQmdDo	Arabidopsis	Arabidopsis	EDAM.TOPIC:0786	http://edamontology.org/topic_0786	0.997	None	good
+475	http://ccb.hms.harvard.edu/t2t/RJykFxmLeqb	Antineoplastic Agents	Plant biology	EDAM.TOPIC:0780	http://edamontology.org/topic_0780	0.374	None	bad
+1602	http://ccb.hms.harvard.edu/t2t/RAiekW22g3e	Antimetabolites	Metabolites	EDAM.TOPIC:0079	http://edamontology.org/topic_0079	0.791	None	ok
+808	http://ccb.hms.harvard.edu/t2t/RHFFyBmschH	Antigens	Immunoproteins and antigens	EDAM.TOPIC:2830	http://edamontology.org/topic_2830	0.613	None	ok
+71	http://ccb.hms.harvard.edu/t2t/R4MLQRAwzCP	Animals	Zoology	EDAM.TOPIC:3500	http://edamontology.org/topic_3500	0.982	None	good
+1432	http://ccb.hms.harvard.edu/t2t/RKjbDkf8Z83	Animal Feed	Zoology	EDAM.TOPIC:3500	http://edamontology.org/topic_3500	0.733	None	ok
+382	http://ccb.hms.harvard.edu/t2t/R3TdciNHKiD	Animal	Zoology	EDAM.TOPIC:3500	http://edamontology.org/topic_3500	0.991	None	good
+521	http://ccb.hms.harvard.edu/t2t/RFHVVfJKKNX	Androgens	Pathogens	EDAM.TOPIC:0783	http://edamontology.org/topic_0783	0.345	None	bad
+940	http://ccb.hms.harvard.edu/t2t/R6FLMhccvYi	Alternative Splicing	RNA splicing	EDAM.TOPIC:3320	http://edamontology.org/topic_3320	0.995	None	good
+1100	http://ccb.hms.harvard.edu/t2t/RHcroqNEBRN	Allografts	X-ray diffraction	EDAM.TOPIC:2828	http://edamontology.org/topic_2828	0.382	None	bad
+877	http://ccb.hms.harvard.edu/t2t/R8yADWjfCVz	Alkanesulfonic Acids	Nucleic acids	EDAM.TOPIC:0077	http://edamontology.org/topic_0077	0.353	None	bad
+875	http://ccb.hms.harvard.edu/t2t/RD5pZzn8vhy	Adolescent	Scents	EDAM.TOPIC:0618	http://edamontology.org/topic_0618	0.391	None	bad
+1480	http://ccb.hms.harvard.edu/t2t/RA5REf8cT38	Adenosine Diphosphate	Phosphorylation sites	EDAM.TOPIC:0751	http://edamontology.org/topic_0751	0.318	None	bad
+323	http://ccb.hms.harvard.edu/t2t/R4LhSAEQWGp	Adaptor Proteins	Proteins	EDAM.TOPIC:0078	http://edamontology.org/topic_0078	0.527	None	ok
+607	http://ccb.hms.harvard.edu/t2t/RGKNXfLvBBp	Acute	Critical care medicine	EDAM.TOPIC:3403	http://edamontology.org/topic_3403	0.732	None	ok
+996	http://ccb.hms.harvard.edu/t2t/R3hXeo43F78	Acinetobacter Infections	Infectious disease	EDAM.TOPIC:3324	http://edamontology.org/topic_3324	0.312	None	good
+1244	http://ccb.hms.harvard.edu/t2t/RDxW7xL82FY	 Transcriptome	RNA-Seq	EDAM.TOPIC:3170	http://edamontology.org/topic_3170	0.817	None	ok
+782	http://ccb.hms.harvard.edu/t2t/RHuKz3ZgaV4	 Soil Microbiology	Microbiology	EDAM.TOPIC:3301	http://edamontology.org/topic_3301	0.806	None	good
+524	http://ccb.hms.harvard.edu/t2t/RDZVM8nsSEi	 Proteomics	Proteomics	EDAM.TOPIC:0121	http://edamontology.org/topic_0121	0.994	None	good
+697	http://ccb.hms.harvard.edu/t2t/RBk6JFWdDFZ	 Proteome	Proteome	EDAM.TOPIC:0644	http://edamontology.org/topic_0644	0.991	None	good
+1420	http://ccb.hms.harvard.edu/t2t/RKSzPVUapZn	 Proteolysis	Protein cleavage sites and proteolysis	EDAM.TOPIC:0141	http://edamontology.org/topic_0141	0.646	None	good
+837	http://ccb.hms.harvard.edu/t2t/R9P7vdaHqo8	 Protein Biosynthesis	Synthetic biology	EDAM.TOPIC:3895	http://edamontology.org/topic_3895	0.453	None	bad
+777	http://ccb.hms.harvard.edu/t2t/RErQZ9ozfvF	 Phylogeny	Phylogeny	EDAM.TOPIC:0084	http://edamontology.org/topic_0084	0.987	None	good
+356	http://ccb.hms.harvard.edu/t2t/RCKzcB26BiT	 Oncogenes	Oncology	EDAM.TOPIC:2640	http://edamontology.org/topic_2640	0.478	None	good
+1050	http://ccb.hms.harvard.edu/t2t/RHRJDHQ5iuV	 Microbiota	Microbiology	EDAM.TOPIC:3301	http://edamontology.org/topic_3301	0.615	None	good
+1465	http://ccb.hms.harvard.edu/t2t/RJFUjcPN8bz	 Metabolic Networks and Pathways	Metabolic pathways	EDAM.TOPIC:0753	http://edamontology.org/topic_0753	0.786	None	good
+1034	http://ccb.hms.harvard.edu/t2t/RATSEZcKGcT	 Indicator Dilution Techniques	Laboratory techniques	EDAM.TOPIC:3361	http://edamontology.org/topic_3361	0.533	None	good
+1474	http://ccb.hms.harvard.edu/t2t/RE2BFQAJC9S	 Immunotherapy	"Allergy, clinical immunology and immunotherapeutics"	EDAM.TOPIC:3400	http://edamontology.org/topic_3400	0.565	None	good
+811	http://ccb.hms.harvard.edu/t2t/R4uF9sp93eW	 Immune Tolerance	Immunogenetics	EDAM.TOPIC:3930	http://edamontology.org/topic_3930	0.393	None	ok
+1383	http://ccb.hms.harvard.edu/t2t/RKxcftcBUL7	 Hematopoiesis	Mathematics	EDAM.TOPIC:3315	http://edamontology.org/topic_3315	0.314	None	bad
+910	http://ccb.hms.harvard.edu/t2t/R6EY489G4J4	 Genetic Variation	Genetic variation	EDAM.TOPIC:0199	http://edamontology.org/topic_0199	0.995	None	good
+1561	http://ccb.hms.harvard.edu/t2t/RFmN5rcdQkP	 Gene Expression	Gene expression	EDAM.TOPIC:0203	http://edamontology.org/topic_0203	0.997	None	good
+920	http://ccb.hms.harvard.edu/t2t/R7fyQiZy3Mn	 DNA Replication	DNA replication and recombination	EDAM.TOPIC:3127	http://edamontology.org/topic_3127	0.739	None	good
+1577	http://ccb.hms.harvard.edu/t2t/R5CTPtzqDfE	 DNA Methylation	DNA methylation	EDAM.TOPIC:3171	http://edamontology.org/topic_3171	0.995	None	good
+472	http://ccb.hms.harvard.edu/t2t/R6HtqgnjfRT	 Alternative Splicing	RNA splicing	EDAM.TOPIC:3320	http://edamontology.org/topic_3320	0.995	None	good
+1280	http://ccb.hms.harvard.edu/t2t/R8ztkBHAUiw	 Allosteric Regulation	Gene regulation	EDAM.TOPIC:0204	http://edamontology.org/topic_0204	0.56	None	ok
+405	http://ccb.hms.harvard.edu/t2t/RBSmDqmscW2	 Agriculture	Agricultural science	EDAM.TOPIC:3810	http://edamontology.org/topic_3810	0.717	None	good

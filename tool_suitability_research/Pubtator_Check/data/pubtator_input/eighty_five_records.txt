@@ -1,0 +1,20 @@
+OMICSDI_PRJNA13120|t|Mycoplasma hyopneumoniae 232
+OMICSDI_PRJNA13120|a|The causative agent of swine mycoplasmosis.
+OMICSDI_PRJNA13401|t|Spiroplasma citri
+OMICSDI_PRJNA13401|a|The causative agent of Citrus Stubborn Disease
+OMICSDI_PRJNA17685|t|Yersinia pestis biovar Antiqua str. B42003004
+OMICSDI_PRJNA17685|a|Antiqua biovar of the causative agent of plague
+OMICSDI_PRJNA17681|t|Yersinia pestis biovar Orientalis str. F1991016
+OMICSDI_PRJNA17681|a|Orientalis biovar of the causative agent of plague
+OMICSDI_PRJNA17691|t|Yersinia pestis biovar Antiqua str. UG05-0454
+OMICSDI_PRJNA17691|a|Antiqua biovar of the causative agent of plague
+OMICSDI_PRJNA17689|t|Yersinia pestis biovar Orientalis str. MG05-1020
+OMICSDI_PRJNA17689|a|Orientalis biovar of the causative agent of plague
+NCBI_SRA_ERP108144|t|Human endocarditis
+NCBI_SRA_ERP108144|a|Identification of the causative agent of infectious endocarditis
+NCBI_SRA_SRP156595|t|Sequencing approaches to identify source attribution of melioidosis cases.
+NCBI_SRA_SRP156595|a|Genome sequencing of B.pseudomallei, the causative agent of melioidosis.
+OMICSDI_PRJNA9563|t|Glossina morsitans
+OMICSDI_PRJNA9563|a|Tsetse flies transmit Trypanosoma brucei, the causative agent of African sleeping sickness
+NCBI_SRA_SRP325250|t|Erwinia amylovora strain:LMG 1893 Genome sequencing and assembly
+NCBI_SRA_SRP325250|a|Sequencing of a strain of E. amylovora, the causative agent of fireblight.

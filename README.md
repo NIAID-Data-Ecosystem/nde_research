@@ -10,3 +10,4 @@ Contributors, please organize your code and data before contributing to this rep
 * [gpt_topic_evaluation](https://github.com/NIAID-Data-Ecosystem/nde_research/tree/main/gpt_topic_evaluation/): The repos contained here include different ways of evaluating the topic category values including:
   * interrater evaluation of topic categories based on the conceptual similarity metric
   * investigations of bias (for example, the tendency to overuse 'Human biology') in order to generate heuristics for improving the quality of the topicCategory augmentation
+* [metadata_completeness_score](https://github.com/NIAID-Data-Ecosystem/nde_research/tree/main/metadata_completeness_score): The repos contained here include research on applying the metadata completeness score to the search rankings

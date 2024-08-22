@@ -1,0 +1,26 @@
+search term	scope	domain
+influenza	very broad	Infectious Disease
+long covid	broad	Infectious Disease
+malaria therapeutics	very specific	Infectious Disease
+asthma	very broad	Allergy
+naegleria fowleri infection	very specific	Infectious Disease
+zika microcephaly	somewhat specific	Infectious Disease
+allergen skin prick test	somewhat specific	Allergy
+allergy treatment	broad	Allergy
+sublingual immunotherapy	very specific	Allergy
+AIDS	very broad	Immunology
+immunotherapeutics	somewhat specific	Immunology
+t-cell function	broad	Immunology
+addison's disease	very specific	Immunology
+cancer	very broad	General Biomedical
+myocardial infarction	broad	General Biomedical
+dendritic cells 	very broad	Cell types
+mast cells	broad	Cell types
+rational cancer drug design	somewhat specific	General Biomedical
+metabolomics	very broad	Experimental techniques
+pinealocyte	very specific	Cell types
+plasmacytoid dendritic cells	somewhat specific	Cell types
+gwas	broad	Experimental techniques
+mycobacterium	very broad	Infectious Disease
+tuberculin skin test	somewhat specific	Experimental techniques
+hiv	very broad	Infectious Disease

@@ -1,0 +1,4001 @@
+combination,search term,result id
+original query,influenza,PRJNA658522
+original query,influenza,PRJNA658529
+original query,influenza,PRJNA658552
+original query,influenza,PRJNA658564
+original query,influenza,PRJNA658562
+original query,influenza,PRJNA658555
+original query,influenza,NCBI_SRA_ERP000316
+original query,influenza,NCBI_SRA_ERP017907
+original query,influenza,PRJNA278105
+original query,influenza,NCBI_SRA_ERP021181
+c1,influenza,PRJNA658522
+c1,influenza,PRJNA658529
+c1,influenza,PRJNA658552
+c1,influenza,PRJNA658564
+c1,influenza,PRJNA658562
+c1,influenza,PRJNA658555
+c1,influenza,S-EPMC3290697
+c1,influenza,S-EPMC2958547
+c1,influenza,NCBI_SRA_ERP000316
+c1,influenza,NCBI_SRA_ERP017907
+c2,influenza,IMMPORT_SDY756
+c2,influenza,S-EPMC3290697
+c2,influenza,PRJNA658522
+c2,influenza,PRJNA658529
+c2,influenza,PRJNA658552
+c2,influenza,S-EPMC2958547
+c2,influenza,PRJNA658564
+c2,influenza,PRJNA658562
+c2,influenza,PRJNA658555
+c2,influenza,IMMPORT_SDY1697
+c3,influenza,IMMPORT_SDY756
+c3,influenza,IMMPORT_SDY1697
+c3,influenza,IMMPORT_SDY618
+c3,influenza,ZENODO_4837559
+c3,influenza,S-EPMC3290697
+c3,influenza,GSE102797
+c3,influenza,S-EPMC2958547
+c3,influenza,GSE13637
+c3,influenza,IMMPORT_SDY1467
+c3,influenza,IMMPORT_SDY1471
+c4,influenza,IMMPORT_SDY756
+c4,influenza,IMMPORT_SDY1697
+c4,influenza,IMMPORT_SDY618
+c4,influenza,GSE102797
+c4,influenza,IMMPORT_SDY1467
+c4,influenza,IMMPORT_SDY1471
+c4,influenza,IMMPORT_SDY1469
+c4,influenza,IMMPORT_SDY1468
+c4,influenza,GSE13637
+c4,influenza,IMMPORT_SDY17
+c5,influenza,IMMPORT_SDY756
+c5,influenza,IMMPORT_SDY1697
+c5,influenza,IMMPORT_SDY618
+c5,influenza,GSE102797
+c5,influenza,IMMPORT_SDY1467
+c5,influenza,IMMPORT_SDY1471
+c5,influenza,IMMPORT_SDY1469
+c5,influenza,IMMPORT_SDY1468
+c5,influenza,IMMPORT_SDY17
+c5,influenza,IMMPORT_SDY350
+c6,influenza,PRJNA658522
+c6,influenza,PRJNA658529
+c6,influenza,PRJNA658552
+c6,influenza,PRJNA658564
+c6,influenza,PRJNA658562
+c6,influenza,PRJNA658555
+c6,influenza,S-EPMC3290697
+c6,influenza,S-EPMC2958547
+c6,influenza,NCBI_SRA_ERP000316
+c6,influenza,NCBI_SRA_ERP017907
+c7,influenza,IMMPORT_SDY756
+c7,influenza,PRJNA658522
+c7,influenza,PRJNA658529
+c7,influenza,PRJNA658552
+c7,influenza,PRJNA658564
+c7,influenza,PRJNA658562
+c7,influenza,S-EPMC3290697
+c7,influenza,PRJNA658555
+c7,influenza,S-EPMC2958547
+c7,influenza,IMMPORT_SDY1697
+c8,influenza,IMMPORT_SDY756
+c8,influenza,IMMPORT_SDY1697
+c8,influenza,ZENODO_4837559
+c8,influenza,S-EPMC3290697
+c8,influenza,IMMPORT_SDY618
+c8,influenza,S-EPMC2958547
+c8,influenza,GSE13637
+c8,influenza,GSE102797
+c8,influenza,ZENODO_4701589
+c8,influenza,ZENODO_4699177
+c9,influenza,IMMPORT_SDY756
+c9,influenza,IMMPORT_SDY1697
+c9,influenza,IMMPORT_SDY618
+c9,influenza,ZENODO_4837559
+c9,influenza,GSE102797
+c9,influenza,IMMPORT_SDY1467
+c9,influenza,IMMPORT_SDY1471
+c9,influenza,IMMPORT_SDY1469
+c9,influenza,IMMPORT_SDY1468
+c9,influenza,IMMPORT_SDY17
+c10,influenza,IMMPORT_SDY756
+c10,influenza,IMMPORT_SDY1697
+c10,influenza,IMMPORT_SDY618
+c10,influenza,IMMPORT_SDY1467
+c10,influenza,IMMPORT_SDY1471
+c10,influenza,IMMPORT_SDY1469
+c10,influenza,IMMPORT_SDY1468
+c10,influenza,GSE102797
+c10,influenza,IMMPORT_SDY17
+c10,influenza,IMMPORT_SDY350
+c11,influenza,PRJNA658522
+c11,influenza,PRJNA658529
+c11,influenza,PRJNA658552
+c11,influenza,PRJNA658564
+c11,influenza,PRJNA658562
+c11,influenza,PRJNA658555
+c11,influenza,S-EPMC3290697
+c11,influenza,NCBI_SRA_ERP000316
+c11,influenza,NCBI_SRA_ERP017907
+c11,influenza,S-EPMC2958547
+c12,influenza,IMMPORT_SDY756
+c12,influenza,PRJNA658522
+c12,influenza,PRJNA658529
+c12,influenza,PRJNA658552
+c12,influenza,PRJNA658564
+c12,influenza,PRJNA658562
+c12,influenza,PRJNA658555
+c12,influenza,S-EPMC3290697
+c12,influenza,ZENODO_4837559
+c12,influenza,S-EPMC2958547
+c13,influenza,IMMPORT_SDY756
+c13,influenza,IMMPORT_SDY1697
+c13,influenza,ZENODO_4837559
+c13,influenza,S-EPMC3290697
+c13,influenza,S-EPMC2958547
+c13,influenza,ZENODO_4701589
+c13,influenza,ZENODO_4699177
+c13,influenza,PRJNA658522
+c13,influenza,PRJNA658529
+c13,influenza,PRJNA658552
+c14,influenza,IMMPORT_SDY756
+c14,influenza,IMMPORT_SDY1697
+c14,influenza,ZENODO_4837559
+c14,influenza,IMMPORT_SDY618
+c14,influenza,IMMPORT_SDY1467
+c14,influenza,IMMPORT_SDY1471
+c14,influenza,IMMPORT_SDY1469
+c14,influenza,IMMPORT_SDY1468
+c14,influenza,DRYAD_doi.org:10.5061:dryad.cv37539
+c14,influenza,Dataverse_10.7910_DVN_2PUGFZ
+c15,influenza,IMMPORT_SDY756
+c15,influenza,IMMPORT_SDY1697
+c15,influenza,IMMPORT_SDY618
+c15,influenza,ZENODO_4837559
+c15,influenza,IMMPORT_SDY1467
+c15,influenza,IMMPORT_SDY1471
+c15,influenza,IMMPORT_SDY1469
+c15,influenza,IMMPORT_SDY1468
+c15,influenza,IMMPORT_SDY17
+c15,influenza,IMMPORT_SDY350
+original query,malaria therapeutics,S-EPMC7382078
+original query,malaria therapeutics,S-EPMC4759581
+original query,malaria therapeutics,S-EPMC6168423
+original query,malaria therapeutics,S-EPMC4852283
+original query,malaria therapeutics,S-EPMC4890880
+original query,malaria therapeutics,S-EPMC6682681
+original query,malaria therapeutics,S-EPMC3152530
+original query,malaria therapeutics,GSE77499
+original query,malaria therapeutics,S-EPMC7466127
+original query,malaria therapeutics,S-EPMC7235171
+c1,malaria therapeutics,S-EPMC7382078
+c1,malaria therapeutics,S-EPMC4759581
+c1,malaria therapeutics,S-EPMC6168423
+c1,malaria therapeutics,S-EPMC4852283
+c1,malaria therapeutics,GSE77499
+c1,malaria therapeutics,S-EPMC6682681
+c1,malaria therapeutics,S-EPMC3152530
+c1,malaria therapeutics,S-EPMC4890880
+c1,malaria therapeutics,S-EPMC7235171
+c1,malaria therapeutics,S-EPMC3574796
+c2,malaria therapeutics,S-EPMC7382078
+c2,malaria therapeutics,S-EPMC4759581
+c2,malaria therapeutics,S-EPMC6168423
+c2,malaria therapeutics,GSE77499
+c2,malaria therapeutics,S-EPMC4852283
+c2,malaria therapeutics,S-EPMC6682681
+c2,malaria therapeutics,S-EPMC3152530
+c2,malaria therapeutics,S-EPMC4890880
+c2,malaria therapeutics,S-EPMC7235171
+c2,malaria therapeutics,S-EPMC3574796
+c3,malaria therapeutics,S-EPMC7382078
+c3,malaria therapeutics,GSE77499
+c3,malaria therapeutics,S-EPMC4759581
+c3,malaria therapeutics,S-EPMC6168423
+c3,malaria therapeutics,S-EPMC4852283
+c3,malaria therapeutics,S-EPMC6682681
+c3,malaria therapeutics,S-EPMC3152530
+c3,malaria therapeutics,S-EPMC4890880
+c3,malaria therapeutics,S-EPMC7235171
+c3,malaria therapeutics,S-EPMC3574796
+c4,malaria therapeutics,S-EPMC7382078
+c4,malaria therapeutics,GSE77499
+c4,malaria therapeutics,S-EPMC4759581
+c4,malaria therapeutics,S-EPMC6168423
+c4,malaria therapeutics,S-EPMC4852283
+c4,malaria therapeutics,S-EPMC6682681
+c4,malaria therapeutics,S-EPMC3152530
+c4,malaria therapeutics,GSE67184
+c4,malaria therapeutics,S-EPMC7235171
+c4,malaria therapeutics,S-EPMC3574796
+c5,malaria therapeutics,GSE77499
+c5,malaria therapeutics,S-EPMC7382078
+c5,malaria therapeutics,GSE67184
+c5,malaria therapeutics,S-EPMC4759581
+c5,malaria therapeutics,S-EPMC6168423
+c5,malaria therapeutics,S-EPMC4852283
+c5,malaria therapeutics,S-EPMC6682681
+c5,malaria therapeutics,S-EPMC3152530
+c5,malaria therapeutics,GSE67470
+c5,malaria therapeutics,S-EPMC7235171
+c6,malaria therapeutics,S-EPMC7382078
+c6,malaria therapeutics,S-EPMC4759581
+c6,malaria therapeutics,S-EPMC6168423
+c6,malaria therapeutics,S-EPMC4852283
+c6,malaria therapeutics,S-EPMC6682681
+c6,malaria therapeutics,GSE77499
+c6,malaria therapeutics,S-EPMC3152530
+c6,malaria therapeutics,S-EPMC4890880
+c6,malaria therapeutics,S-EPMC7235171
+c6,malaria therapeutics,S-EPMC3574796
+c7,malaria therapeutics,S-EPMC7382078
+c7,malaria therapeutics,S-EPMC4759581
+c7,malaria therapeutics,S-EPMC6168423
+c7,malaria therapeutics,GSE77499
+c7,malaria therapeutics,S-EPMC4852283
+c7,malaria therapeutics,S-EPMC6682681
+c7,malaria therapeutics,S-EPMC3152530
+c7,malaria therapeutics,S-EPMC4890880
+c7,malaria therapeutics,S-EPMC7235171
+c7,malaria therapeutics,S-EPMC3574796
+c8,malaria therapeutics,S-EPMC7382078
+c8,malaria therapeutics,S-EPMC4759581
+c8,malaria therapeutics,S-EPMC6168423
+c8,malaria therapeutics,GSE77499
+c8,malaria therapeutics,S-EPMC4852283
+c8,malaria therapeutics,S-EPMC6682681
+c8,malaria therapeutics,S-EPMC3152530
+c8,malaria therapeutics,S-EPMC4890880
+c8,malaria therapeutics,S-EPMC7235171
+c8,malaria therapeutics,S-EPMC3574796
+c9,malaria therapeutics,S-EPMC7382078
+c9,malaria therapeutics,GSE77499
+c9,malaria therapeutics,S-EPMC4759581
+c9,malaria therapeutics,S-EPMC6168423
+c9,malaria therapeutics,S-EPMC4852283
+c9,malaria therapeutics,S-EPMC6682681
+c9,malaria therapeutics,S-EPMC3152530
+c9,malaria therapeutics,S-EPMC7235171
+c9,malaria therapeutics,S-EPMC3574796
+c9,malaria therapeutics,S-EPMC4890880
+c10,malaria therapeutics,GSE77499
+c10,malaria therapeutics,S-EPMC7382078
+c10,malaria therapeutics,S-EPMC4759581
+c10,malaria therapeutics,S-EPMC6168423
+c10,malaria therapeutics,GSE67184
+c10,malaria therapeutics,S-EPMC4852283
+c10,malaria therapeutics,S-EPMC6682681
+c10,malaria therapeutics,S-EPMC3152530
+c10,malaria therapeutics,GSE67470
+c10,malaria therapeutics,S-EPMC7235171
+c11,malaria therapeutics,S-EPMC7382078
+c11,malaria therapeutics,S-EPMC4759581
+c11,malaria therapeutics,S-EPMC6168423
+c11,malaria therapeutics,S-EPMC4852283
+c11,malaria therapeutics,S-EPMC6682681
+c11,malaria therapeutics,S-EPMC4890880
+c11,malaria therapeutics,S-EPMC3152530
+c11,malaria therapeutics,GSE77499
+c11,malaria therapeutics,S-EPMC7235171
+c11,malaria therapeutics,S-EPMC3574796
+c12,malaria therapeutics,S-EPMC7382078
+c12,malaria therapeutics,S-EPMC4759581
+c12,malaria therapeutics,S-EPMC6168423
+c12,malaria therapeutics,S-EPMC4852283
+c12,malaria therapeutics,GSE77499
+c12,malaria therapeutics,S-EPMC6682681
+c12,malaria therapeutics,S-EPMC3152530
+c12,malaria therapeutics,S-EPMC4890880
+c12,malaria therapeutics,S-EPMC7235171
+c12,malaria therapeutics,S-EPMC3574796
+c13,malaria therapeutics,S-EPMC7382078
+c13,malaria therapeutics,S-EPMC4759581
+c13,malaria therapeutics,S-EPMC6168423
+c13,malaria therapeutics,GSE77499
+c13,malaria therapeutics,S-EPMC4852283
+c13,malaria therapeutics,S-EPMC6682681
+c13,malaria therapeutics,S-EPMC3152530
+c13,malaria therapeutics,S-EPMC4890880
+c13,malaria therapeutics,S-EPMC7235171
+c13,malaria therapeutics,S-EPMC3574796
+c14,malaria therapeutics,S-EPMC7382078
+c14,malaria therapeutics,GSE77499
+c14,malaria therapeutics,S-EPMC4759581
+c14,malaria therapeutics,S-EPMC6168423
+c14,malaria therapeutics,S-EPMC4852283
+c14,malaria therapeutics,S-EPMC6682681
+c14,malaria therapeutics,S-EPMC3152530
+c14,malaria therapeutics,S-EPMC4890880
+c14,malaria therapeutics,S-EPMC7235171
+c14,malaria therapeutics,S-EPMC3574796
+c15,malaria therapeutics,S-EPMC7382078
+c15,malaria therapeutics,GSE77499
+c15,malaria therapeutics,S-EPMC4759581
+c15,malaria therapeutics,S-EPMC6168423
+c15,malaria therapeutics,S-EPMC4852283
+c15,malaria therapeutics,S-EPMC6682681
+c15,malaria therapeutics,S-EPMC3152530
+c15,malaria therapeutics,GSE67184
+c15,malaria therapeutics,S-EPMC7235171
+c15,malaria therapeutics,S-EPMC3574796
+original query,long covid,ZENODO_4968818
+original query,long covid,ZENODO_8083875
+original query,long covid,ZENODO_7308462
+original query,long covid,Mendeley_syvmvw2k2f
+original query,long covid,Dataverse_10.7910_DVN_N5I10C
+original query,long covid,Mendeley_m5wb4pnf6x
+original query,long covid,ZENODO_8021708
+original query,long covid,Mendeley_8zfdjsypd8
+original query,long covid,S-EPMC7937050
+original query,long covid,ZENODO_7096242
+c1,long covid,ZENODO_4968818
+c1,long covid,ZENODO_8083875
+c1,long covid,ZENODO_7308462
+c1,long covid,Mendeley_syvmvw2k2f
+c1,long covid,Dataverse_10.7910_DVN_N5I10C
+c1,long covid,Mendeley_m5wb4pnf6x
+c1,long covid,Mendeley_8zfdjsypd8
+c1,long covid,ZENODO_8021708
+c1,long covid,ZENODO_7096242
+c1,long covid,S-EPMC7937050
+c2,long covid,ZENODO_4968818
+c2,long covid,Mendeley_syvmvw2k2f
+c2,long covid,ZENODO_7308462
+c2,long covid,ZENODO_8083875
+c2,long covid,Dataverse_10.7910_DVN_N5I10C
+c2,long covid,Mendeley_m5wb4pnf6x
+c2,long covid,Mendeley_8zfdjsypd8
+c2,long covid,ZENODO_8021708
+c2,long covid,ZENODO_7096242
+c2,long covid,NCBI_PMC_PMC10494314
+c3,long covid,Mendeley_syvmvw2k2f
+c3,long covid,ZENODO_4968818
+c3,long covid,ZENODO_7308462
+c3,long covid,ZENODO_8083875
+c3,long covid,Dataverse_10.7910_DVN_N5I10C
+c3,long covid,Mendeley_m5wb4pnf6x
+c3,long covid,Mendeley_8zfdjsypd8
+c3,long covid,NCBI_PMC_PMC10494314
+c3,long covid,DRYAD_doi.org:10.7272:Q6Z60M99
+c3,long covid,ZENODO_8021708
+c4,long covid,Mendeley_syvmvw2k2f
+c4,long covid,Dataverse_10.7910_DVN_N5I10C
+c4,long covid,Mendeley_m5wb4pnf6x
+c4,long covid,ZENODO_4968818
+c4,long covid,Mendeley_8zfdjsypd8
+c4,long covid,NCBI_PMC_PMC10494314
+c4,long covid,DRYAD_doi.org:10.7272:Q6Z60M99
+c4,long covid,ZENODO_7308462
+c4,long covid,ZENODO_8083875
+c4,long covid,Mendeley_k48bgntcg5
+c5,long covid,Mendeley_syvmvw2k2f
+c5,long covid,DRYAD_doi.org:10.7272:Q6Z60M99
+c5,long covid,NCBI_PMC_PMC10494314
+c5,long covid,Dataverse_10.7910_DVN_N5I10C
+c5,long covid,Mendeley_m5wb4pnf6x
+c5,long covid,Mendeley_8zfdjsypd8
+c5,long covid,ZENODO_4968818
+c5,long covid,ZENODO_7308462
+c5,long covid,GSE225942
+c5,long covid,ZENODO_8083875
+c6,long covid,ZENODO_4968818
+c6,long covid,ZENODO_7308462
+c6,long covid,ZENODO_8083875
+c6,long covid,Mendeley_syvmvw2k2f
+c6,long covid,Dataverse_10.7910_DVN_N5I10C
+c6,long covid,Mendeley_m5wb4pnf6x
+c6,long covid,Mendeley_8zfdjsypd8
+c6,long covid,ZENODO_8021708
+c6,long covid,ZENODO_7096242
+c6,long covid,S-EPMC7937050
+c7,long covid,ZENODO_4968818
+c7,long covid,Mendeley_syvmvw2k2f
+c7,long covid,ZENODO_7308462
+c7,long covid,ZENODO_8083875
+c7,long covid,Dataverse_10.7910_DVN_N5I10C
+c7,long covid,Mendeley_m5wb4pnf6x
+c7,long covid,Mendeley_8zfdjsypd8
+c7,long covid,ZENODO_8021708
+c7,long covid,ZENODO_7096242
+c7,long covid,S-EPMC7937050
+c8,long covid,Mendeley_syvmvw2k2f
+c8,long covid,ZENODO_4968818
+c8,long covid,ZENODO_7308462
+c8,long covid,ZENODO_8083875
+c8,long covid,Dataverse_10.7910_DVN_N5I10C
+c8,long covid,Mendeley_m5wb4pnf6x
+c8,long covid,Mendeley_8zfdjsypd8
+c8,long covid,ZENODO_8021708
+c8,long covid,DRYAD_doi.org:10.7272:Q6Z60M99
+c8,long covid,NCBI_PMC_PMC10494314
+c9,long covid,Mendeley_syvmvw2k2f
+c9,long covid,ZENODO_4968818
+c9,long covid,Dataverse_10.7910_DVN_N5I10C
+c9,long covid,ZENODO_7308462
+c9,long covid,Mendeley_m5wb4pnf6x
+c9,long covid,Mendeley_8zfdjsypd8
+c9,long covid,ZENODO_8083875
+c9,long covid,DRYAD_doi.org:10.7272:Q6Z60M99
+c9,long covid,NCBI_PMC_PMC10494314
+c9,long covid,ZENODO_8021708
+c10,long covid,Mendeley_syvmvw2k2f
+c10,long covid,DRYAD_doi.org:10.7272:Q6Z60M99
+c10,long covid,Dataverse_10.7910_DVN_N5I10C
+c10,long covid,Mendeley_m5wb4pnf6x
+c10,long covid,NCBI_PMC_PMC10494314
+c10,long covid,Mendeley_8zfdjsypd8
+c10,long covid,ZENODO_4968818
+c10,long covid,ZENODO_7308462
+c10,long covid,ZENODO_8083875
+c10,long covid,Mendeley_k48bgntcg5
+c11,long covid,ZENODO_4968818
+c11,long covid,ZENODO_7308462
+c11,long covid,ZENODO_8083875
+c11,long covid,Mendeley_syvmvw2k2f
+c11,long covid,Dataverse_10.7910_DVN_N5I10C
+c11,long covid,Mendeley_m5wb4pnf6x
+c11,long covid,ZENODO_8021708
+c11,long covid,Mendeley_8zfdjsypd8
+c11,long covid,ZENODO_7096242
+c11,long covid,S-EPMC7937050
+c12,long covid,ZENODO_4968818
+c12,long covid,ZENODO_7308462
+c12,long covid,Mendeley_syvmvw2k2f
+c12,long covid,ZENODO_8083875
+c12,long covid,Dataverse_10.7910_DVN_N5I10C
+c12,long covid,Mendeley_m5wb4pnf6x
+c12,long covid,Mendeley_8zfdjsypd8
+c12,long covid,ZENODO_8021708
+c12,long covid,ZENODO_7096242
+c12,long covid,S-EPMC7937050
+c13,long covid,ZENODO_4968818
+c13,long covid,ZENODO_7308462
+c13,long covid,Mendeley_syvmvw2k2f
+c13,long covid,ZENODO_8083875
+c13,long covid,Dataverse_10.7910_DVN_N5I10C
+c13,long covid,Mendeley_m5wb4pnf6x
+c13,long covid,Mendeley_8zfdjsypd8
+c13,long covid,ZENODO_8021708
+c13,long covid,ZENODO_7096242
+c13,long covid,DRYAD_doi.org:10.7272:Q6Z60M99
+c14,long covid,ZENODO_7308462
+c14,long covid,ZENODO_4968818
+c14,long covid,Mendeley_syvmvw2k2f
+c14,long covid,Dataverse_10.7910_DVN_N5I10C
+c14,long covid,ZENODO_8083875
+c14,long covid,Mendeley_m5wb4pnf6x
+c14,long covid,Mendeley_8zfdjsypd8
+c14,long covid,ZENODO_8021708
+c14,long covid,DRYAD_doi.org:10.7272:Q6Z60M99
+c14,long covid,ZENODO_7096242
+c15,long covid,ZENODO_7308462
+c15,long covid,Mendeley_syvmvw2k2f
+c15,long covid,ZENODO_4968818
+c15,long covid,Dataverse_10.7910_DVN_N5I10C
+c15,long covid,Mendeley_m5wb4pnf6x
+c15,long covid,DRYAD_doi.org:10.7272:Q6Z60M99
+c15,long covid,Mendeley_8zfdjsypd8
+c15,long covid,ZENODO_8083875
+c15,long covid,ZENODO_7096242
+c15,long covid,ZENODO_8021708
+original query,zika microcephaly,S-EPMC4909533
+original query,zika microcephaly,S-EPMC6892302
+original query,zika microcephaly,S-EPMC5511628
+original query,zika microcephaly,S-EPMC5938792
+original query,zika microcephaly,S-EPMC5578104
+original query,zika microcephaly,PXD012461
+original query,zika microcephaly,S-EPMC4874682
+original query,zika microcephaly,S-EPMC6874261
+original query,zika microcephaly,S-EPMC5547788
+original query,zika microcephaly,S-EPMC6256666
+c1,zika microcephaly,S-EPMC4909533
+c1,zika microcephaly,S-EPMC6892302
+c1,zika microcephaly,S-EPMC5511628
+c1,zika microcephaly,S-EPMC5938792
+c1,zika microcephaly,S-EPMC5578104
+c1,zika microcephaly,PXD012461
+c1,zika microcephaly,S-EPMC4874682
+c1,zika microcephaly,S-EPMC6874261
+c1,zika microcephaly,S-EPMC5547788
+c1,zika microcephaly,S-EPMC6256666
+c2,zika microcephaly,S-EPMC4909533
+c2,zika microcephaly,S-EPMC6892302
+c2,zika microcephaly,S-EPMC5511628
+c2,zika microcephaly,S-EPMC5938792
+c2,zika microcephaly,S-EPMC5578104
+c2,zika microcephaly,PXD012461
+c2,zika microcephaly,S-EPMC4874682
+c2,zika microcephaly,GSE145233
+c2,zika microcephaly,S-EPMC6874261
+c2,zika microcephaly,S-EPMC5547788
+c3,zika microcephaly,S-EPMC4909533
+c3,zika microcephaly,S-EPMC6892302
+c3,zika microcephaly,GSE145233
+c3,zika microcephaly,S-EPMC5511628
+c3,zika microcephaly,S-EPMC5938792
+c3,zika microcephaly,S-EPMC5578104
+c3,zika microcephaly,PXD012461
+c3,zika microcephaly,S-EPMC4874682
+c3,zika microcephaly,S-EPMC6874261
+c3,zika microcephaly,S-EPMC5547788
+c4,zika microcephaly,GSE145233
+c4,zika microcephaly,S-EPMC4909533
+c4,zika microcephaly,S-EPMC6892302
+c4,zika microcephaly,S-EPMC5511628
+c4,zika microcephaly,S-EPMC5938792
+c4,zika microcephaly,PXD012461
+c4,zika microcephaly,S-EPMC5578104
+c4,zika microcephaly,GSE93870
+c4,zika microcephaly,DRYAD_doi.org:10.5061:dryad.327sh
+c4,zika microcephaly,S-EPMC4874682
+c5,zika microcephaly,GSE145233
+c5,zika microcephaly,GSE93870
+c5,zika microcephaly,DRYAD_doi.org:10.5061:dryad.327sh
+c5,zika microcephaly,S-EPMC4909533
+c5,zika microcephaly,S-EPMC6892302
+c5,zika microcephaly,GSE102939
+c5,zika microcephaly,S-EPMC5511628
+c5,zika microcephaly,S-EPMC5938792
+c5,zika microcephaly,PXD014961
+c5,zika microcephaly,PXD012461
+c6,zika microcephaly,S-EPMC4909533
+c6,zika microcephaly,S-EPMC6892302
+c6,zika microcephaly,S-EPMC5511628
+c6,zika microcephaly,S-EPMC5938792
+c6,zika microcephaly,S-EPMC5578104
+c6,zika microcephaly,PXD012461
+c6,zika microcephaly,S-EPMC4874682
+c6,zika microcephaly,S-EPMC6874261
+c6,zika microcephaly,S-EPMC5547788
+c6,zika microcephaly,S-EPMC6256666
+c7,zika microcephaly,S-EPMC4909533
+c7,zika microcephaly,S-EPMC6892302
+c7,zika microcephaly,S-EPMC5511628
+c7,zika microcephaly,S-EPMC5938792
+c7,zika microcephaly,PXD012461
+c7,zika microcephaly,S-EPMC5578104
+c7,zika microcephaly,S-EPMC4874682
+c7,zika microcephaly,GSE145233
+c7,zika microcephaly,S-EPMC6874261
+c7,zika microcephaly,S-EPMC5547788
+c8,zika microcephaly,S-EPMC4909533
+c8,zika microcephaly,S-EPMC6892302
+c8,zika microcephaly,S-EPMC5511628
+c8,zika microcephaly,GSE145233
+c8,zika microcephaly,S-EPMC5938792
+c8,zika microcephaly,PXD012461
+c8,zika microcephaly,S-EPMC5578104
+c8,zika microcephaly,S-EPMC4874682
+c8,zika microcephaly,S-EPMC6874261
+c8,zika microcephaly,S-EPMC5547788
+c9,zika microcephaly,S-EPMC4909533
+c9,zika microcephaly,GSE145233
+c9,zika microcephaly,S-EPMC6892302
+c9,zika microcephaly,S-EPMC5511628
+c9,zika microcephaly,S-EPMC5938792
+c9,zika microcephaly,DRYAD_doi.org:10.5061:dryad.327sh
+c9,zika microcephaly,PXD012461
+c9,zika microcephaly,S-EPMC5578104
+c9,zika microcephaly,S-EPMC4874682
+c9,zika microcephaly,GSE93870
+c10,zika microcephaly,GSE145233
+c10,zika microcephaly,DRYAD_doi.org:10.5061:dryad.327sh
+c10,zika microcephaly,GSE93870
+c10,zika microcephaly,S-EPMC4909533
+c10,zika microcephaly,S-EPMC6892302
+c10,zika microcephaly,S-EPMC5511628
+c10,zika microcephaly,S-EPMC5938792
+c10,zika microcephaly,PXD012461
+c10,zika microcephaly,S-EPMC5578104
+c10,zika microcephaly,PXD014961
+c11,zika microcephaly,S-EPMC4909533
+c11,zika microcephaly,S-EPMC6892302
+c11,zika microcephaly,S-EPMC5511628
+c11,zika microcephaly,S-EPMC5938792
+c11,zika microcephaly,PXD012461
+c11,zika microcephaly,S-EPMC5578104
+c11,zika microcephaly,S-EPMC4874682
+c11,zika microcephaly,S-EPMC6874261
+c11,zika microcephaly,S-EPMC5547788
+c11,zika microcephaly,S-EPMC6256666
+c12,zika microcephaly,S-EPMC4909533
+c12,zika microcephaly,S-EPMC6892302
+c12,zika microcephaly,S-EPMC5511628
+c12,zika microcephaly,S-EPMC5938792
+c12,zika microcephaly,PXD012461
+c12,zika microcephaly,S-EPMC5578104
+c12,zika microcephaly,S-EPMC4874682
+c12,zika microcephaly,GSE145233
+c12,zika microcephaly,S-EPMC6874261
+c12,zika microcephaly,S-EPMC5547788
+c13,zika microcephaly,S-EPMC4909533
+c13,zika microcephaly,S-EPMC6892302
+c13,zika microcephaly,S-EPMC5511628
+c13,zika microcephaly,S-EPMC5938792
+c13,zika microcephaly,PXD012461
+c13,zika microcephaly,GSE145233
+c13,zika microcephaly,S-EPMC5578104
+c13,zika microcephaly,S-EPMC4874682
+c13,zika microcephaly,S-EPMC6874261
+c13,zika microcephaly,S-EPMC5547788
+c14,zika microcephaly,S-EPMC4909533
+c14,zika microcephaly,S-EPMC6892302
+c14,zika microcephaly,GSE145233
+c14,zika microcephaly,DRYAD_doi.org:10.5061:dryad.327sh
+c14,zika microcephaly,S-EPMC5511628
+c14,zika microcephaly,S-EPMC5938792
+c14,zika microcephaly,PXD012461
+c14,zika microcephaly,S-EPMC5578104
+c14,zika microcephaly,S-EPMC4874682
+c14,zika microcephaly,ZENODO_5044544
+c15,zika microcephaly,DRYAD_doi.org:10.5061:dryad.327sh
+c15,zika microcephaly,GSE145233
+c15,zika microcephaly,S-EPMC4909533
+c15,zika microcephaly,S-EPMC6892302
+c15,zika microcephaly,S-EPMC5511628
+c15,zika microcephaly,PXD012461
+c15,zika microcephaly,S-EPMC5938792
+c15,zika microcephaly,ZENODO_5044544
+c15,zika microcephaly,GSE93870
+c15,zika microcephaly,ZENODO_5008681
+original query,naegleria fowleri infection,NCBI_SRA_SRP272510
+original query,naegleria fowleri infection,S-EPMC1233957
+original query,naegleria fowleri infection,S-EPMC3818898
+original query,naegleria fowleri infection,S-EPMC1828997
+original query,naegleria fowleri infection,S-EPMC7085920
+original query,naegleria fowleri infection,S-EPMC3697439
+original query,naegleria fowleri infection,S-EPMC7526813
+original query,naegleria fowleri infection,PXD018807
+original query,naegleria fowleri infection,S-EPMC5483900
+original query,naegleria fowleri infection,S-EPMC7326272
+c1,naegleria fowleri infection,S-EPMC1233957
+c1,naegleria fowleri infection,NCBI_SRA_SRP272510
+c1,naegleria fowleri infection,S-EPMC3818898
+c1,naegleria fowleri infection,S-EPMC1828997
+c1,naegleria fowleri infection,S-EPMC7085920
+c1,naegleria fowleri infection,S-EPMC3697439
+c1,naegleria fowleri infection,S-EPMC7526813
+c1,naegleria fowleri infection,PXD018807
+c1,naegleria fowleri infection,S-EPMC7326272
+c1,naegleria fowleri infection,S-EPMC7911858
+c2,naegleria fowleri infection,S-EPMC1233957
+c2,naegleria fowleri infection,NCBI_SRA_SRP272510
+c2,naegleria fowleri infection,S-EPMC3818898
+c2,naegleria fowleri infection,S-EPMC1828997
+c2,naegleria fowleri infection,S-EPMC7085920
+c2,naegleria fowleri infection,S-EPMC3697439
+c2,naegleria fowleri infection,S-EPMC7526813
+c2,naegleria fowleri infection,PXD018807
+c2,naegleria fowleri infection,S-EPMC7326272
+c2,naegleria fowleri infection,S-EPMC7911858
+c3,naegleria fowleri infection,S-EPMC1233957
+c3,naegleria fowleri infection,NCBI_SRA_SRP272510
+c3,naegleria fowleri infection,S-EPMC3818898
+c3,naegleria fowleri infection,S-EPMC1828997
+c3,naegleria fowleri infection,S-EPMC7085920
+c3,naegleria fowleri infection,S-EPMC3697439
+c3,naegleria fowleri infection,S-EPMC7526813
+c3,naegleria fowleri infection,PXD018807
+c3,naegleria fowleri infection,S-EPMC7326272
+c3,naegleria fowleri infection,S-EPMC7911858
+c4,naegleria fowleri infection,S-EPMC1233957
+c4,naegleria fowleri infection,NCBI_SRA_SRP272510
+c4,naegleria fowleri infection,S-EPMC3818898
+c4,naegleria fowleri infection,S-EPMC1828997
+c4,naegleria fowleri infection,S-EPMC7085920
+c4,naegleria fowleri infection,S-EPMC3697439
+c4,naegleria fowleri infection,S-EPMC7526813
+c4,naegleria fowleri infection,PXD018807
+c4,naegleria fowleri infection,S-EPMC7326272
+c4,naegleria fowleri infection,S-EPMC7911858
+c5,naegleria fowleri infection,S-EPMC1233957
+c5,naegleria fowleri infection,NCBI_SRA_SRP272510
+c5,naegleria fowleri infection,S-EPMC3818898
+c5,naegleria fowleri infection,S-EPMC1828997
+c5,naegleria fowleri infection,S-EPMC7085920
+c5,naegleria fowleri infection,S-EPMC3697439
+c5,naegleria fowleri infection,S-EPMC7526813
+c5,naegleria fowleri infection,PXD018807
+c5,naegleria fowleri infection,S-EPMC7326272
+c5,naegleria fowleri infection,S-EPMC7911858
+c6,naegleria fowleri infection,S-EPMC1233957
+c6,naegleria fowleri infection,NCBI_SRA_SRP272510
+c6,naegleria fowleri infection,S-EPMC3818898
+c6,naegleria fowleri infection,S-EPMC1828997
+c6,naegleria fowleri infection,S-EPMC7085920
+c6,naegleria fowleri infection,S-EPMC3697439
+c6,naegleria fowleri infection,S-EPMC7526813
+c6,naegleria fowleri infection,PXD018807
+c6,naegleria fowleri infection,S-EPMC7326272
+c6,naegleria fowleri infection,S-EPMC7911858
+c7,naegleria fowleri infection,S-EPMC1233957
+c7,naegleria fowleri infection,NCBI_SRA_SRP272510
+c7,naegleria fowleri infection,S-EPMC3818898
+c7,naegleria fowleri infection,S-EPMC1828997
+c7,naegleria fowleri infection,S-EPMC7085920
+c7,naegleria fowleri infection,S-EPMC3697439
+c7,naegleria fowleri infection,S-EPMC7526813
+c7,naegleria fowleri infection,PXD018807
+c7,naegleria fowleri infection,S-EPMC7326272
+c7,naegleria fowleri infection,S-EPMC7911858
+c8,naegleria fowleri infection,S-EPMC1233957
+c8,naegleria fowleri infection,NCBI_SRA_SRP272510
+c8,naegleria fowleri infection,S-EPMC3818898
+c8,naegleria fowleri infection,S-EPMC1828997
+c8,naegleria fowleri infection,S-EPMC7085920
+c8,naegleria fowleri infection,S-EPMC3697439
+c8,naegleria fowleri infection,S-EPMC7526813
+c8,naegleria fowleri infection,PXD018807
+c8,naegleria fowleri infection,S-EPMC7326272
+c8,naegleria fowleri infection,S-EPMC7911858
+c9,naegleria fowleri infection,S-EPMC1233957
+c9,naegleria fowleri infection,NCBI_SRA_SRP272510
+c9,naegleria fowleri infection,S-EPMC3818898
+c9,naegleria fowleri infection,S-EPMC1828997
+c9,naegleria fowleri infection,S-EPMC7085920
+c9,naegleria fowleri infection,S-EPMC3697439
+c9,naegleria fowleri infection,S-EPMC7526813
+c9,naegleria fowleri infection,PXD018807
+c9,naegleria fowleri infection,S-EPMC7326272
+c9,naegleria fowleri infection,S-EPMC7911858
+c10,naegleria fowleri infection,S-EPMC1233957
+c10,naegleria fowleri infection,NCBI_SRA_SRP272510
+c10,naegleria fowleri infection,S-EPMC3818898
+c10,naegleria fowleri infection,S-EPMC1828997
+c10,naegleria fowleri infection,S-EPMC7085920
+c10,naegleria fowleri infection,S-EPMC3697439
+c10,naegleria fowleri infection,PXD018807
+c10,naegleria fowleri infection,S-EPMC7526813
+c10,naegleria fowleri infection,S-EPMC7326272
+c10,naegleria fowleri infection,S-EPMC7911858
+c11,naegleria fowleri infection,NCBI_SRA_SRP272510
+c11,naegleria fowleri infection,S-EPMC1233957
+c11,naegleria fowleri infection,S-EPMC3818898
+c11,naegleria fowleri infection,S-EPMC1828997
+c11,naegleria fowleri infection,S-EPMC7085920
+c11,naegleria fowleri infection,S-EPMC3697439
+c11,naegleria fowleri infection,S-EPMC7526813
+c11,naegleria fowleri infection,PXD018807
+c11,naegleria fowleri infection,S-EPMC5483900
+c11,naegleria fowleri infection,S-EPMC7326272
+c12,naegleria fowleri infection,S-EPMC1233957
+c12,naegleria fowleri infection,NCBI_SRA_SRP272510
+c12,naegleria fowleri infection,S-EPMC3818898
+c12,naegleria fowleri infection,S-EPMC1828997
+c12,naegleria fowleri infection,S-EPMC7085920
+c12,naegleria fowleri infection,S-EPMC3697439
+c12,naegleria fowleri infection,S-EPMC7526813
+c12,naegleria fowleri infection,PXD018807
+c12,naegleria fowleri infection,S-EPMC7326272
+c12,naegleria fowleri infection,S-EPMC7911858
+c13,naegleria fowleri infection,S-EPMC1233957
+c13,naegleria fowleri infection,NCBI_SRA_SRP272510
+c13,naegleria fowleri infection,S-EPMC3818898
+c13,naegleria fowleri infection,S-EPMC1828997
+c13,naegleria fowleri infection,S-EPMC7085920
+c13,naegleria fowleri infection,S-EPMC3697439
+c13,naegleria fowleri infection,S-EPMC7526813
+c13,naegleria fowleri infection,PXD018807
+c13,naegleria fowleri infection,S-EPMC7326272
+c13,naegleria fowleri infection,S-EPMC7911858
+c14,naegleria fowleri infection,S-EPMC1233957
+c14,naegleria fowleri infection,NCBI_SRA_SRP272510
+c14,naegleria fowleri infection,S-EPMC3818898
+c14,naegleria fowleri infection,S-EPMC1828997
+c14,naegleria fowleri infection,S-EPMC7085920
+c14,naegleria fowleri infection,PXD018807
+c14,naegleria fowleri infection,S-EPMC3697439
+c14,naegleria fowleri infection,S-EPMC7526813
+c14,naegleria fowleri infection,S-EPMC7326272
+c14,naegleria fowleri infection,S-EPMC7911858
+c15,naegleria fowleri infection,S-EPMC1233957
+c15,naegleria fowleri infection,NCBI_SRA_SRP272510
+c15,naegleria fowleri infection,S-EPMC3818898
+c15,naegleria fowleri infection,S-EPMC1828997
+c15,naegleria fowleri infection,S-EPMC7085920
+c15,naegleria fowleri infection,PXD018807
+c15,naegleria fowleri infection,S-EPMC3697439
+c15,naegleria fowleri infection,S-EPMC7526813
+c15,naegleria fowleri infection,S-EPMC7326272
+c15,naegleria fowleri infection,S-EPMC7911858
+original query,asthma,GSE43696
+original query,asthma,S-EPMC6059356
+original query,asthma,PRJEB6465
+original query,asthma,GSE130499
+original query,asthma,E-GEOD-67940
+original query,asthma,GSE67940
+original query,asthma,PRJNA540484
+original query,asthma,GSE63142
+original query,asthma,PRJEB51261
+original query,asthma,GSE470
+c1,asthma,GSE43696
+c1,asthma,GSE130499
+c1,asthma,GSE67940
+c1,asthma,GSE63142
+c1,asthma,S-EPMC6059356
+c1,asthma,E-GEOD-67940
+c1,asthma,PRJNA540484
+c1,asthma,PRJEB6465
+c1,asthma,GSE470
+c1,asthma,GSE65205
+c2,asthma,GSE43696
+c2,asthma,GSE130499
+c2,asthma,GSE67940
+c2,asthma,GSE63142
+c2,asthma,E-GEOD-67940
+c2,asthma,S-EPMC6059356
+c2,asthma,GSE470
+c2,asthma,GSE65205
+c2,asthma,NICHD_DASH_Dataset_229049
+c2,asthma,NICHD_DASH_Dataset_229035
+c3,asthma,GSE43696
+c3,asthma,GSE130499
+c3,asthma,GSE67940
+c3,asthma,GSE63142
+c3,asthma,E-GEOD-67940
+c3,asthma,GSE470
+c3,asthma,GSE65205
+c3,asthma,S-EPMC6059356
+c3,asthma,NICHD_DASH_Dataset_229049
+c3,asthma,NICHD_DASH_Dataset_229035
+c4,asthma,GSE43696
+c4,asthma,GSE130499
+c4,asthma,GSE67940
+c4,asthma,GSE63142
+c4,asthma,GSE470
+c4,asthma,GSE65205
+c4,asthma,E-GEOD-67940
+c4,asthma,NICHD_DASH_Dataset_229049
+c4,asthma,GSE31030
+c4,asthma,IMMPORT_SDY210
+c5,asthma,GSE43696
+c5,asthma,GSE130499
+c5,asthma,GSE67940
+c5,asthma,GSE63142
+c5,asthma,IMMPORT_SDY210
+c5,asthma,GSE31030
+c5,asthma,GSE470
+c5,asthma,GSE65205
+c5,asthma,NICHD_DASH_Dataset_229049
+c5,asthma,GSE6858
+c6,asthma,GSE43696
+c6,asthma,GSE130499
+c6,asthma,GSE67940
+c6,asthma,GSE63142
+c6,asthma,S-EPMC6059356
+c6,asthma,E-GEOD-67940
+c6,asthma,PRJNA540484
+c6,asthma,PRJEB6465
+c6,asthma,GSE470
+c6,asthma,GSE65205
+c7,asthma,GSE43696
+c7,asthma,GSE130499
+c7,asthma,GSE67940
+c7,asthma,GSE63142
+c7,asthma,E-GEOD-67940
+c7,asthma,S-EPMC6059356
+c7,asthma,GSE470
+c7,asthma,GSE65205
+c7,asthma,NICHD_DASH_Dataset_229049
+c7,asthma,PRJNA540484
+c8,asthma,GSE43696
+c8,asthma,GSE130499
+c8,asthma,GSE67940
+c8,asthma,GSE63142
+c8,asthma,E-GEOD-67940
+c8,asthma,GSE470
+c8,asthma,GSE65205
+c8,asthma,S-EPMC6059356
+c8,asthma,NICHD_DASH_Dataset_229049
+c8,asthma,NICHD_DASH_Dataset_229035
+c9,asthma,GSE43696
+c9,asthma,GSE130499
+c9,asthma,GSE67940
+c9,asthma,GSE63142
+c9,asthma,GSE470
+c9,asthma,GSE65205
+c9,asthma,E-GEOD-67940
+c9,asthma,IMMPORT_SDY210
+c9,asthma,NICHD_DASH_Dataset_229049
+c9,asthma,NICHD_DASH_Dataset_229035
+c10,asthma,GSE43696
+c10,asthma,GSE130499
+c10,asthma,GSE67940
+c10,asthma,GSE63142
+c10,asthma,IMMPORT_SDY210
+c10,asthma,GSE470
+c10,asthma,GSE65205
+c10,asthma,GSE31030
+c10,asthma,IMMPORT_SDY211
+c10,asthma,NICHD_DASH_Dataset_229049
+c11,asthma,GSE43696
+c11,asthma,GSE130499
+c11,asthma,GSE67940
+c11,asthma,S-EPMC6059356
+c11,asthma,GSE63142
+c11,asthma,E-GEOD-67940
+c11,asthma,PRJEB6465
+c11,asthma,PRJNA540484
+c11,asthma,GSE470
+c11,asthma,GSE65205
+c12,asthma,GSE43696
+c12,asthma,GSE130499
+c12,asthma,GSE67940
+c12,asthma,GSE63142
+c12,asthma,E-GEOD-67940
+c12,asthma,S-EPMC6059356
+c12,asthma,GSE470
+c12,asthma,GSE65205
+c12,asthma,ZENODO_5792498
+c12,asthma,PRJNA540484
+c13,asthma,GSE43696
+c13,asthma,GSE130499
+c13,asthma,GSE67940
+c13,asthma,GSE63142
+c13,asthma,E-GEOD-67940
+c13,asthma,GSE470
+c13,asthma,S-EPMC6059356
+c13,asthma,GSE65205
+c13,asthma,ZENODO_5792498
+c13,asthma,NICHD_DASH_Dataset_229049
+c14,asthma,GSE43696
+c14,asthma,GSE130499
+c14,asthma,GSE67940
+c14,asthma,GSE63142
+c14,asthma,GSE470
+c14,asthma,VIVLI_efece81a-2e49-4275-adbf-8be8c9906c04
+c14,asthma,E-GEOD-67940
+c14,asthma,GSE65205
+c14,asthma,IMMPORT_SDY210
+c14,asthma,Dataverse_10.7910_DVN_MCSRLN
+c15,asthma,GSE43696
+c15,asthma,GSE130499
+c15,asthma,GSE67940
+c15,asthma,GSE63142
+c15,asthma,IMMPORT_SDY210
+c15,asthma,VIVLI_efece81a-2e49-4275-adbf-8be8c9906c04
+c15,asthma,GSE470
+c15,asthma,IMMPORT_SDY211
+c15,asthma,Dataverse_10.7910_DVN_MCSRLN
+c15,asthma,GSE65205
+original query,allergy treatment,S-EPMC5317265
+original query,allergy treatment,accessclinicaldata_ACTT
+original query,allergy treatment,IMMPORT_SDY1520
+original query,allergy treatment,S-EPMC7190245
+original query,allergy treatment,PRJNA386870
+original query,allergy treatment,S-EPMC6021584
+original query,allergy treatment,S-EPMC4794183
+original query,allergy treatment,PRJNA639593
+original query,allergy treatment,E-MTAB-2192
+original query,allergy treatment,accessclinicaldata_NCT04401579
+c1,allergy treatment,IMMPORT_SDY1520
+c1,allergy treatment,S-EPMC5317265
+c1,allergy treatment,accessclinicaldata_ACTT
+c1,allergy treatment,S-EPMC7190245
+c1,allergy treatment,GSE86184
+c1,allergy treatment,PRJNA386870
+c1,allergy treatment,IMMPORT_SDY1515_1
+c1,allergy treatment,GSE86881
+c1,allergy treatment,GSE98902
+c1,allergy treatment,E-MTAB-2192
+c2,allergy treatment,IMMPORT_SDY1520
+c2,allergy treatment,GSE86184
+c2,allergy treatment,IMMPORT_SDY1515_1
+c2,allergy treatment,S-EPMC5317265
+c2,allergy treatment,accessclinicaldata_ACTT
+c2,allergy treatment,GSE86881
+c2,allergy treatment,GSE127831
+c2,allergy treatment,GSE98902
+c2,allergy treatment,IMMPORT_SDY1513
+c2,allergy treatment,GSE181861
+c3,allergy treatment,IMMPORT_SDY1520
+c3,allergy treatment,IMMPORT_SDY1515_1
+c3,allergy treatment,GSE86184
+c3,allergy treatment,GSE86881
+c3,allergy treatment,GSE127831
+c3,allergy treatment,IMMPORT_SDY1513
+c3,allergy treatment,GSE181861
+c3,allergy treatment,GSE71834
+c3,allergy treatment,IMMPORT_SDY1153
+c3,allergy treatment,GSE98902
+c4,allergy treatment,IMMPORT_SDY1520
+c4,allergy treatment,IMMPORT_SDY1515_1
+c4,allergy treatment,GSE86184
+c4,allergy treatment,GSE86881
+c4,allergy treatment,GSE127831
+c4,allergy treatment,IMMPORT_SDY1513
+c4,allergy treatment,GSE181861
+c4,allergy treatment,IMMPORT_SDY1153
+c4,allergy treatment,GSE71834
+c4,allergy treatment,GSE6635
+c5,allergy treatment,IMMPORT_SDY1520
+c5,allergy treatment,IMMPORT_SDY1515_1
+c5,allergy treatment,GSE86184
+c5,allergy treatment,GSE86881
+c5,allergy treatment,IMMPORT_SDY1513
+c5,allergy treatment,GSE127831
+c5,allergy treatment,IMMPORT_SDY1153
+c5,allergy treatment,GSE181861
+c5,allergy treatment,GSE71834
+c5,allergy treatment,GSE6635
+c6,allergy treatment,IMMPORT_SDY1520
+c6,allergy treatment,S-EPMC5317265
+c6,allergy treatment,accessclinicaldata_ACTT
+c6,allergy treatment,S-EPMC7190245
+c6,allergy treatment,PRJNA386870
+c6,allergy treatment,GSE86184
+c6,allergy treatment,IMMPORT_SDY1515_1
+c6,allergy treatment,GSE98902
+c6,allergy treatment,GSE86881
+c6,allergy treatment,S-EPMC6021584
+c7,allergy treatment,IMMPORT_SDY1520
+c7,allergy treatment,accessclinicaldata_ACTT
+c7,allergy treatment,IMMPORT_SDY1515_1
+c7,allergy treatment,S-EPMC5317265
+c7,allergy treatment,GSE86184
+c7,allergy treatment,GSE86881
+c7,allergy treatment,GSE127831
+c7,allergy treatment,GSE98902
+c7,allergy treatment,IMMPORT_SDY1513
+c7,allergy treatment,GSE181861
+c8,allergy treatment,IMMPORT_SDY1520
+c8,allergy treatment,IMMPORT_SDY1515_1
+c8,allergy treatment,GSE86184
+c8,allergy treatment,GSE86881
+c8,allergy treatment,IMMPORT_SDY1513
+c8,allergy treatment,GSE127831
+c8,allergy treatment,IMMPORT_SDY1153
+c8,allergy treatment,GSE181861
+c8,allergy treatment,GSE98902
+c8,allergy treatment,accessclinicaldata_ACTT
+c9,allergy treatment,IMMPORT_SDY1520
+c9,allergy treatment,IMMPORT_SDY1515_1
+c9,allergy treatment,IMMPORT_SDY1513
+c9,allergy treatment,GSE86184
+c9,allergy treatment,GSE86881
+c9,allergy treatment,GSE127831
+c9,allergy treatment,IMMPORT_SDY1153
+c9,allergy treatment,GSE181861
+c9,allergy treatment,IMMPORT_SDY1514
+c9,allergy treatment,GSE71834
+c10,allergy treatment,IMMPORT_SDY1520
+c10,allergy treatment,IMMPORT_SDY1515_1
+c10,allergy treatment,IMMPORT_SDY1513
+c10,allergy treatment,GSE86184
+c10,allergy treatment,IMMPORT_SDY1153
+c10,allergy treatment,GSE86881
+c10,allergy treatment,GSE127831
+c10,allergy treatment,IMMPORT_SDY1514
+c10,allergy treatment,IMMPORT_SDY218
+c10,allergy treatment,IMMPORT_SDY471
+c11,allergy treatment,IMMPORT_SDY1520
+c11,allergy treatment,accessclinicaldata_ACTT
+c11,allergy treatment,S-EPMC5317265
+c11,allergy treatment,S-EPMC7190245
+c11,allergy treatment,PRJNA386870
+c11,allergy treatment,IMMPORT_SDY1515_1
+c11,allergy treatment,GSE86184
+c11,allergy treatment,GSE98902
+c11,allergy treatment,S-EPMC6021584
+c11,allergy treatment,E-MTAB-2192
+c12,allergy treatment,IMMPORT_SDY1520
+c12,allergy treatment,accessclinicaldata_ACTT
+c12,allergy treatment,S-EPMC5317265
+c12,allergy treatment,IMMPORT_SDY1515_1
+c12,allergy treatment,GSE86184
+c12,allergy treatment,IMMPORT_SDY1513
+c12,allergy treatment,GSE86881
+c12,allergy treatment,GSE98902
+c12,allergy treatment,GSE127831
+c12,allergy treatment,S-EPMC7190245
+c13,allergy treatment,IMMPORT_SDY1520
+c13,allergy treatment,IMMPORT_SDY1515_1
+c13,allergy treatment,IMMPORT_SDY1513
+c13,allergy treatment,accessclinicaldata_ACTT
+c13,allergy treatment,GSE86184
+c13,allergy treatment,GSE86881
+c13,allergy treatment,IMMPORT_SDY1153
+c13,allergy treatment,GSE127831
+c13,allergy treatment,S-EPMC5317265
+c13,allergy treatment,GSE98902
+c14,allergy treatment,IMMPORT_SDY1520
+c14,allergy treatment,IMMPORT_SDY1515_1
+c14,allergy treatment,IMMPORT_SDY1513
+c14,allergy treatment,IMMPORT_SDY1153
+c14,allergy treatment,GSE86184
+c14,allergy treatment,IMMPORT_SDY1514
+c14,allergy treatment,IMMPORT_SDY218
+c14,allergy treatment,IMMPORT_SDY471
+c14,allergy treatment,GSE86881
+c14,allergy treatment,GSE127831
+c15,allergy treatment,IMMPORT_SDY1520
+c15,allergy treatment,IMMPORT_SDY1515_1
+c15,allergy treatment,IMMPORT_SDY1513
+c15,allergy treatment,IMMPORT_SDY1514
+c15,allergy treatment,IMMPORT_SDY1153
+c15,allergy treatment,IMMPORT_SDY218
+c15,allergy treatment,IMMPORT_SDY471
+c15,allergy treatment,VIVLI_a3e22533-27c5-4be5-bd97-0bbaab31669e
+c15,allergy treatment,IMMPORT_SDY689
+c15,allergy treatment,GSE86184
+original query,allergen skin prick test,S-EPMC4880857
+original query,allergen skin prick test,S-EPMC3574828
+original query,allergen skin prick test,S-EPMC5555666
+original query,allergen skin prick test,S-EPMC2582048
+original query,allergen skin prick test,ZENODO_4967664
+original query,allergen skin prick test,S-EPMC6878640
+original query,allergen skin prick test,S-EPMC6906969
+original query,allergen skin prick test,S-EPMC6131881
+original query,allergen skin prick test,S-EPMC3398323
+original query,allergen skin prick test,S-EPMC4215109
+c1,allergen skin prick test,S-EPMC4880857
+c1,allergen skin prick test,S-EPMC3574828
+c1,allergen skin prick test,S-EPMC5555666
+c1,allergen skin prick test,S-EPMC2582048
+c1,allergen skin prick test,ZENODO_4967664
+c1,allergen skin prick test,S-EPMC6878640
+c1,allergen skin prick test,S-EPMC6906969
+c1,allergen skin prick test,S-EPMC3398323
+c1,allergen skin prick test,S-EPMC4215109
+c1,allergen skin prick test,S-EPMC6131881
+c2,allergen skin prick test,S-EPMC4880857
+c2,allergen skin prick test,S-EPMC3574828
+c2,allergen skin prick test,S-EPMC5555666
+c2,allergen skin prick test,S-EPMC2582048
+c2,allergen skin prick test,ZENODO_4967664
+c2,allergen skin prick test,S-EPMC6878640
+c2,allergen skin prick test,S-EPMC6906969
+c2,allergen skin prick test,S-EPMC3398323
+c2,allergen skin prick test,S-EPMC4215109
+c2,allergen skin prick test,DRYAD_doi.org:10.5061:dryad.hn20p
+c3,allergen skin prick test,S-EPMC4880857
+c3,allergen skin prick test,S-EPMC2582048
+c3,allergen skin prick test,S-EPMC3574828
+c3,allergen skin prick test,S-EPMC5555666
+c3,allergen skin prick test,ZENODO_4967664
+c3,allergen skin prick test,S-EPMC6878640
+c3,allergen skin prick test,S-EPMC6906969
+c3,allergen skin prick test,S-EPMC3398323
+c3,allergen skin prick test,DRYAD_doi.org:10.5061:dryad.hn20p
+c3,allergen skin prick test,S-EPMC4215109
+c4,allergen skin prick test,S-EPMC4880857
+c4,allergen skin prick test,S-EPMC2582048
+c4,allergen skin prick test,ZENODO_4967664
+c4,allergen skin prick test,DRYAD_doi.org:10.5061:dryad.hn20p
+c4,allergen skin prick test,S-EPMC6878640
+c4,allergen skin prick test,S-EPMC3574828
+c4,allergen skin prick test,S-EPMC6906969
+c4,allergen skin prick test,S-EPMC5555666
+c4,allergen skin prick test,S-EPMC3398323
+c4,allergen skin prick test,S-EPMC4215109
+c5,allergen skin prick test,S-EPMC4880857
+c5,allergen skin prick test,DRYAD_doi.org:10.5061:dryad.hn20p
+c5,allergen skin prick test,IMMPORT_SDY545
+c5,allergen skin prick test,S-EPMC2582048
+c5,allergen skin prick test,ZENODO_4967664
+c5,allergen skin prick test,S-EPMC6878640
+c5,allergen skin prick test,S-EPMC6906969
+c5,allergen skin prick test,S-EPMC3398323
+c5,allergen skin prick test,S-EPMC4215109
+c5,allergen skin prick test,S-EPMC3574828
+c6,allergen skin prick test,S-EPMC4880857
+c6,allergen skin prick test,S-EPMC3574828
+c6,allergen skin prick test,S-EPMC5555666
+c6,allergen skin prick test,S-EPMC2582048
+c6,allergen skin prick test,ZENODO_4967664
+c6,allergen skin prick test,S-EPMC6878640
+c6,allergen skin prick test,S-EPMC6906969
+c6,allergen skin prick test,S-EPMC3398323
+c6,allergen skin prick test,S-EPMC4215109
+c6,allergen skin prick test,S-EPMC6131881
+c7,allergen skin prick test,S-EPMC4880857
+c7,allergen skin prick test,S-EPMC3574828
+c7,allergen skin prick test,S-EPMC5555666
+c7,allergen skin prick test,S-EPMC2582048
+c7,allergen skin prick test,ZENODO_4967664
+c7,allergen skin prick test,S-EPMC6878640
+c7,allergen skin prick test,S-EPMC6906969
+c7,allergen skin prick test,S-EPMC3398323
+c7,allergen skin prick test,S-EPMC4215109
+c7,allergen skin prick test,DRYAD_doi.org:10.5061:dryad.hn20p
+c8,allergen skin prick test,S-EPMC4880857
+c8,allergen skin prick test,S-EPMC2582048
+c8,allergen skin prick test,S-EPMC3574828
+c8,allergen skin prick test,S-EPMC5555666
+c8,allergen skin prick test,ZENODO_4967664
+c8,allergen skin prick test,S-EPMC6878640
+c8,allergen skin prick test,S-EPMC6906969
+c8,allergen skin prick test,DRYAD_doi.org:10.5061:dryad.hn20p
+c8,allergen skin prick test,S-EPMC3398323
+c8,allergen skin prick test,S-EPMC4215109
+c9,allergen skin prick test,S-EPMC4880857
+c9,allergen skin prick test,ZENODO_4967664
+c9,allergen skin prick test,S-EPMC2582048
+c9,allergen skin prick test,DRYAD_doi.org:10.5061:dryad.hn20p
+c9,allergen skin prick test,S-EPMC3574828
+c9,allergen skin prick test,S-EPMC5555666
+c9,allergen skin prick test,S-EPMC6878640
+c9,allergen skin prick test,S-EPMC6906969
+c9,allergen skin prick test,S-EPMC3398323
+c9,allergen skin prick test,S-EPMC4215109
+c10,allergen skin prick test,S-EPMC4880857
+c10,allergen skin prick test,DRYAD_doi.org:10.5061:dryad.hn20p
+c10,allergen skin prick test,ZENODO_4967664
+c10,allergen skin prick test,S-EPMC2582048
+c10,allergen skin prick test,IMMPORT_SDY545
+c10,allergen skin prick test,S-EPMC6878640
+c10,allergen skin prick test,S-EPMC6906969
+c10,allergen skin prick test,S-EPMC3398323
+c10,allergen skin prick test,S-EPMC3574828
+c10,allergen skin prick test,S-EPMC5555666
+c11,allergen skin prick test,S-EPMC4880857
+c11,allergen skin prick test,S-EPMC3574828
+c11,allergen skin prick test,S-EPMC5555666
+c11,allergen skin prick test,S-EPMC2582048
+c11,allergen skin prick test,ZENODO_4967664
+c11,allergen skin prick test,S-EPMC6878640
+c11,allergen skin prick test,S-EPMC6906969
+c11,allergen skin prick test,S-EPMC3398323
+c11,allergen skin prick test,S-EPMC6131881
+c11,allergen skin prick test,S-EPMC4215109
+c12,allergen skin prick test,S-EPMC4880857
+c12,allergen skin prick test,S-EPMC3574828
+c12,allergen skin prick test,S-EPMC5555666
+c12,allergen skin prick test,S-EPMC2582048
+c12,allergen skin prick test,ZENODO_4967664
+c12,allergen skin prick test,S-EPMC6878640
+c12,allergen skin prick test,S-EPMC6906969
+c12,allergen skin prick test,S-EPMC3398323
+c12,allergen skin prick test,S-EPMC4215109
+c12,allergen skin prick test,DRYAD_doi.org:10.5061:dryad.hn20p
+c13,allergen skin prick test,S-EPMC4880857
+c13,allergen skin prick test,ZENODO_4967664
+c13,allergen skin prick test,S-EPMC3574828
+c13,allergen skin prick test,S-EPMC5555666
+c13,allergen skin prick test,S-EPMC2582048
+c13,allergen skin prick test,DRYAD_doi.org:10.5061:dryad.hn20p
+c13,allergen skin prick test,S-EPMC6878640
+c13,allergen skin prick test,S-EPMC6906969
+c13,allergen skin prick test,S-EPMC3398323
+c13,allergen skin prick test,S-EPMC4215109
+c14,allergen skin prick test,S-EPMC4880857
+c14,allergen skin prick test,ZENODO_4967664
+c14,allergen skin prick test,DRYAD_doi.org:10.5061:dryad.hn20p
+c14,allergen skin prick test,S-EPMC2582048
+c14,allergen skin prick test,S-EPMC3574828
+c14,allergen skin prick test,S-EPMC5555666
+c14,allergen skin prick test,S-EPMC6878640
+c14,allergen skin prick test,S-EPMC6906969
+c14,allergen skin prick test,S-EPMC3398323
+c14,allergen skin prick test,S-EPMC4215109
+c15,allergen skin prick test,S-EPMC4880857
+c15,allergen skin prick test,DRYAD_doi.org:10.5061:dryad.hn20p
+c15,allergen skin prick test,ZENODO_4967664
+c15,allergen skin prick test,S-EPMC2582048
+c15,allergen skin prick test,IMMPORT_SDY545
+c15,allergen skin prick test,S-EPMC3574828
+c15,allergen skin prick test,S-EPMC5555666
+c15,allergen skin prick test,S-EPMC6878640
+c15,allergen skin prick test,S-EPMC6906969
+c15,allergen skin prick test,S-EPMC3398323
+original query,sublingual immunotherapy,S-EPMC5479315
+original query,sublingual immunotherapy,S-EPMC3983904
+original query,sublingual immunotherapy,S-EPMC3935613
+original query,sublingual immunotherapy,S-EPMC4892109
+original query,sublingual immunotherapy,PRJNA613317
+original query,sublingual immunotherapy,S-EPMC6166283
+original query,sublingual immunotherapy,S-EPMC5451400
+original query,sublingual immunotherapy,S-EPMC6438743
+original query,sublingual immunotherapy,VIVLI_4561de30-5510-4875-9ef6-1327d249bf57
+original query,sublingual immunotherapy,S-EPMC6411722
+c1,sublingual immunotherapy,S-EPMC5479315
+c1,sublingual immunotherapy,S-EPMC3983904
+c1,sublingual immunotherapy,S-EPMC3935613
+c1,sublingual immunotherapy,S-EPMC4892109
+c1,sublingual immunotherapy,S-EPMC6166283
+c1,sublingual immunotherapy,PRJNA613317
+c1,sublingual immunotherapy,S-EPMC5451400
+c1,sublingual immunotherapy,S-EPMC6438743
+c1,sublingual immunotherapy,VIVLI_4561de30-5510-4875-9ef6-1327d249bf57
+c1,sublingual immunotherapy,S-EPMC6411722
+c2,sublingual immunotherapy,S-EPMC5479315
+c2,sublingual immunotherapy,S-EPMC3983904
+c2,sublingual immunotherapy,S-EPMC3935613
+c2,sublingual immunotherapy,VIVLI_4561de30-5510-4875-9ef6-1327d249bf57
+c2,sublingual immunotherapy,S-EPMC4892109
+c2,sublingual immunotherapy,S-EPMC6166283
+c2,sublingual immunotherapy,S-EPMC5451400
+c2,sublingual immunotherapy,S-EPMC6438743
+c2,sublingual immunotherapy,GSE147197
+c2,sublingual immunotherapy,PRJNA613317
+c3,sublingual immunotherapy,S-EPMC5479315
+c3,sublingual immunotherapy,S-EPMC3983904
+c3,sublingual immunotherapy,S-EPMC3935613
+c3,sublingual immunotherapy,VIVLI_4561de30-5510-4875-9ef6-1327d249bf57
+c3,sublingual immunotherapy,IMMPORT_SDY1026
+c3,sublingual immunotherapy,GSE147197
+c3,sublingual immunotherapy,S-EPMC6166283
+c3,sublingual immunotherapy,S-EPMC5451400
+c3,sublingual immunotherapy,VIVLI_c9c0ceae-a4b7-4f7f-af04-80bffe832169
+c3,sublingual immunotherapy,S-EPMC6438743
+c4,sublingual immunotherapy,IMMPORT_SDY1026
+c4,sublingual immunotherapy,S-EPMC5479315
+c4,sublingual immunotherapy,IMMPORT_SDY1515_2
+c4,sublingual immunotherapy,VIVLI_4561de30-5510-4875-9ef6-1327d249bf57
+c4,sublingual immunotherapy,S-EPMC3983904
+c4,sublingual immunotherapy,GSE147197
+c4,sublingual immunotherapy,S-EPMC3935613
+c4,sublingual immunotherapy,VIVLI_c9c0ceae-a4b7-4f7f-af04-80bffe832169
+c4,sublingual immunotherapy,VIVLI_7f520c6a-9aa2-4c51-9caf-d44b1a8d071e
+c4,sublingual immunotherapy,S-EPMC6166283
+c5,sublingual immunotherapy,IMMPORT_SDY1026
+c5,sublingual immunotherapy,IMMPORT_SDY1515_2
+c5,sublingual immunotherapy,GSE147197
+c5,sublingual immunotherapy,VIVLI_4561de30-5510-4875-9ef6-1327d249bf57
+c5,sublingual immunotherapy,IMMPORT_SDY1656
+c5,sublingual immunotherapy,S-EPMC5479315
+c5,sublingual immunotherapy,VIVLI_c9c0ceae-a4b7-4f7f-af04-80bffe832169
+c5,sublingual immunotherapy,S-EPMC3983904
+c5,sublingual immunotherapy,S-EPMC3935613
+c5,sublingual immunotherapy,VIVLI_7f520c6a-9aa2-4c51-9caf-d44b1a8d071e
+c6,sublingual immunotherapy,S-EPMC5479315
+c6,sublingual immunotherapy,S-EPMC3983904
+c6,sublingual immunotherapy,S-EPMC3935613
+c6,sublingual immunotherapy,S-EPMC4892109
+c6,sublingual immunotherapy,PRJNA613317
+c6,sublingual immunotherapy,S-EPMC6166283
+c6,sublingual immunotherapy,S-EPMC5451400
+c6,sublingual immunotherapy,VIVLI_4561de30-5510-4875-9ef6-1327d249bf57
+c6,sublingual immunotherapy,S-EPMC6438743
+c6,sublingual immunotherapy,S-EPMC6411722
+c7,sublingual immunotherapy,S-EPMC5479315
+c7,sublingual immunotherapy,S-EPMC3983904
+c7,sublingual immunotherapy,S-EPMC3935613
+c7,sublingual immunotherapy,VIVLI_4561de30-5510-4875-9ef6-1327d249bf57
+c7,sublingual immunotherapy,S-EPMC4892109
+c7,sublingual immunotherapy,S-EPMC6166283
+c7,sublingual immunotherapy,S-EPMC5451400
+c7,sublingual immunotherapy,S-EPMC6438743
+c7,sublingual immunotherapy,VIVLI_c9c0ceae-a4b7-4f7f-af04-80bffe832169
+c7,sublingual immunotherapy,PRJNA613317
+c8,sublingual immunotherapy,S-EPMC5479315
+c8,sublingual immunotherapy,S-EPMC3983904
+c8,sublingual immunotherapy,S-EPMC3935613
+c8,sublingual immunotherapy,VIVLI_4561de30-5510-4875-9ef6-1327d249bf57
+c8,sublingual immunotherapy,IMMPORT_SDY1026
+c8,sublingual immunotherapy,VIVLI_c9c0ceae-a4b7-4f7f-af04-80bffe832169
+c8,sublingual immunotherapy,S-EPMC6166283
+c8,sublingual immunotherapy,GSE147197
+c8,sublingual immunotherapy,S-EPMC4892109
+c8,sublingual immunotherapy,S-EPMC5451400
+c9,sublingual immunotherapy,IMMPORT_SDY1026
+c9,sublingual immunotherapy,VIVLI_4561de30-5510-4875-9ef6-1327d249bf57
+c9,sublingual immunotherapy,S-EPMC5479315
+c9,sublingual immunotherapy,S-EPMC3983904
+c9,sublingual immunotherapy,IMMPORT_SDY1515_2
+c9,sublingual immunotherapy,VIVLI_c9c0ceae-a4b7-4f7f-af04-80bffe832169
+c9,sublingual immunotherapy,S-EPMC3935613
+c9,sublingual immunotherapy,GSE147197
+c9,sublingual immunotherapy,VIVLI_7f520c6a-9aa2-4c51-9caf-d44b1a8d071e
+c9,sublingual immunotherapy,S-EPMC6166283
+c10,sublingual immunotherapy,IMMPORT_SDY1026
+c10,sublingual immunotherapy,IMMPORT_SDY1515_2
+c10,sublingual immunotherapy,VIVLI_4561de30-5510-4875-9ef6-1327d249bf57
+c10,sublingual immunotherapy,VIVLI_c9c0ceae-a4b7-4f7f-af04-80bffe832169
+c10,sublingual immunotherapy,GSE147197
+c10,sublingual immunotherapy,VIVLI_7f520c6a-9aa2-4c51-9caf-d44b1a8d071e
+c10,sublingual immunotherapy,IMMPORT_SDY1656
+c10,sublingual immunotherapy,S-EPMC5479315
+c10,sublingual immunotherapy,S-EPMC3983904
+c10,sublingual immunotherapy,S-EPMC3935613
+c11,sublingual immunotherapy,S-EPMC5479315
+c11,sublingual immunotherapy,S-EPMC3983904
+c11,sublingual immunotherapy,S-EPMC3935613
+c11,sublingual immunotherapy,S-EPMC4892109
+c11,sublingual immunotherapy,PRJNA613317
+c11,sublingual immunotherapy,S-EPMC6166283
+c11,sublingual immunotherapy,VIVLI_4561de30-5510-4875-9ef6-1327d249bf57
+c11,sublingual immunotherapy,S-EPMC5451400
+c11,sublingual immunotherapy,S-EPMC6438743
+c11,sublingual immunotherapy,VIVLI_c9c0ceae-a4b7-4f7f-af04-80bffe832169
+c12,sublingual immunotherapy,S-EPMC5479315
+c12,sublingual immunotherapy,S-EPMC3983904
+c12,sublingual immunotherapy,S-EPMC3935613
+c12,sublingual immunotherapy,VIVLI_4561de30-5510-4875-9ef6-1327d249bf57
+c12,sublingual immunotherapy,S-EPMC4892109
+c12,sublingual immunotherapy,S-EPMC6166283
+c12,sublingual immunotherapy,VIVLI_c9c0ceae-a4b7-4f7f-af04-80bffe832169
+c12,sublingual immunotherapy,S-EPMC5451400
+c12,sublingual immunotherapy,PRJNA613317
+c12,sublingual immunotherapy,S-EPMC6438743
+c13,sublingual immunotherapy,S-EPMC5479315
+c13,sublingual immunotherapy,VIVLI_4561de30-5510-4875-9ef6-1327d249bf57
+c13,sublingual immunotherapy,S-EPMC3983904
+c13,sublingual immunotherapy,S-EPMC3935613
+c13,sublingual immunotherapy,VIVLI_c9c0ceae-a4b7-4f7f-af04-80bffe832169
+c13,sublingual immunotherapy,VIVLI_7f520c6a-9aa2-4c51-9caf-d44b1a8d071e
+c13,sublingual immunotherapy,IMMPORT_SDY1026
+c13,sublingual immunotherapy,S-EPMC4892109
+c13,sublingual immunotherapy,S-EPMC6166283
+c13,sublingual immunotherapy,S-EPMC5451400
+c14,sublingual immunotherapy,VIVLI_4561de30-5510-4875-9ef6-1327d249bf57
+c14,sublingual immunotherapy,VIVLI_c9c0ceae-a4b7-4f7f-af04-80bffe832169
+c14,sublingual immunotherapy,S-EPMC5479315
+c14,sublingual immunotherapy,IMMPORT_SDY1026
+c14,sublingual immunotherapy,VIVLI_7f520c6a-9aa2-4c51-9caf-d44b1a8d071e
+c14,sublingual immunotherapy,S-EPMC3983904
+c14,sublingual immunotherapy,S-EPMC3935613
+c14,sublingual immunotherapy,IMMPORT_SDY1515_2
+c14,sublingual immunotherapy,GSE147197
+c14,sublingual immunotherapy,S-EPMC6166283
+c15,sublingual immunotherapy,VIVLI_4561de30-5510-4875-9ef6-1327d249bf57
+c15,sublingual immunotherapy,VIVLI_c9c0ceae-a4b7-4f7f-af04-80bffe832169
+c15,sublingual immunotherapy,IMMPORT_SDY1026
+c15,sublingual immunotherapy,VIVLI_7f520c6a-9aa2-4c51-9caf-d44b1a8d071e
+c15,sublingual immunotherapy,IMMPORT_SDY1515_2
+c15,sublingual immunotherapy,S-EPMC5479315
+c15,sublingual immunotherapy,IMMPORT_SDY1656
+c15,sublingual immunotherapy,GSE147197
+c15,sublingual immunotherapy,S-EPMC3983904
+c15,sublingual immunotherapy,S-EPMC3935613
+original query,AIDS,S-EPMC7818909
+original query,AIDS,S-EPMC6638923
+original query,AIDS,S-EPMC2699618
+original query,AIDS,S-EPMC7488098
+original query,AIDS,S-EPMC6435605
+original query,AIDS,S-EPMC7693693
+original query,AIDS,S-EPMC3708901
+original query,AIDS,S-EPMC6040727
+original query,AIDS,ZENODO_4958916
+original query,AIDS,S-EPMC2180176
+c1,AIDS,S-EPMC7818909
+c1,AIDS,S-EPMC6638923
+c1,AIDS,S-EPMC6435605
+c1,AIDS,S-EPMC7693693
+c1,AIDS,S-EPMC3708901
+c1,AIDS,S-EPMC2699618
+c1,AIDS,S-EPMC7488098
+c1,AIDS,ZENODO_4958916
+c1,AIDS,S-EPMC6040727
+c1,AIDS,DRYAD_doi.org:10.5061:dryad.f45s8
+c2,AIDS,S-EPMC7818909
+c2,AIDS,S-EPMC6638923
+c2,AIDS,S-EPMC6435605
+c2,AIDS,S-EPMC7693693
+c2,AIDS,DRYAD_doi.org:10.5061:dryad.f45s8
+c2,AIDS,DRYAD_doi.org:10.5061:dryad.9r35r
+c2,AIDS,S-EPMC3708901
+c2,AIDS,ZENODO_4958916
+c2,AIDS,S-EPMC6040727
+c2,AIDS,S-EPMC2180176
+c3,AIDS,S-EPMC7818909
+c3,AIDS,DRYAD_doi.org:10.5061:dryad.9r35r
+c3,AIDS,DRYAD_doi.org:10.5061:dryad.f45s8
+c3,AIDS,S-EPMC6638923
+c3,AIDS,S-EPMC6435605
+c3,AIDS,S-EPMC7693693
+c3,AIDS,ZENODO_4323071
+c3,AIDS,S-EPMC3708901
+c3,AIDS,ZENODO_4958916
+c3,AIDS,S-EPMC6040727
+c4,AIDS,DRYAD_doi.org:10.5061:dryad.9r35r
+c4,AIDS,DRYAD_doi.org:10.5061:dryad.f45s8
+c4,AIDS,S-EPMC7818909
+c4,AIDS,ZENODO_4323071
+c4,AIDS,veupathdb_DS_e8c4cf2187
+c4,AIDS,GSE76246
+c4,AIDS,S-EPMC6638923
+c4,AIDS,GSE139511
+c4,AIDS,S-EPMC6435605
+c4,AIDS,S-EPMC7693693
+c5,AIDS,GSE139511
+c5,AIDS,DRYAD_doi.org:10.5061:dryad.9r35r
+c5,AIDS,veupathdb_DS_e8c4cf2187
+c5,AIDS,GSE30695
+c5,AIDS,DRYAD_doi.org:10.5061:dryad.f45s8
+c5,AIDS,GSE76246
+c5,AIDS,GSE71063
+c5,AIDS,GSE71064
+c5,AIDS,GSE20200
+c5,AIDS,ZENODO_4323071
+c6,AIDS,S-EPMC7818909
+c6,AIDS,S-EPMC6638923
+c6,AIDS,S-EPMC6435605
+c6,AIDS,S-EPMC7693693
+c6,AIDS,S-EPMC2699618
+c6,AIDS,S-EPMC3708901
+c6,AIDS,S-EPMC7488098
+c6,AIDS,ZENODO_4958916
+c6,AIDS,S-EPMC6040727
+c6,AIDS,DRYAD_doi.org:10.5061:dryad.f45s8
+c7,AIDS,S-EPMC7818909
+c7,AIDS,S-EPMC6638923
+c7,AIDS,DRYAD_doi.org:10.5061:dryad.9r35r
+c7,AIDS,DRYAD_doi.org:10.5061:dryad.f45s8
+c7,AIDS,S-EPMC6435605
+c7,AIDS,S-EPMC7693693
+c7,AIDS,ZENODO_4958916
+c7,AIDS,S-EPMC3708901
+c7,AIDS,S-EPMC6040727
+c7,AIDS,ZENODO_5000397
+c8,AIDS,DRYAD_doi.org:10.5061:dryad.9r35r
+c8,AIDS,DRYAD_doi.org:10.5061:dryad.f45s8
+c8,AIDS,S-EPMC7818909
+c8,AIDS,S-EPMC6638923
+c8,AIDS,ZENODO_4958916
+c8,AIDS,ZENODO_4323071
+c8,AIDS,S-EPMC6435605
+c8,AIDS,S-EPMC7693693
+c8,AIDS,S-EPMC3708901
+c8,AIDS,ZENODO_5000397
+c9,AIDS,DRYAD_doi.org:10.5061:dryad.9r35r
+c9,AIDS,DRYAD_doi.org:10.5061:dryad.f45s8
+c9,AIDS,ZENODO_4323071
+c9,AIDS,S-EPMC7818909
+c9,AIDS,ZENODO_4958916
+c9,AIDS,veupathdb_DS_e8c4cf2187
+c9,AIDS,Dataverse_10.5064_F6SF2T3N
+c9,AIDS,S-EPMC6638923
+c9,AIDS,ZENODO_7535196
+c9,AIDS,Mendeley_pzp26k9fy7
+c10,AIDS,DRYAD_doi.org:10.5061:dryad.9r35r
+c10,AIDS,DRYAD_doi.org:10.5061:dryad.f45s8
+c10,AIDS,veupathdb_DS_e8c4cf2187
+c10,AIDS,ZENODO_4323071
+c10,AIDS,GSE139511
+c10,AIDS,Dataverse_10.5064_F6SF2T3N
+c10,AIDS,GSE76246
+c10,AIDS,Dataverse_10.7910_DVN_28159
+c10,AIDS,ZENODO_7535196
+c10,AIDS,Mendeley_pzp26k9fy7
+c11,AIDS,S-EPMC7818909
+c11,AIDS,S-EPMC6638923
+c11,AIDS,S-EPMC6435605
+c11,AIDS,S-EPMC7693693
+c11,AIDS,S-EPMC2699618
+c11,AIDS,S-EPMC7488098
+c11,AIDS,ZENODO_4958916
+c11,AIDS,S-EPMC3708901
+c11,AIDS,DRYAD_doi.org:10.5061:dryad.9r35r
+c11,AIDS,DRYAD_doi.org:10.5061:dryad.f45s8
+c12,AIDS,S-EPMC7818909
+c12,AIDS,DRYAD_doi.org:10.5061:dryad.9r35r
+c12,AIDS,ZENODO_4958916
+c12,AIDS,DRYAD_doi.org:10.5061:dryad.f45s8
+c12,AIDS,S-EPMC6638923
+c12,AIDS,S-EPMC6435605
+c12,AIDS,S-EPMC7693693
+c12,AIDS,ZENODO_5000397
+c12,AIDS,S-EPMC3708901
+c12,AIDS,ZENODO_50919
+c13,AIDS,DRYAD_doi.org:10.5061:dryad.9r35r
+c13,AIDS,DRYAD_doi.org:10.5061:dryad.f45s8
+c13,AIDS,ZENODO_4958916
+c13,AIDS,S-EPMC7818909
+c13,AIDS,ZENODO_4323071
+c13,AIDS,ZENODO_5000397
+c13,AIDS,ZENODO_50919
+c13,AIDS,S-EPMC6638923
+c13,AIDS,S-EPMC6435605
+c13,AIDS,S-EPMC7693693
+c14,AIDS,DRYAD_doi.org:10.5061:dryad.9r35r
+c14,AIDS,DRYAD_doi.org:10.5061:dryad.f45s8
+c14,AIDS,ZENODO_4958916
+c14,AIDS,ZENODO_4323071
+c14,AIDS,Dataverse_10.5064_F6SF2T3N
+c14,AIDS,Dataverse_10.7910_DVN_28159
+c14,AIDS,ZENODO_50919
+c14,AIDS,ZENODO_5000397
+c14,AIDS,ZENODO_7535196
+c14,AIDS,Dataverse_10.7910_DVN_FSD3SK
+c15,AIDS,DRYAD_doi.org:10.5061:dryad.9r35r
+c15,AIDS,DRYAD_doi.org:10.5061:dryad.f45s8
+c15,AIDS,Dataverse_10.5064_F6SF2T3N
+c15,AIDS,Dataverse_10.7910_DVN_28159
+c15,AIDS,ZENODO_4323071
+c15,AIDS,Dataverse_10.7910_DVN_FSD3SK
+c15,AIDS,VIVLI_603b5575-25d3-4b36-9ddc-ed5db6b27da5
+c15,AIDS,ZENODO_4958916
+c15,AIDS,ZENODO_7535196
+c15,AIDS,veupathdb_DS_e8c4cf2187
+original query,t-cell function,S-EPMC1478197
+original query,t-cell function,S-EPMC2950556
+original query,t-cell function,S-EPMC1783452
+original query,t-cell function,S-EPMC4728445
+original query,t-cell function,S-EPMC1852236
+original query,t-cell function,S-EPMC7696489
+original query,t-cell function,S-EPMC2248802
+original query,t-cell function,PRJNA496482
+original query,t-cell function,PRJNA734332
+original query,t-cell function,S-EPMC2970736
+c1,t-cell function,S-EPMC1478197
+c1,t-cell function,S-EPMC2950556
+c1,t-cell function,S-EPMC1783452
+c1,t-cell function,S-EPMC4728445
+c1,t-cell function,S-EPMC1852236
+c1,t-cell function,S-EPMC7696489
+c1,t-cell function,S-EPMC2248802
+c1,t-cell function,S-EPMC2970736
+c1,t-cell function,S-EPMC3017182
+c1,t-cell function,S-EPMC6980695
+c2,t-cell function,S-EPMC1478197
+c2,t-cell function,S-EPMC2950556
+c2,t-cell function,S-EPMC1783452
+c2,t-cell function,S-EPMC4728445
+c2,t-cell function,S-EPMC1852236
+c2,t-cell function,S-EPMC7696489
+c2,t-cell function,S-EPMC2248802
+c2,t-cell function,GSE175941
+c2,t-cell function,S-EPMC2970736
+c2,t-cell function,S-EPMC3017182
+c3,t-cell function,S-EPMC1478197
+c3,t-cell function,S-EPMC2950556
+c3,t-cell function,GSE175941
+c3,t-cell function,S-EPMC1783452
+c3,t-cell function,S-EPMC4728445
+c3,t-cell function,GSE49308
+c3,t-cell function,GSE121592
+c3,t-cell function,S-EPMC1852236
+c3,t-cell function,S-EPMC7696489
+c3,t-cell function,IMMPORT_SDY654
+c4,t-cell function,GSE175941
+c4,t-cell function,IMMPORT_SDY654
+c4,t-cell function,GSE49308
+c4,t-cell function,GSE121592
+c4,t-cell function,GSE16098
+c4,t-cell function,S-EPMC1478197
+c4,t-cell function,GSE125674
+c4,t-cell function,S-EPMC2950556
+c4,t-cell function,GSE172194
+c4,t-cell function,GSE19160
+c5,t-cell function,IMMPORT_SDY654
+c5,t-cell function,GSE175941
+c5,t-cell function,GSE16098
+c5,t-cell function,GSE49308
+c5,t-cell function,GSE172194
+c5,t-cell function,GSE121592
+c5,t-cell function,GSE19160
+c5,t-cell function,GSE125674
+c5,t-cell function,GSE82160
+c5,t-cell function,GSE48029
+c6,t-cell function,S-EPMC1478197
+c6,t-cell function,S-EPMC2950556
+c6,t-cell function,S-EPMC1783452
+c6,t-cell function,S-EPMC4728445
+c6,t-cell function,S-EPMC1852236
+c6,t-cell function,S-EPMC7696489
+c6,t-cell function,S-EPMC2248802
+c6,t-cell function,S-EPMC2970736
+c6,t-cell function,S-EPMC3017182
+c6,t-cell function,S-EPMC6980695
+c7,t-cell function,S-EPMC1478197
+c7,t-cell function,S-EPMC2950556
+c7,t-cell function,S-EPMC1783452
+c7,t-cell function,S-EPMC4728445
+c7,t-cell function,S-EPMC1852236
+c7,t-cell function,S-EPMC7696489
+c7,t-cell function,S-EPMC2248802
+c7,t-cell function,GSE175941
+c7,t-cell function,S-EPMC2970736
+c7,t-cell function,S-EPMC3017182
+c8,t-cell function,S-EPMC1478197
+c8,t-cell function,S-EPMC2950556
+c8,t-cell function,GSE175941
+c8,t-cell function,S-EPMC1783452
+c8,t-cell function,S-EPMC4728445
+c8,t-cell function,S-EPMC1852236
+c8,t-cell function,S-EPMC7696489
+c8,t-cell function,GSE49308
+c8,t-cell function,GSE121592
+c8,t-cell function,S-EPMC2248802
+c9,t-cell function,GSE175941
+c9,t-cell function,IMMPORT_SDY654
+c9,t-cell function,GSE49308
+c9,t-cell function,GSE121592
+c9,t-cell function,S-EPMC1478197
+c9,t-cell function,S-EPMC2950556
+c9,t-cell function,GSE125674
+c9,t-cell function,GSE16098
+c9,t-cell function,S-EPMC1783452
+c9,t-cell function,S-EPMC4728445
+c10,t-cell function,IMMPORT_SDY654
+c10,t-cell function,GSE175941
+c10,t-cell function,GSE16098
+c10,t-cell function,GSE49308
+c10,t-cell function,GSE121592
+c10,t-cell function,GSE19160
+c10,t-cell function,GSE125674
+c10,t-cell function,GSE172194
+c10,t-cell function,GSE48029
+c10,t-cell function,GSE121747
+c11,t-cell function,S-EPMC1478197
+c11,t-cell function,S-EPMC2950556
+c11,t-cell function,S-EPMC1783452
+c11,t-cell function,S-EPMC4728445
+c11,t-cell function,S-EPMC1852236
+c11,t-cell function,S-EPMC7696489
+c11,t-cell function,S-EPMC2248802
+c11,t-cell function,S-EPMC2970736
+c11,t-cell function,S-EPMC3017182
+c11,t-cell function,S-EPMC6980695
+c12,t-cell function,S-EPMC1478197
+c12,t-cell function,S-EPMC2950556
+c12,t-cell function,S-EPMC1783452
+c12,t-cell function,S-EPMC4728445
+c12,t-cell function,S-EPMC1852236
+c12,t-cell function,S-EPMC7696489
+c12,t-cell function,S-EPMC2248802
+c12,t-cell function,S-EPMC2970736
+c12,t-cell function,GSE175941
+c12,t-cell function,S-EPMC3017182
+c13,t-cell function,S-EPMC1478197
+c13,t-cell function,S-EPMC2950556
+c13,t-cell function,S-EPMC1783452
+c13,t-cell function,S-EPMC4728445
+c13,t-cell function,GSE175941
+c13,t-cell function,S-EPMC1852236
+c13,t-cell function,S-EPMC7696489
+c13,t-cell function,S-EPMC2248802
+c13,t-cell function,GSE49308
+c13,t-cell function,IMMPORT_SDY654
+c14,t-cell function,IMMPORT_SDY654
+c14,t-cell function,GSE175941
+c14,t-cell function,S-EPMC1478197
+c14,t-cell function,S-EPMC2950556
+c14,t-cell function,GSE49308
+c14,t-cell function,GSE121592
+c14,t-cell function,S-EPMC1783452
+c14,t-cell function,S-EPMC4728445
+c14,t-cell function,S-EPMC1852236
+c14,t-cell function,S-EPMC7696489
+c15,t-cell function,IMMPORT_SDY654
+c15,t-cell function,GSE175941
+c15,t-cell function,GSE49308
+c15,t-cell function,GSE121592
+c15,t-cell function,GSE125674
+c15,t-cell function,GSE16098
+c15,t-cell function,S-EPMC1478197
+c15,t-cell function,GSE48029
+c15,t-cell function,GSE121747
+c15,t-cell function,S-EPMC2950556
+original query,immunotherapeutics,S-EPMC4019905
+original query,immunotherapeutics,S-EPMC7784533
+original query,immunotherapeutics,S-EPMC6481018
+original query,immunotherapeutics,S-EPMC7533533
+original query,immunotherapeutics,S-EPMC7415431
+original query,immunotherapeutics,S-EPMC4703482
+original query,immunotherapeutics,S-EPMC6237481
+original query,immunotherapeutics,PXD017839
+original query,immunotherapeutics,S-EPMC6536974
+original query,immunotherapeutics,S-EPMC7103671
+c1,immunotherapeutics,S-EPMC4019905
+c1,immunotherapeutics,S-EPMC7784533
+c1,immunotherapeutics,S-EPMC6481018
+c1,immunotherapeutics,S-EPMC7533533
+c1,immunotherapeutics,S-EPMC7415431
+c1,immunotherapeutics,S-EPMC4703482
+c1,immunotherapeutics,S-EPMC6237481
+c1,immunotherapeutics,PXD017839
+c1,immunotherapeutics,S-EPMC6536974
+c1,immunotherapeutics,S-EPMC7103671
+c2,immunotherapeutics,S-EPMC4019905
+c2,immunotherapeutics,S-EPMC7784533
+c2,immunotherapeutics,S-EPMC6481018
+c2,immunotherapeutics,S-EPMC7533533
+c2,immunotherapeutics,S-EPMC7415431
+c2,immunotherapeutics,S-EPMC4703482
+c2,immunotherapeutics,S-EPMC6237481
+c2,immunotherapeutics,PXD017839
+c2,immunotherapeutics,S-EPMC6536974
+c2,immunotherapeutics,S-EPMC7052369
+c3,immunotherapeutics,S-EPMC4019905
+c3,immunotherapeutics,S-EPMC7784533
+c3,immunotherapeutics,S-EPMC6481018
+c3,immunotherapeutics,S-EPMC7533533
+c3,immunotherapeutics,S-EPMC7415431
+c3,immunotherapeutics,S-EPMC4703482
+c3,immunotherapeutics,S-EPMC6237481
+c3,immunotherapeutics,PXD017839
+c3,immunotherapeutics,S-EPMC6536974
+c3,immunotherapeutics,S-EPMC7052369
+c4,immunotherapeutics,S-EPMC4019905
+c4,immunotherapeutics,S-EPMC7784533
+c4,immunotherapeutics,S-EPMC6481018
+c4,immunotherapeutics,S-EPMC7533533
+c4,immunotherapeutics,S-EPMC7415431
+c4,immunotherapeutics,S-EPMC4703482
+c4,immunotherapeutics,S-EPMC6237481
+c4,immunotherapeutics,PXD017839
+c4,immunotherapeutics,S-EPMC6536974
+c4,immunotherapeutics,S-EPMC7052369
+c5,immunotherapeutics,S-EPMC4019905
+c5,immunotherapeutics,S-EPMC7784533
+c5,immunotherapeutics,S-EPMC6481018
+c5,immunotherapeutics,S-EPMC7533533
+c5,immunotherapeutics,S-EPMC7415431
+c5,immunotherapeutics,S-EPMC4703482
+c5,immunotherapeutics,S-EPMC6237481
+c5,immunotherapeutics,PXD017839
+c5,immunotherapeutics,S-EPMC6536974
+c5,immunotherapeutics,S-EPMC7052369
+c6,immunotherapeutics,S-EPMC4019905
+c6,immunotherapeutics,S-EPMC7784533
+c6,immunotherapeutics,S-EPMC6481018
+c6,immunotherapeutics,S-EPMC7533533
+c6,immunotherapeutics,S-EPMC7415431
+c6,immunotherapeutics,S-EPMC4703482
+c6,immunotherapeutics,S-EPMC6237481
+c6,immunotherapeutics,PXD017839
+c6,immunotherapeutics,S-EPMC6536974
+c6,immunotherapeutics,S-EPMC7103671
+c7,immunotherapeutics,S-EPMC4019905
+c7,immunotherapeutics,S-EPMC7784533
+c7,immunotherapeutics,S-EPMC6481018
+c7,immunotherapeutics,S-EPMC7533533
+c7,immunotherapeutics,S-EPMC7415431
+c7,immunotherapeutics,S-EPMC4703482
+c7,immunotherapeutics,S-EPMC6237481
+c7,immunotherapeutics,PXD017839
+c7,immunotherapeutics,S-EPMC6536974
+c7,immunotherapeutics,S-EPMC7103671
+c8,immunotherapeutics,S-EPMC4019905
+c8,immunotherapeutics,S-EPMC7784533
+c8,immunotherapeutics,S-EPMC6481018
+c8,immunotherapeutics,S-EPMC7533533
+c8,immunotherapeutics,S-EPMC7415431
+c8,immunotherapeutics,S-EPMC4703482
+c8,immunotherapeutics,S-EPMC6237481
+c8,immunotherapeutics,PXD017839
+c8,immunotherapeutics,S-EPMC6536974
+c8,immunotherapeutics,S-EPMC7052369
+c9,immunotherapeutics,S-EPMC4019905
+c9,immunotherapeutics,S-EPMC7784533
+c9,immunotherapeutics,S-EPMC6481018
+c9,immunotherapeutics,S-EPMC7533533
+c9,immunotherapeutics,S-EPMC7415431
+c9,immunotherapeutics,S-EPMC4703482
+c9,immunotherapeutics,S-EPMC6237481
+c9,immunotherapeutics,PXD017839
+c9,immunotherapeutics,S-EPMC6536974
+c9,immunotherapeutics,S-EPMC7052369
+c10,immunotherapeutics,S-EPMC4019905
+c10,immunotherapeutics,S-EPMC7784533
+c10,immunotherapeutics,S-EPMC6481018
+c10,immunotherapeutics,S-EPMC7533533
+c10,immunotherapeutics,S-EPMC7415431
+c10,immunotherapeutics,S-EPMC4703482
+c10,immunotherapeutics,S-EPMC6237481
+c10,immunotherapeutics,PXD017839
+c10,immunotherapeutics,S-EPMC6536974
+c10,immunotherapeutics,S-EPMC7052369
+c11,immunotherapeutics,S-EPMC4019905
+c11,immunotherapeutics,S-EPMC7784533
+c11,immunotherapeutics,S-EPMC6481018
+c11,immunotherapeutics,S-EPMC7533533
+c11,immunotherapeutics,S-EPMC7415431
+c11,immunotherapeutics,S-EPMC4703482
+c11,immunotherapeutics,S-EPMC6237481
+c11,immunotherapeutics,PXD017839
+c11,immunotherapeutics,S-EPMC6536974
+c11,immunotherapeutics,S-EPMC7103671
+c12,immunotherapeutics,S-EPMC4019905
+c12,immunotherapeutics,S-EPMC7784533
+c12,immunotherapeutics,S-EPMC6481018
+c12,immunotherapeutics,S-EPMC7533533
+c12,immunotherapeutics,S-EPMC7415431
+c12,immunotherapeutics,S-EPMC4703482
+c12,immunotherapeutics,S-EPMC6237481
+c12,immunotherapeutics,PXD017839
+c12,immunotherapeutics,S-EPMC6536974
+c12,immunotherapeutics,S-EPMC7103671
+c13,immunotherapeutics,S-EPMC4019905
+c13,immunotherapeutics,S-EPMC7784533
+c13,immunotherapeutics,S-EPMC6481018
+c13,immunotherapeutics,S-EPMC7533533
+c13,immunotherapeutics,S-EPMC7415431
+c13,immunotherapeutics,S-EPMC4703482
+c13,immunotherapeutics,S-EPMC6237481
+c13,immunotherapeutics,PXD017839
+c13,immunotherapeutics,S-EPMC6536974
+c13,immunotherapeutics,S-EPMC7052369
+c14,immunotherapeutics,S-EPMC4019905
+c14,immunotherapeutics,S-EPMC7784533
+c14,immunotherapeutics,S-EPMC6481018
+c14,immunotherapeutics,S-EPMC7533533
+c14,immunotherapeutics,S-EPMC7415431
+c14,immunotherapeutics,S-EPMC4703482
+c14,immunotherapeutics,S-EPMC6237481
+c14,immunotherapeutics,PXD017839
+c14,immunotherapeutics,S-EPMC6536974
+c14,immunotherapeutics,S-EPMC7052369
+c15,immunotherapeutics,S-EPMC4019905
+c15,immunotherapeutics,S-EPMC7784533
+c15,immunotherapeutics,S-EPMC6481018
+c15,immunotherapeutics,S-EPMC7533533
+c15,immunotherapeutics,S-EPMC7415431
+c15,immunotherapeutics,S-EPMC4703482
+c15,immunotherapeutics,PXD017839
+c15,immunotherapeutics,S-EPMC6237481
+c15,immunotherapeutics,S-EPMC6536974
+c15,immunotherapeutics,S-EPMC7052369
+original query,addison's disease,S-BSST626
+original query,addison's disease,S-EPMC4821366
+original query,addison's disease,S-EPMC6026684
+original query,addison's disease,S-EPMC6952273
+original query,addison's disease,S-EPMC5434126
+original query,addison's disease,S-EPMC4589105
+original query,addison's disease,S-EPMC5693969
+original query,addison's disease,S-EPMC2808202
+original query,addison's disease,S-EPMC7182094
+original query,addison's disease,S-EPMC5675702
+c1,addison's disease,S-BSST626
+c1,addison's disease,S-EPMC4821366
+c1,addison's disease,S-EPMC6026684
+c1,addison's disease,S-EPMC6952273
+c1,addison's disease,S-EPMC5434126
+c1,addison's disease,S-EPMC4589105
+c1,addison's disease,S-EPMC5693969
+c1,addison's disease,S-EPMC2808202
+c1,addison's disease,S-EPMC7182094
+c1,addison's disease,S-EPMC5675702
+c2,addison's disease,S-BSST626
+c2,addison's disease,S-EPMC4821366
+c2,addison's disease,S-EPMC6026684
+c2,addison's disease,S-EPMC6952273
+c2,addison's disease,S-EPMC5434126
+c2,addison's disease,S-EPMC4589105
+c2,addison's disease,S-EPMC5693969
+c2,addison's disease,S-EPMC2808202
+c2,addison's disease,S-EPMC7182094
+c2,addison's disease,Dataverse_10.18710_Q3FZAN
+c3,addison's disease,S-BSST626
+c3,addison's disease,S-EPMC6952273
+c3,addison's disease,S-EPMC4821366
+c3,addison's disease,S-EPMC6026684
+c3,addison's disease,S-EPMC5434126
+c3,addison's disease,Dataverse_10.18710_Q3FZAN
+c3,addison's disease,S-EPMC4589105
+c3,addison's disease,S-EPMC5693969
+c3,addison's disease,S-EPMC2808202
+c3,addison's disease,S-EPMC7182094
+c4,addison's disease,S-BSST626
+c4,addison's disease,S-EPMC6952273
+c4,addison's disease,S-EPMC4821366
+c4,addison's disease,S-EPMC6026684
+c4,addison's disease,Dataverse_10.18710_Q3FZAN
+c4,addison's disease,S-EPMC5434126
+c4,addison's disease,S-EPMC4589105
+c4,addison's disease,S-EPMC5693969
+c4,addison's disease,S-EPMC2808202
+c4,addison's disease,S-EPMC7182094
+c5,addison's disease,S-BSST626
+c5,addison's disease,Dataverse_10.18710_Q3FZAN
+c5,addison's disease,S-EPMC6952273
+c5,addison's disease,S-EPMC4821366
+c5,addison's disease,S-EPMC5434126
+c5,addison's disease,S-EPMC6026684
+c5,addison's disease,S-EPMC4589105
+c5,addison's disease,S-EPMC5693969
+c5,addison's disease,S-EPMC2808202
+c5,addison's disease,S-EPMC7182094
+c6,addison's disease,S-BSST626
+c6,addison's disease,S-EPMC4821366
+c6,addison's disease,S-EPMC6026684
+c6,addison's disease,S-EPMC6952273
+c6,addison's disease,S-EPMC5434126
+c6,addison's disease,S-EPMC4589105
+c6,addison's disease,S-EPMC5693969
+c6,addison's disease,S-EPMC2808202
+c6,addison's disease,S-EPMC7182094
+c6,addison's disease,S-EPMC5675702
+c7,addison's disease,S-BSST626
+c7,addison's disease,S-EPMC4821366
+c7,addison's disease,S-EPMC6026684
+c7,addison's disease,S-EPMC6952273
+c7,addison's disease,S-EPMC5434126
+c7,addison's disease,S-EPMC4589105
+c7,addison's disease,Dataverse_10.18710_Q3FZAN
+c7,addison's disease,S-EPMC5693969
+c7,addison's disease,S-EPMC2808202
+c7,addison's disease,S-EPMC7182094
+c8,addison's disease,S-BSST626
+c8,addison's disease,S-EPMC4821366
+c8,addison's disease,S-EPMC6952273
+c8,addison's disease,S-EPMC6026684
+c8,addison's disease,S-EPMC5434126
+c8,addison's disease,Dataverse_10.18710_Q3FZAN
+c8,addison's disease,S-EPMC4589105
+c8,addison's disease,S-EPMC5693969
+c8,addison's disease,S-EPMC2808202
+c8,addison's disease,S-EPMC7182094
+c9,addison's disease,S-BSST626
+c9,addison's disease,S-EPMC6952273
+c9,addison's disease,S-EPMC4821366
+c9,addison's disease,S-EPMC6026684
+c9,addison's disease,Dataverse_10.18710_Q3FZAN
+c9,addison's disease,S-EPMC5434126
+c9,addison's disease,S-EPMC4589105
+c9,addison's disease,S-EPMC5693969
+c9,addison's disease,S-EPMC2808202
+c9,addison's disease,S-EPMC7182094
+c10,addison's disease,S-BSST626
+c10,addison's disease,Dataverse_10.18710_Q3FZAN
+c10,addison's disease,S-EPMC6952273
+c10,addison's disease,S-EPMC4821366
+c10,addison's disease,S-EPMC6026684
+c10,addison's disease,S-EPMC5434126
+c10,addison's disease,S-EPMC4589105
+c10,addison's disease,S-EPMC5693969
+c10,addison's disease,S-EPMC2808202
+c10,addison's disease,S-EPMC7182094
+c11,addison's disease,S-BSST626
+c11,addison's disease,S-EPMC4821366
+c11,addison's disease,S-EPMC6026684
+c11,addison's disease,S-EPMC6952273
+c11,addison's disease,S-EPMC5434126
+c11,addison's disease,S-EPMC4589105
+c11,addison's disease,S-EPMC5693969
+c11,addison's disease,S-EPMC2808202
+c11,addison's disease,S-EPMC7182094
+c11,addison's disease,S-EPMC5675702
+c12,addison's disease,S-BSST626
+c12,addison's disease,S-EPMC4821366
+c12,addison's disease,S-EPMC6026684
+c12,addison's disease,S-EPMC6952273
+c12,addison's disease,S-EPMC5434126
+c12,addison's disease,S-EPMC4589105
+c12,addison's disease,Dataverse_10.18710_Q3FZAN
+c12,addison's disease,S-EPMC5693969
+c12,addison's disease,S-EPMC2808202
+c12,addison's disease,S-EPMC7182094
+c13,addison's disease,S-BSST626
+c13,addison's disease,S-EPMC4821366
+c13,addison's disease,S-EPMC6026684
+c13,addison's disease,S-EPMC6952273
+c13,addison's disease,S-EPMC5434126
+c13,addison's disease,Dataverse_10.18710_Q3FZAN
+c13,addison's disease,S-EPMC4589105
+c13,addison's disease,S-EPMC5693969
+c13,addison's disease,S-EPMC2808202
+c13,addison's disease,S-EPMC7182094
+c14,addison's disease,S-BSST626
+c14,addison's disease,S-EPMC6952273
+c14,addison's disease,S-EPMC4821366
+c14,addison's disease,S-EPMC6026684
+c14,addison's disease,Dataverse_10.18710_Q3FZAN
+c14,addison's disease,S-EPMC5434126
+c14,addison's disease,S-EPMC4589105
+c14,addison's disease,S-EPMC5693969
+c14,addison's disease,S-EPMC2808202
+c14,addison's disease,S-EPMC7182094
+c15,addison's disease,S-BSST626
+c15,addison's disease,Dataverse_10.18710_Q3FZAN
+c15,addison's disease,S-EPMC6952273
+c15,addison's disease,S-EPMC4821366
+c15,addison's disease,S-EPMC6026684
+c15,addison's disease,S-EPMC5434126
+c15,addison's disease,S-EPMC4589105
+c15,addison's disease,S-EPMC5693969
+c15,addison's disease,S-EPMC2808202
+c15,addison's disease,S-EPMC7182094
+original query,cancer,Mendeley_7yb9y7nc52
+original query,cancer,NCBI_SRA_SRP139077
+original query,cancer,NCBI_SRA_SRP394422
+original query,cancer,ZENODO_4792512
+original query,cancer,S-EPMC5448976
+original query,cancer,GSE212173
+original query,cancer,E-GEOD-49052
+original query,cancer,NCBI_SRA_SRP241235
+original query,cancer,GSE49052
+original query,cancer,S-EPMC6247039
+c1,cancer,Mendeley_7yb9y7nc52
+c1,cancer,GSE212173
+c1,cancer,NCBI_SRA_SRP139077
+c1,cancer,GSE3933
+c1,cancer,GSE49052
+c1,cancer,ZENODO_4792512
+c1,cancer,GSE527
+c1,cancer,GSE1037
+c1,cancer,E-GEOD-49052
+c1,cancer,GSE10972
+c2,cancer,Mendeley_7yb9y7nc52
+c2,cancer,GSE3933
+c2,cancer,GSE212173
+c2,cancer,GSE527
+c2,cancer,GSE1037
+c2,cancer,GSE10972
+c2,cancer,GSE27668
+c2,cancer,GSE49052
+c2,cancer,GSE143988
+c2,cancer,GSE42252
+c3,cancer,GSE3933
+c3,cancer,GSE212173
+c3,cancer,Mendeley_7yb9y7nc52
+c3,cancer,GSE27668
+c3,cancer,GSE527
+c3,cancer,GSE1037
+c3,cancer,GSE10972
+c3,cancer,GSE3281
+c3,cancer,GSE796
+c3,cancer,GSE23554
+c4,cancer,GSE3933
+c4,cancer,GSE27668
+c4,cancer,GSE212173
+c4,cancer,GSE3281
+c4,cancer,GSE796
+c4,cancer,GSE23554
+c4,cancer,GSE3141
+c4,cancer,GSE3149
+c4,cancer,GSE3654
+c4,cancer,GSE58135
+c5,cancer,GSE3933
+c5,cancer,GSE27668
+c5,cancer,GSE3281
+c5,cancer,GSE796
+c5,cancer,GSE23554
+c5,cancer,GSE3141
+c5,cancer,GSE3149
+c5,cancer,GSE3654
+c5,cancer,GSE58135
+c5,cancer,GSE3143
+c6,cancer,Mendeley_7yb9y7nc52
+c6,cancer,GSE212173
+c6,cancer,NCBI_SRA_SRP139077
+c6,cancer,GSE49052
+c6,cancer,GSE3933
+c6,cancer,ZENODO_4792512
+c6,cancer,E-GEOD-49052
+c6,cancer,S-EPMC5448976
+c6,cancer,GSE527
+c6,cancer,GSE1037
+c7,cancer,Mendeley_7yb9y7nc52
+c7,cancer,GSE212173
+c7,cancer,GSE3933
+c7,cancer,GSE527
+c7,cancer,GSE1037
+c7,cancer,GSE49052
+c7,cancer,GSE10972
+c7,cancer,GSE143988
+c7,cancer,GSE42252
+c7,cancer,GSE27668
+c8,cancer,GSE3933
+c8,cancer,Mendeley_7yb9y7nc52
+c8,cancer,GSE212173
+c8,cancer,GSE27668
+c8,cancer,GSE527
+c8,cancer,GSE1037
+c8,cancer,GSE10972
+c8,cancer,GSE143988
+c8,cancer,GSE42252
+c8,cancer,GSE3281
+c9,cancer,GSE3933
+c9,cancer,GSE27668
+c9,cancer,Mendeley_7yb9y7nc52
+c9,cancer,GSE212173
+c9,cancer,GSE3281
+c9,cancer,GSE796
+c9,cancer,GSE23554
+c9,cancer,GSE3141
+c9,cancer,GSE3149
+c9,cancer,GSE3654
+c10,cancer,GSE3933
+c10,cancer,GSE27668
+c10,cancer,GSE3281
+c10,cancer,GSE796
+c10,cancer,GSE23554
+c10,cancer,GSE3141
+c10,cancer,GSE3149
+c10,cancer,GSE3654
+c10,cancer,GSE58135
+c10,cancer,GSE3143
+c11,cancer,Mendeley_7yb9y7nc52
+c11,cancer,NCBI_SRA_SRP139077
+c11,cancer,GSE212173
+c11,cancer,ZENODO_4792512
+c11,cancer,GSE49052
+c11,cancer,E-GEOD-49052
+c11,cancer,GSE3933
+c11,cancer,S-EPMC5448976
+c11,cancer,NCBI_SRA_SRP394422
+c11,cancer,GSE527
+c12,cancer,Mendeley_7yb9y7nc52
+c12,cancer,GSE212173
+c12,cancer,GSE3933
+c12,cancer,ZENODO_4792512
+c12,cancer,GSE49052
+c12,cancer,NCBI_SRA_SRP139077
+c12,cancer,GSE527
+c12,cancer,GSE1037
+c12,cancer,Mendeley_572khd33by
+c12,cancer,Mendeley_9mrc3b54g2
+c13,cancer,Mendeley_7yb9y7nc52
+c13,cancer,GSE3933
+c13,cancer,GSE212173
+c13,cancer,GSE527
+c13,cancer,GSE1037
+c13,cancer,GSE10972
+c13,cancer,Mendeley_572khd33by
+c13,cancer,Mendeley_9mrc3b54g2
+c13,cancer,Mendeley_jkg5h9h7bz
+c13,cancer,GSE49052
+c14,cancer,Mendeley_7yb9y7nc52
+c14,cancer,GSE3933
+c14,cancer,GSE212173
+c14,cancer,GSE27668
+c14,cancer,GSE527
+c14,cancer,GSE1037
+c14,cancer,GSE10972
+c14,cancer,Dataverse_10.7910_DVN_PNK9OB
+c14,cancer,Mendeley_572khd33by
+c14,cancer,Mendeley_9mrc3b54g2
+c15,cancer,Mendeley_7yb9y7nc52
+c15,cancer,GSE3933
+c15,cancer,GSE27668
+c15,cancer,GSE212173
+c15,cancer,Dataverse_10.7910_DVN_PNK9OB
+c15,cancer,IMMPORT_SDY1108
+c15,cancer,IMMPORT_SDY1093
+c15,cancer,GSE3281
+c15,cancer,GSE796
+c15,cancer,GSE23554
+original query,myocardial infarction,VIVLI_ffb17c8c-52fd-4678-aa59-89e456ec99e3
+original query,myocardial infarction,S-EPMC7290741
+original query,myocardial infarction,S-EPMC6196770
+original query,myocardial infarction,S-EPMC2765359
+original query,myocardial infarction,S-EPMC3898411
+original query,myocardial infarction,S-EPMC3077423
+original query,myocardial infarction,GSE90745
+original query,myocardial infarction,VIVLI_29044ec7-6219-471a-b34e-5aed6f5a448c
+original query,myocardial infarction,S-EPMC6130125
+original query,myocardial infarction,E-GEOD-62646
+c1,myocardial infarction,VIVLI_ffb17c8c-52fd-4678-aa59-89e456ec99e3
+c1,myocardial infarction,GSE90745
+c1,myocardial infarction,S-EPMC7290741
+c1,myocardial infarction,S-EPMC6196770
+c1,myocardial infarction,S-EPMC2765359
+c1,myocardial infarction,VIVLI_29044ec7-6219-471a-b34e-5aed6f5a448c
+c1,myocardial infarction,S-EPMC3898411
+c1,myocardial infarction,S-EPMC3077423
+c1,myocardial infarction,GSE123487
+c1,myocardial infarction,VIVLI_83f50173-5932-43cc-a5a1-0fcf10ab2df5
+c2,myocardial infarction,VIVLI_ffb17c8c-52fd-4678-aa59-89e456ec99e3
+c2,myocardial infarction,GSE90745
+c2,myocardial infarction,GSE123487
+c2,myocardial infarction,VIVLI_29044ec7-6219-471a-b34e-5aed6f5a448c
+c2,myocardial infarction,GSE62646
+c2,myocardial infarction,VIVLI_83f50173-5932-43cc-a5a1-0fcf10ab2df5
+c2,myocardial infarction,S-EPMC7290741
+c2,myocardial infarction,VIVLI_4ab4915c-0a69-4ec4-a9f6-91587d84cd36
+c2,myocardial infarction,S-EPMC6196770
+c2,myocardial infarction,VIVLI_bf209186-d825-4b05-a491-99eb1507c051
+c3,myocardial infarction,GSE90745
+c3,myocardial infarction,VIVLI_ffb17c8c-52fd-4678-aa59-89e456ec99e3
+c3,myocardial infarction,GSE123487
+c3,myocardial infarction,GSE62646
+c3,myocardial infarction,GSE74135
+c3,myocardial infarction,VIVLI_29044ec7-6219-471a-b34e-5aed6f5a448c
+c3,myocardial infarction,VIVLI_83f50173-5932-43cc-a5a1-0fcf10ab2df5
+c3,myocardial infarction,VIVLI_4ab4915c-0a69-4ec4-a9f6-91587d84cd36
+c3,myocardial infarction,VIVLI_bf209186-d825-4b05-a491-99eb1507c051
+c3,myocardial infarction,GSE135310
+c4,myocardial infarction,GSE90745
+c4,myocardial infarction,GSE74135
+c4,myocardial infarction,VIVLI_ffb17c8c-52fd-4678-aa59-89e456ec99e3
+c4,myocardial infarction,GSE123487
+c4,myocardial infarction,GSE109048
+c4,myocardial infarction,GSE62646
+c4,myocardial infarction,GSE74206
+c4,myocardial infarction,GSE135310
+c4,myocardial infarction,GSE157542
+c4,myocardial infarction,GSE198300
+c5,myocardial infarction,GSE74135
+c5,myocardial infarction,GSE90745
+c5,myocardial infarction,GSE109048
+c5,myocardial infarction,GSE74206
+c5,myocardial infarction,GSE123487
+c5,myocardial infarction,GSE62646
+c5,myocardial infarction,VIVLI_ffb17c8c-52fd-4678-aa59-89e456ec99e3
+c5,myocardial infarction,GSE204712
+c5,myocardial infarction,GSE118226
+c5,myocardial infarction,GSE135310
+c6,myocardial infarction,VIVLI_ffb17c8c-52fd-4678-aa59-89e456ec99e3
+c6,myocardial infarction,GSE90745
+c6,myocardial infarction,S-EPMC7290741
+c6,myocardial infarction,S-EPMC6196770
+c6,myocardial infarction,S-EPMC2765359
+c6,myocardial infarction,VIVLI_29044ec7-6219-471a-b34e-5aed6f5a448c
+c6,myocardial infarction,VIVLI_83f50173-5932-43cc-a5a1-0fcf10ab2df5
+c6,myocardial infarction,S-EPMC3898411
+c6,myocardial infarction,S-EPMC3077423
+c6,myocardial infarction,VIVLI_4ab4915c-0a69-4ec4-a9f6-91587d84cd36
+c7,myocardial infarction,VIVLI_ffb17c8c-52fd-4678-aa59-89e456ec99e3
+c7,myocardial infarction,GSE90745
+c7,myocardial infarction,VIVLI_29044ec7-6219-471a-b34e-5aed6f5a448c
+c7,myocardial infarction,VIVLI_83f50173-5932-43cc-a5a1-0fcf10ab2df5
+c7,myocardial infarction,VIVLI_4ab4915c-0a69-4ec4-a9f6-91587d84cd36
+c7,myocardial infarction,VIVLI_bf209186-d825-4b05-a491-99eb1507c051
+c7,myocardial infarction,GSE123487
+c7,myocardial infarction,VIVLI_b4d203ee-c8f7-4c01-95ef-b582170e2b8b
+c7,myocardial infarction,S-EPMC7290741
+c7,myocardial infarction,S-EPMC6196770
+c8,myocardial infarction,VIVLI_ffb17c8c-52fd-4678-aa59-89e456ec99e3
+c8,myocardial infarction,GSE90745
+c8,myocardial infarction,VIVLI_83f50173-5932-43cc-a5a1-0fcf10ab2df5
+c8,myocardial infarction,VIVLI_29044ec7-6219-471a-b34e-5aed6f5a448c
+c8,myocardial infarction,VIVLI_bf209186-d825-4b05-a491-99eb1507c051
+c8,myocardial infarction,GSE123487
+c8,myocardial infarction,VIVLI_4ab4915c-0a69-4ec4-a9f6-91587d84cd36
+c8,myocardial infarction,VIVLI_b4d203ee-c8f7-4c01-95ef-b582170e2b8b
+c8,myocardial infarction,GSE62646
+c8,myocardial infarction,VIVLI_99051f88-9e4e-45a7-94e6-2edc38f50078
+c9,myocardial infarction,VIVLI_ffb17c8c-52fd-4678-aa59-89e456ec99e3
+c9,myocardial infarction,GSE90745
+c9,myocardial infarction,VIVLI_83f50173-5932-43cc-a5a1-0fcf10ab2df5
+c9,myocardial infarction,VIVLI_bf209186-d825-4b05-a491-99eb1507c051
+c9,myocardial infarction,GSE123487
+c9,myocardial infarction,VIVLI_29044ec7-6219-471a-b34e-5aed6f5a448c
+c9,myocardial infarction,VIVLI_4ab4915c-0a69-4ec4-a9f6-91587d84cd36
+c9,myocardial infarction,GSE62646
+c9,myocardial infarction,VIVLI_b4d203ee-c8f7-4c01-95ef-b582170e2b8b
+c9,myocardial infarction,VIVLI_99051f88-9e4e-45a7-94e6-2edc38f50078
+c10,myocardial infarction,VIVLI_ffb17c8c-52fd-4678-aa59-89e456ec99e3
+c10,myocardial infarction,GSE90745
+c10,myocardial infarction,GSE74135
+c10,myocardial infarction,GSE109048
+c10,myocardial infarction,VIVLI_83f50173-5932-43cc-a5a1-0fcf10ab2df5
+c10,myocardial infarction,VIVLI_bf209186-d825-4b05-a491-99eb1507c051
+c10,myocardial infarction,GSE123487
+c10,myocardial infarction,GSE74206
+c10,myocardial infarction,VIVLI_4ab4915c-0a69-4ec4-a9f6-91587d84cd36
+c10,myocardial infarction,VIVLI_29044ec7-6219-471a-b34e-5aed6f5a448c
+c11,myocardial infarction,VIVLI_ffb17c8c-52fd-4678-aa59-89e456ec99e3
+c11,myocardial infarction,GSE90745
+c11,myocardial infarction,S-EPMC7290741
+c11,myocardial infarction,S-EPMC6196770
+c11,myocardial infarction,VIVLI_29044ec7-6219-471a-b34e-5aed6f5a448c
+c11,myocardial infarction,VIVLI_83f50173-5932-43cc-a5a1-0fcf10ab2df5
+c11,myocardial infarction,S-EPMC2765359
+c11,myocardial infarction,VIVLI_4ab4915c-0a69-4ec4-a9f6-91587d84cd36
+c11,myocardial infarction,VIVLI_bf209186-d825-4b05-a491-99eb1507c051
+c11,myocardial infarction,S-EPMC3898411
+c12,myocardial infarction,VIVLI_ffb17c8c-52fd-4678-aa59-89e456ec99e3
+c12,myocardial infarction,VIVLI_83f50173-5932-43cc-a5a1-0fcf10ab2df5
+c12,myocardial infarction,VIVLI_29044ec7-6219-471a-b34e-5aed6f5a448c
+c12,myocardial infarction,VIVLI_bf209186-d825-4b05-a491-99eb1507c051
+c12,myocardial infarction,VIVLI_4ab4915c-0a69-4ec4-a9f6-91587d84cd36
+c12,myocardial infarction,GSE90745
+c12,myocardial infarction,VIVLI_b4d203ee-c8f7-4c01-95ef-b582170e2b8b
+c12,myocardial infarction,VIVLI_99051f88-9e4e-45a7-94e6-2edc38f50078
+c12,myocardial infarction,VIVLI_ae977951-fa81-4b6c-9404-385d4153e141
+c12,myocardial infarction,VIVLI_bb1aa2ca-3172-4e5e-9a4e-7d72183a0e0d
+c13,myocardial infarction,VIVLI_ffb17c8c-52fd-4678-aa59-89e456ec99e3
+c13,myocardial infarction,VIVLI_83f50173-5932-43cc-a5a1-0fcf10ab2df5
+c13,myocardial infarction,VIVLI_bf209186-d825-4b05-a491-99eb1507c051
+c13,myocardial infarction,VIVLI_4ab4915c-0a69-4ec4-a9f6-91587d84cd36
+c13,myocardial infarction,VIVLI_29044ec7-6219-471a-b34e-5aed6f5a448c
+c13,myocardial infarction,VIVLI_99051f88-9e4e-45a7-94e6-2edc38f50078
+c13,myocardial infarction,VIVLI_b4d203ee-c8f7-4c01-95ef-b582170e2b8b
+c13,myocardial infarction,VIVLI_ae977951-fa81-4b6c-9404-385d4153e141
+c13,myocardial infarction,VIVLI_bb1aa2ca-3172-4e5e-9a4e-7d72183a0e0d
+c13,myocardial infarction,GSE90745
+c14,myocardial infarction,VIVLI_ffb17c8c-52fd-4678-aa59-89e456ec99e3
+c14,myocardial infarction,VIVLI_83f50173-5932-43cc-a5a1-0fcf10ab2df5
+c14,myocardial infarction,VIVLI_bf209186-d825-4b05-a491-99eb1507c051
+c14,myocardial infarction,VIVLI_4ab4915c-0a69-4ec4-a9f6-91587d84cd36
+c14,myocardial infarction,VIVLI_99051f88-9e4e-45a7-94e6-2edc38f50078
+c14,myocardial infarction,VIVLI_29044ec7-6219-471a-b34e-5aed6f5a448c
+c14,myocardial infarction,VIVLI_b4d203ee-c8f7-4c01-95ef-b582170e2b8b
+c14,myocardial infarction,VIVLI_ae977951-fa81-4b6c-9404-385d4153e141
+c14,myocardial infarction,VIVLI_bb1aa2ca-3172-4e5e-9a4e-7d72183a0e0d
+c14,myocardial infarction,VIVLI_ba672c42-0173-47e4-aa50-63142ca16d4b
+c15,myocardial infarction,VIVLI_ffb17c8c-52fd-4678-aa59-89e456ec99e3
+c15,myocardial infarction,VIVLI_83f50173-5932-43cc-a5a1-0fcf10ab2df5
+c15,myocardial infarction,VIVLI_bf209186-d825-4b05-a491-99eb1507c051
+c15,myocardial infarction,VIVLI_99051f88-9e4e-45a7-94e6-2edc38f50078
+c15,myocardial infarction,VIVLI_4ab4915c-0a69-4ec4-a9f6-91587d84cd36
+c15,myocardial infarction,VIVLI_bb1aa2ca-3172-4e5e-9a4e-7d72183a0e0d
+c15,myocardial infarction,VIVLI_b4d203ee-c8f7-4c01-95ef-b582170e2b8b
+c15,myocardial infarction,VIVLI_ae977951-fa81-4b6c-9404-385d4153e141
+c15,myocardial infarction,VIVLI_ba672c42-0173-47e4-aa50-63142ca16d4b
+c15,myocardial infarction,VIVLI_29044ec7-6219-471a-b34e-5aed6f5a448c
+original query,rational cancer drug design,S-EPMC5374430
+original query,rational cancer drug design,S-EPMC7082830
+original query,rational cancer drug design,S-EPMC3993903
+original query,rational cancer drug design,S-EPMC5787466
+original query,rational cancer drug design,S-EPMC4225468
+original query,rational cancer drug design,S-EPMC3596176
+original query,rational cancer drug design,S-EPMC4882116
+original query,rational cancer drug design,S-EPMC4371693
+original query,rational cancer drug design,S-EPMC6007894
+original query,rational cancer drug design,S-EPMC3651705
+c1,rational cancer drug design,S-EPMC5374430
+c1,rational cancer drug design,S-EPMC7082830
+c1,rational cancer drug design,S-EPMC3993903
+c1,rational cancer drug design,S-EPMC5787466
+c1,rational cancer drug design,S-EPMC4225468
+c1,rational cancer drug design,S-EPMC3596176
+c1,rational cancer drug design,S-EPMC4882116
+c1,rational cancer drug design,S-EPMC4371693
+c1,rational cancer drug design,S-EPMC6007894
+c1,rational cancer drug design,S-EPMC3651705
+c2,rational cancer drug design,S-EPMC5374430
+c2,rational cancer drug design,S-EPMC7082830
+c2,rational cancer drug design,S-EPMC5787466
+c2,rational cancer drug design,S-EPMC3993903
+c2,rational cancer drug design,S-EPMC4225468
+c2,rational cancer drug design,S-EPMC3596176
+c2,rational cancer drug design,S-EPMC4882116
+c2,rational cancer drug design,S-EPMC4371693
+c2,rational cancer drug design,S-EPMC6007894
+c2,rational cancer drug design,S-EPMC3651705
+c3,rational cancer drug design,S-EPMC5374430
+c3,rational cancer drug design,S-EPMC7082830
+c3,rational cancer drug design,S-EPMC5787466
+c3,rational cancer drug design,S-EPMC4225468
+c3,rational cancer drug design,S-EPMC3596176
+c3,rational cancer drug design,S-EPMC3993903
+c3,rational cancer drug design,S-EPMC4882116
+c3,rational cancer drug design,S-EPMC4371693
+c3,rational cancer drug design,S-EPMC6007894
+c3,rational cancer drug design,S-EPMC3651705
+c4,rational cancer drug design,S-EPMC5374430
+c4,rational cancer drug design,S-EPMC7082830
+c4,rational cancer drug design,S-EPMC5787466
+c4,rational cancer drug design,S-EPMC4225468
+c4,rational cancer drug design,S-EPMC3596176
+c4,rational cancer drug design,GSE166425
+c4,rational cancer drug design,S-EPMC4882116
+c4,rational cancer drug design,S-EPMC4371693
+c4,rational cancer drug design,S-EPMC6007894
+c4,rational cancer drug design,GSE132486
+c5,rational cancer drug design,S-EPMC5374430
+c5,rational cancer drug design,GSE166425
+c5,rational cancer drug design,GSE132486
+c5,rational cancer drug design,S-EPMC7082830
+c5,rational cancer drug design,S-EPMC5787466
+c5,rational cancer drug design,S-EPMC4225468
+c5,rational cancer drug design,S-EPMC3596176
+c5,rational cancer drug design,S-EPMC4882116
+c5,rational cancer drug design,S-EPMC4371693
+c5,rational cancer drug design,S-EPMC6007894
+c6,rational cancer drug design,S-EPMC5374430
+c6,rational cancer drug design,S-EPMC7082830
+c6,rational cancer drug design,S-EPMC3993903
+c6,rational cancer drug design,S-EPMC5787466
+c6,rational cancer drug design,S-EPMC4225468
+c6,rational cancer drug design,S-EPMC3596176
+c6,rational cancer drug design,S-EPMC4882116
+c6,rational cancer drug design,S-EPMC4371693
+c6,rational cancer drug design,S-EPMC6007894
+c6,rational cancer drug design,S-EPMC3651705
+c7,rational cancer drug design,S-EPMC5374430
+c7,rational cancer drug design,S-EPMC7082830
+c7,rational cancer drug design,S-EPMC5787466
+c7,rational cancer drug design,S-EPMC3993903
+c7,rational cancer drug design,S-EPMC4225468
+c7,rational cancer drug design,S-EPMC3596176
+c7,rational cancer drug design,S-EPMC4882116
+c7,rational cancer drug design,S-EPMC4371693
+c7,rational cancer drug design,S-EPMC6007894
+c7,rational cancer drug design,S-EPMC3651705
+c8,rational cancer drug design,S-EPMC5374430
+c8,rational cancer drug design,S-EPMC7082830
+c8,rational cancer drug design,S-EPMC5787466
+c8,rational cancer drug design,S-EPMC4225468
+c8,rational cancer drug design,S-EPMC3993903
+c8,rational cancer drug design,S-EPMC3596176
+c8,rational cancer drug design,S-EPMC4882116
+c8,rational cancer drug design,S-EPMC4371693
+c8,rational cancer drug design,S-EPMC6007894
+c8,rational cancer drug design,S-EPMC3651705
+c9,rational cancer drug design,S-EPMC5374430
+c9,rational cancer drug design,S-EPMC7082830
+c9,rational cancer drug design,S-EPMC5787466
+c9,rational cancer drug design,S-EPMC4225468
+c9,rational cancer drug design,S-EPMC3596176
+c9,rational cancer drug design,S-EPMC4882116
+c9,rational cancer drug design,S-EPMC4371693
+c9,rational cancer drug design,S-EPMC6007894
+c9,rational cancer drug design,S-EPMC3993903
+c9,rational cancer drug design,S-EPMC3651705
+c10,rational cancer drug design,S-EPMC5374430
+c10,rational cancer drug design,S-EPMC7082830
+c10,rational cancer drug design,GSE166425
+c10,rational cancer drug design,GSE132486
+c10,rational cancer drug design,S-EPMC5787466
+c10,rational cancer drug design,S-EPMC4225468
+c10,rational cancer drug design,S-EPMC3596176
+c10,rational cancer drug design,S-EPMC4882116
+c10,rational cancer drug design,S-EPMC4371693
+c10,rational cancer drug design,S-EPMC6007894
+c11,rational cancer drug design,S-EPMC5374430
+c11,rational cancer drug design,S-EPMC7082830
+c11,rational cancer drug design,S-EPMC3993903
+c11,rational cancer drug design,S-EPMC5787466
+c11,rational cancer drug design,S-EPMC4225468
+c11,rational cancer drug design,S-EPMC3596176
+c11,rational cancer drug design,S-EPMC4882116
+c11,rational cancer drug design,S-EPMC4371693
+c11,rational cancer drug design,S-EPMC6007894
+c11,rational cancer drug design,S-EPMC3651705
+c12,rational cancer drug design,S-EPMC5374430
+c12,rational cancer drug design,S-EPMC7082830
+c12,rational cancer drug design,S-EPMC3993903
+c12,rational cancer drug design,S-EPMC5787466
+c12,rational cancer drug design,S-EPMC4225468
+c12,rational cancer drug design,S-EPMC3596176
+c12,rational cancer drug design,S-EPMC4882116
+c12,rational cancer drug design,S-EPMC4371693
+c12,rational cancer drug design,S-EPMC6007894
+c12,rational cancer drug design,S-EPMC3651705
+c13,rational cancer drug design,S-EPMC5374430
+c13,rational cancer drug design,S-EPMC7082830
+c13,rational cancer drug design,S-EPMC5787466
+c13,rational cancer drug design,S-EPMC3993903
+c13,rational cancer drug design,S-EPMC4225468
+c13,rational cancer drug design,S-EPMC3596176
+c13,rational cancer drug design,S-EPMC4882116
+c13,rational cancer drug design,S-EPMC4371693
+c13,rational cancer drug design,S-EPMC6007894
+c13,rational cancer drug design,S-EPMC3651705
+c14,rational cancer drug design,S-EPMC5374430
+c14,rational cancer drug design,S-EPMC7082830
+c14,rational cancer drug design,S-EPMC5787466
+c14,rational cancer drug design,S-EPMC4225468
+c14,rational cancer drug design,S-EPMC3993903
+c14,rational cancer drug design,S-EPMC3596176
+c14,rational cancer drug design,S-EPMC4882116
+c14,rational cancer drug design,S-EPMC4371693
+c14,rational cancer drug design,S-EPMC6007894
+c14,rational cancer drug design,S-EPMC3651705
+c15,rational cancer drug design,S-EPMC5374430
+c15,rational cancer drug design,S-EPMC7082830
+c15,rational cancer drug design,S-EPMC5787466
+c15,rational cancer drug design,S-EPMC4225468
+c15,rational cancer drug design,GSE166425
+c15,rational cancer drug design,S-EPMC3596176
+c15,rational cancer drug design,GSE132486
+c15,rational cancer drug design,S-EPMC4882116
+c15,rational cancer drug design,S-EPMC4371693
+c15,rational cancer drug design,S-EPMC6007894
+original query,dendritic cells,S-EPMC3751914
+original query,dendritic cells,E-MTAB-11735
+original query,dendritic cells,S-EPMC4657833
+original query,dendritic cells,S-EPMC3654963
+original query,dendritic cells,S-EPMC6292204
+original query,dendritic cells,S-EPMC4583358
+original query,dendritic cells,S-EPMC6830784
+original query,dendritic cells,E-MTAB-11821
+original query,dendritic cells,GSE45652
+original query,dendritic cells,NCBI_SRA_SRP337853
+c1,dendritic cells,S-EPMC3751914
+c1,dendritic cells,GSE45652
+c1,dendritic cells,E-MTAB-11735
+c1,dendritic cells,S-EPMC4657833
+c1,dendritic cells,S-EPMC3654963
+c1,dendritic cells,S-EPMC6292204
+c1,dendritic cells,GSE112082
+c1,dendritic cells,S-EPMC6830784
+c1,dendritic cells,E-MTAB-11821
+c1,dendritic cells,S-EPMC4583358
+c2,dendritic cells,GSE45652
+c2,dendritic cells,S-EPMC3751914
+c2,dendritic cells,GSE112082
+c2,dendritic cells,GSE184423
+c2,dendritic cells,GSE15215
+c2,dendritic cells,E-MTAB-11735
+c2,dendritic cells,GSE28934
+c2,dendritic cells,S-EPMC4657833
+c2,dendritic cells,S-EPMC3654963
+c2,dendritic cells,S-EPMC6292204
+c3,dendritic cells,GSE45652
+c3,dendritic cells,GSE184423
+c3,dendritic cells,GSE15215
+c3,dendritic cells,GSE112082
+c3,dendritic cells,GSE13250
+c3,dendritic cells,GSE28934
+c3,dendritic cells,GSE65564
+c3,dendritic cells,GSE64124
+c3,dendritic cells,S-EPMC3751914
+c3,dendritic cells,IMMPORT_SDY258
+c4,dendritic cells,GSE45652
+c4,dendritic cells,GSE184423
+c4,dendritic cells,GSE15215
+c4,dendritic cells,GSE13250
+c4,dendritic cells,GSE112082
+c4,dendritic cells,IMMPORT_SDY258
+c4,dendritic cells,GSE28934
+c4,dendritic cells,GSE205069
+c4,dendritic cells,GSE65564
+c4,dendritic cells,GSE64124
+c5,dendritic cells,GSE45652
+c5,dendritic cells,GSE184423
+c5,dendritic cells,GSE15215
+c5,dendritic cells,GSE13250
+c5,dendritic cells,IMMPORT_SDY258
+c5,dendritic cells,GSE205069
+c5,dendritic cells,GSE112082
+c5,dendritic cells,GSE139559
+c5,dendritic cells,GSE29949
+c5,dendritic cells,GSE5245
+c6,dendritic cells,S-EPMC3751914
+c6,dendritic cells,GSE45652
+c6,dendritic cells,E-MTAB-11735
+c6,dendritic cells,S-EPMC4657833
+c6,dendritic cells,S-EPMC3654963
+c6,dendritic cells,S-EPMC6292204
+c6,dendritic cells,E-MTAB-11821
+c6,dendritic cells,S-EPMC6830784
+c6,dendritic cells,GSE112082
+c6,dendritic cells,S-EPMC4583358
+c7,dendritic cells,GSE45652
+c7,dendritic cells,S-EPMC3751914
+c7,dendritic cells,GSE112082
+c7,dendritic cells,GSE184423
+c7,dendritic cells,E-MTAB-11735
+c7,dendritic cells,S-EPMC4657833
+c7,dendritic cells,S-EPMC3654963
+c7,dendritic cells,GSE28934
+c7,dendritic cells,GSE15215
+c7,dendritic cells,S-EPMC6292204
+c8,dendritic cells,GSE45652
+c8,dendritic cells,GSE184423
+c8,dendritic cells,GSE112082
+c8,dendritic cells,GSE15215
+c8,dendritic cells,GSE28934
+c8,dendritic cells,S-EPMC3751914
+c8,dendritic cells,GSE13250
+c8,dendritic cells,GSE65564
+c8,dendritic cells,GSE64124
+c8,dendritic cells,IMMPORT_SDY258
+c9,dendritic cells,GSE45652
+c9,dendritic cells,GSE184423
+c9,dendritic cells,GSE15215
+c9,dendritic cells,GSE112082
+c9,dendritic cells,IMMPORT_SDY258
+c9,dendritic cells,GSE13250
+c9,dendritic cells,GSE28934
+c9,dendritic cells,GSE65564
+c9,dendritic cells,GSE64124
+c9,dendritic cells,GSE205069
+c10,dendritic cells,GSE45652
+c10,dendritic cells,GSE184423
+c10,dendritic cells,GSE15215
+c10,dendritic cells,IMMPORT_SDY258
+c10,dendritic cells,GSE13250
+c10,dendritic cells,GSE112082
+c10,dendritic cells,GSE205069
+c10,dendritic cells,GSE28934
+c10,dendritic cells,GSE139559
+c10,dendritic cells,GSE29949
+c11,dendritic cells,S-EPMC3751914
+c11,dendritic cells,GSE45652
+c11,dendritic cells,E-MTAB-11735
+c11,dendritic cells,S-EPMC4657833
+c11,dendritic cells,S-EPMC3654963
+c11,dendritic cells,S-EPMC6292204
+c11,dendritic cells,E-MTAB-11821
+c11,dendritic cells,S-EPMC6830784
+c11,dendritic cells,GSE112082
+c11,dendritic cells,S-EPMC4583358
+c12,dendritic cells,GSE45652
+c12,dendritic cells,S-EPMC3751914
+c12,dendritic cells,GSE112082
+c12,dendritic cells,E-MTAB-11735
+c12,dendritic cells,S-EPMC4657833
+c12,dendritic cells,S-EPMC3654963
+c12,dendritic cells,E-MTAB-11821
+c12,dendritic cells,S-EPMC6292204
+c12,dendritic cells,S-EPMC6830784
+c12,dendritic cells,GSE184423
+c13,dendritic cells,GSE45652
+c13,dendritic cells,GSE112082
+c13,dendritic cells,S-EPMC3751914
+c13,dendritic cells,GSE184423
+c13,dendritic cells,GSE15215
+c13,dendritic cells,GSE28934
+c13,dendritic cells,Mendeley_tpdv3r7v57
+c13,dendritic cells,FLOW_FR-FCM-Z2ZQ
+c13,dendritic cells,E-MTAB-11735
+c13,dendritic cells,IMMPORT_SDY258
+c14,dendritic cells,GSE45652
+c14,dendritic cells,IMMPORT_SDY258
+c14,dendritic cells,GSE184423
+c14,dendritic cells,GSE112082
+c14,dendritic cells,GSE15215
+c14,dendritic cells,Mendeley_tpdv3r7v57
+c14,dendritic cells,GSE28934
+c14,dendritic cells,GSE13250
+c14,dendritic cells,GSE65564
+c14,dendritic cells,GSE64124
+c15,dendritic cells,GSE45652
+c15,dendritic cells,IMMPORT_SDY258
+c15,dendritic cells,GSE184423
+c15,dendritic cells,GSE15215
+c15,dendritic cells,GSE112082
+c15,dendritic cells,GSE13250
+c15,dendritic cells,Mendeley_tpdv3r7v57
+c15,dendritic cells,GSE28934
+c15,dendritic cells,IMMPORT_SDY282_1
+c15,dendritic cells,GSE65564
+original query,mast cells,S-EPMC1088381
+original query,mast cells,S-EPMC6139170
+original query,mast cells,S-EPMC6390584
+original query,mast cells,S-EPMC4530056
+original query,mast cells,S-EPMC6178197
+original query,mast cells,S-EPMC5751276
+original query,mast cells,S-EPMC6702076
+original query,mast cells,S-EPMC4499794
+original query,mast cells,S-EPMC2865868
+original query,mast cells,S-EPMC3416204
+c1,mast cells,S-EPMC1088381
+c1,mast cells,GSE63507
+c1,mast cells,S-EPMC6139170
+c1,mast cells,S-EPMC6178197
+c1,mast cells,S-EPMC5751276
+c1,mast cells,S-EPMC4499794
+c1,mast cells,S-EPMC2865868
+c1,mast cells,S-EPMC6390584
+c1,mast cells,S-EPMC4530056
+c1,mast cells,S-EPMC3416204
+c2,mast cells,GSE63507
+c2,mast cells,S-EPMC1088381
+c2,mast cells,GSE80139
+c2,mast cells,IMMPORT_SDY1487
+c2,mast cells,S-EPMC6139170
+c2,mast cells,S-EPMC6178197
+c2,mast cells,S-EPMC5751276
+c2,mast cells,S-EPMC4499794
+c2,mast cells,GSE135148
+c2,mast cells,GSE119016
+c3,mast cells,GSE63507
+c3,mast cells,IMMPORT_SDY1487
+c3,mast cells,GSE80139
+c3,mast cells,GSE135148
+c3,mast cells,GSE3271
+c3,mast cells,GSE119016
+c3,mast cells,GSE24321
+c3,mast cells,GSE101996
+c3,mast cells,GSE14438
+c3,mast cells,GSE44980
+c4,mast cells,IMMPORT_SDY1487
+c4,mast cells,GSE63507
+c4,mast cells,GSE3271
+c4,mast cells,GSE80139
+c4,mast cells,GSE44980
+c4,mast cells,GSE135148
+c4,mast cells,GSE119016
+c4,mast cells,GSE24321
+c4,mast cells,GSE101996
+c4,mast cells,GSE14438
+c5,mast cells,IMMPORT_SDY1487
+c5,mast cells,GSE3271
+c5,mast cells,GSE44980
+c5,mast cells,GSE63507
+c5,mast cells,GSE64287
+c5,mast cells,GSE80139
+c5,mast cells,GSE15174
+c5,mast cells,GSE35332
+c5,mast cells,GSE96695
+c5,mast cells,GSE87483
+c6,mast cells,S-EPMC1088381
+c6,mast cells,S-EPMC6139170
+c6,mast cells,GSE63507
+c6,mast cells,S-EPMC6178197
+c6,mast cells,S-EPMC5751276
+c6,mast cells,S-EPMC4499794
+c6,mast cells,S-EPMC6390584
+c6,mast cells,S-EPMC4530056
+c6,mast cells,S-EPMC2865868
+c6,mast cells,S-EPMC3416204
+c7,mast cells,GSE63507
+c7,mast cells,S-EPMC1088381
+c7,mast cells,GSE80139
+c7,mast cells,IMMPORT_SDY1487
+c7,mast cells,S-EPMC6139170
+c7,mast cells,S-EPMC6178197
+c7,mast cells,S-EPMC5751276
+c7,mast cells,S-EPMC4499794
+c7,mast cells,S-EPMC2865868
+c7,mast cells,S-EPMC3416204
+c8,mast cells,GSE63507
+c8,mast cells,IMMPORT_SDY1487
+c8,mast cells,GSE80139
+c8,mast cells,GSE135148
+c8,mast cells,GSE119016
+c8,mast cells,GSE24321
+c8,mast cells,S-EPMC1088381
+c8,mast cells,GSE3271
+c8,mast cells,GSE101996
+c8,mast cells,GSE14438
+c9,mast cells,IMMPORT_SDY1487
+c9,mast cells,GSE63507
+c9,mast cells,GSE80139
+c9,mast cells,GSE3271
+c9,mast cells,GSE44980
+c9,mast cells,GSE135148
+c9,mast cells,GSE119016
+c9,mast cells,GSE24321
+c9,mast cells,GSE101996
+c9,mast cells,GSE14438
+c10,mast cells,IMMPORT_SDY1487
+c10,mast cells,GSE63507
+c10,mast cells,GSE3271
+c10,mast cells,GSE44980
+c10,mast cells,GSE80139
+c10,mast cells,GSE64287
+c10,mast cells,GSE135148
+c10,mast cells,GSE119016
+c10,mast cells,GSE15174
+c10,mast cells,GSE24321
+c11,mast cells,S-EPMC1088381
+c11,mast cells,S-EPMC6139170
+c11,mast cells,S-EPMC6178197
+c11,mast cells,GSE63507
+c11,mast cells,S-EPMC5751276
+c11,mast cells,S-EPMC4499794
+c11,mast cells,S-EPMC6390584
+c11,mast cells,S-EPMC4530056
+c11,mast cells,S-EPMC2865868
+c11,mast cells,S-EPMC6702076
+c12,mast cells,GSE63507
+c12,mast cells,S-EPMC1088381
+c12,mast cells,S-EPMC6139170
+c12,mast cells,S-EPMC6178197
+c12,mast cells,S-EPMC5751276
+c12,mast cells,IMMPORT_SDY1487
+c12,mast cells,GSE80139
+c12,mast cells,S-EPMC4499794
+c12,mast cells,S-EPMC2865868
+c12,mast cells,S-EPMC3416204
+c13,mast cells,GSE63507
+c13,mast cells,IMMPORT_SDY1487
+c13,mast cells,GSE80139
+c13,mast cells,S-EPMC1088381
+c13,mast cells,GSE135148
+c13,mast cells,GSE119016
+c13,mast cells,GSE24321
+c13,mast cells,S-EPMC6139170
+c13,mast cells,S-EPMC6178197
+c13,mast cells,GSE101996
+c14,mast cells,IMMPORT_SDY1487
+c14,mast cells,GSE63507
+c14,mast cells,GSE80139
+c14,mast cells,GSE135148
+c14,mast cells,GSE119016
+c14,mast cells,GSE24321
+c14,mast cells,GSE3271
+c14,mast cells,GSE101996
+c14,mast cells,GSE14438
+c14,mast cells,GSE165523
+c15,mast cells,IMMPORT_SDY1487
+c15,mast cells,GSE63507
+c15,mast cells,GSE80139
+c15,mast cells,GSE3271
+c15,mast cells,GSE44980
+c15,mast cells,GSE135148
+c15,mast cells,GSE119016
+c15,mast cells,GSE24321
+c15,mast cells,GSE101996
+c15,mast cells,GSE14438
+original query,plasmacytoid dendritic cells,S-EPMC2121199
+original query,plasmacytoid dendritic cells,S-EPMC5664390
+original query,plasmacytoid dendritic cells,E-GEOD-24785
+original query,plasmacytoid dendritic cells,PRJNA601701
+original query,plasmacytoid dendritic cells,PRJNA542142
+original query,plasmacytoid dendritic cells,PRJNA415465
+original query,plasmacytoid dendritic cells,PRJNA628705
+original query,plasmacytoid dendritic cells,PRJNA628646
+original query,plasmacytoid dendritic cells,PRJNA777539
+original query,plasmacytoid dendritic cells,PRJNA541338
+c1,plasmacytoid dendritic cells,S-EPMC2121199
+c1,plasmacytoid dendritic cells,S-EPMC5664390
+c1,plasmacytoid dendritic cells,E-GEOD-24785
+c1,plasmacytoid dendritic cells,GSE10147
+c1,plasmacytoid dendritic cells,PRJNA601701
+c1,plasmacytoid dendritic cells,PRJNA542142
+c1,plasmacytoid dendritic cells,PRJNA415465
+c1,plasmacytoid dendritic cells,PRJNA628705
+c1,plasmacytoid dendritic cells,PRJNA628646
+c1,plasmacytoid dendritic cells,GSE105827
+c2,plasmacytoid dendritic cells,S-EPMC2121199
+c2,plasmacytoid dendritic cells,GSE10147
+c2,plasmacytoid dendritic cells,E-GEOD-24785
+c2,plasmacytoid dendritic cells,S-EPMC5664390
+c2,plasmacytoid dendritic cells,GSE24726
+c2,plasmacytoid dendritic cells,GSE105827
+c2,plasmacytoid dendritic cells,GSE24740
+c2,plasmacytoid dendritic cells,GSE24785
+c2,plasmacytoid dendritic cells,GSE236923
+c2,plasmacytoid dendritic cells,ZENODO_7627118
+c3,plasmacytoid dendritic cells,GSE10147
+c3,plasmacytoid dendritic cells,GSE24726
+c3,plasmacytoid dendritic cells,S-EPMC2121199
+c3,plasmacytoid dendritic cells,GSE24740
+c3,plasmacytoid dendritic cells,GSE105827
+c3,plasmacytoid dendritic cells,GSE24785
+c3,plasmacytoid dendritic cells,GSE236923
+c3,plasmacytoid dendritic cells,E-GEOD-24785
+c3,plasmacytoid dendritic cells,S-EPMC5664390
+c3,plasmacytoid dendritic cells,GSE23212
+c4,plasmacytoid dendritic cells,GSE24726
+c4,plasmacytoid dendritic cells,GSE24740
+c4,plasmacytoid dendritic cells,GSE10147
+c4,plasmacytoid dendritic cells,GSE105827
+c4,plasmacytoid dendritic cells,GSE23212
+c4,plasmacytoid dendritic cells,IMMPORT_SDY282_2
+c4,plasmacytoid dendritic cells,GSE24785
+c4,plasmacytoid dendritic cells,GSE236923
+c4,plasmacytoid dendritic cells,S-EPMC2121199
+c4,plasmacytoid dendritic cells,GSE11943
+c5,plasmacytoid dendritic cells,GSE24726
+c5,plasmacytoid dendritic cells,GSE24740
+c5,plasmacytoid dendritic cells,GSE10147
+c5,plasmacytoid dendritic cells,IMMPORT_SDY282_2
+c5,plasmacytoid dendritic cells,GSE23212
+c5,plasmacytoid dendritic cells,GSE11943
+c5,plasmacytoid dendritic cells,GSE105827
+c5,plasmacytoid dendritic cells,GSE114314
+c5,plasmacytoid dendritic cells,GSE184293
+c5,plasmacytoid dendritic cells,GSE114313
+c6,plasmacytoid dendritic cells,S-EPMC2121199
+c6,plasmacytoid dendritic cells,E-GEOD-24785
+c6,plasmacytoid dendritic cells,S-EPMC5664390
+c6,plasmacytoid dendritic cells,GSE10147
+c6,plasmacytoid dendritic cells,PRJNA601701
+c6,plasmacytoid dendritic cells,PRJNA542142
+c6,plasmacytoid dendritic cells,PRJNA415465
+c6,plasmacytoid dendritic cells,PRJNA628705
+c6,plasmacytoid dendritic cells,PRJNA628646
+c6,plasmacytoid dendritic cells,PRJNA777539
+c7,plasmacytoid dendritic cells,S-EPMC2121199
+c7,plasmacytoid dendritic cells,GSE10147
+c7,plasmacytoid dendritic cells,E-GEOD-24785
+c7,plasmacytoid dendritic cells,S-EPMC5664390
+c7,plasmacytoid dendritic cells,GSE24726
+c7,plasmacytoid dendritic cells,GSE105827
+c7,plasmacytoid dendritic cells,GSE24740
+c7,plasmacytoid dendritic cells,ZENODO_7627118
+c7,plasmacytoid dendritic cells,GSE24785
+c7,plasmacytoid dendritic cells,GSE236923
+c8,plasmacytoid dendritic cells,S-EPMC2121199
+c8,plasmacytoid dendritic cells,GSE10147
+c8,plasmacytoid dendritic cells,GSE24726
+c8,plasmacytoid dendritic cells,GSE105827
+c8,plasmacytoid dendritic cells,GSE24740
+c8,plasmacytoid dendritic cells,E-GEOD-24785
+c8,plasmacytoid dendritic cells,S-EPMC5664390
+c8,plasmacytoid dendritic cells,GSE236923
+c8,plasmacytoid dendritic cells,GSE24785
+c8,plasmacytoid dendritic cells,IMMPORT_SDY282_2
+c9,plasmacytoid dendritic cells,GSE24726
+c9,plasmacytoid dendritic cells,GSE10147
+c9,plasmacytoid dendritic cells,GSE24740
+c9,plasmacytoid dendritic cells,GSE105827
+c9,plasmacytoid dendritic cells,S-EPMC2121199
+c9,plasmacytoid dendritic cells,IMMPORT_SDY282_2
+c9,plasmacytoid dendritic cells,GSE236923
+c9,plasmacytoid dendritic cells,GSE24785
+c9,plasmacytoid dendritic cells,GSE23212
+c9,plasmacytoid dendritic cells,GSE11943
+c10,plasmacytoid dendritic cells,GSE24726
+c10,plasmacytoid dendritic cells,GSE24740
+c10,plasmacytoid dendritic cells,GSE10147
+c10,plasmacytoid dendritic cells,IMMPORT_SDY282_2
+c10,plasmacytoid dendritic cells,GSE105827
+c10,plasmacytoid dendritic cells,GSE23212
+c10,plasmacytoid dendritic cells,GSE11943
+c10,plasmacytoid dendritic cells,GSE114314
+c10,plasmacytoid dendritic cells,GSE236923
+c10,plasmacytoid dendritic cells,GSE184293
+c11,plasmacytoid dendritic cells,S-EPMC2121199
+c11,plasmacytoid dendritic cells,E-GEOD-24785
+c11,plasmacytoid dendritic cells,S-EPMC5664390
+c11,plasmacytoid dendritic cells,GSE10147
+c11,plasmacytoid dendritic cells,PRJNA601701
+c11,plasmacytoid dendritic cells,PRJNA542142
+c11,plasmacytoid dendritic cells,PRJNA415465
+c11,plasmacytoid dendritic cells,PRJNA628705
+c11,plasmacytoid dendritic cells,PRJNA628646
+c11,plasmacytoid dendritic cells,PRJNA777539
+c12,plasmacytoid dendritic cells,S-EPMC2121199
+c12,plasmacytoid dendritic cells,GSE10147
+c12,plasmacytoid dendritic cells,E-GEOD-24785
+c12,plasmacytoid dendritic cells,S-EPMC5664390
+c12,plasmacytoid dendritic cells,GSE105827
+c12,plasmacytoid dendritic cells,GSE24726
+c12,plasmacytoid dendritic cells,ZENODO_7627118
+c12,plasmacytoid dendritic cells,E-GEOD-10147
+c12,plasmacytoid dendritic cells,PRJNA601701
+c12,plasmacytoid dendritic cells,GSE24740
+c13,plasmacytoid dendritic cells,S-EPMC2121199
+c13,plasmacytoid dendritic cells,GSE10147
+c13,plasmacytoid dendritic cells,GSE24726
+c13,plasmacytoid dendritic cells,E-GEOD-24785
+c13,plasmacytoid dendritic cells,GSE105827
+c13,plasmacytoid dendritic cells,S-EPMC5664390
+c13,plasmacytoid dendritic cells,GSE24740
+c13,plasmacytoid dendritic cells,ZENODO_7627118
+c13,plasmacytoid dendritic cells,GSE236923
+c13,plasmacytoid dendritic cells,GSE24785
+c14,plasmacytoid dendritic cells,GSE10147
+c14,plasmacytoid dendritic cells,GSE24726
+c14,plasmacytoid dendritic cells,S-EPMC2121199
+c14,plasmacytoid dendritic cells,GSE24740
+c14,plasmacytoid dendritic cells,GSE105827
+c14,plasmacytoid dendritic cells,IMMPORT_SDY282_2
+c14,plasmacytoid dendritic cells,GSE236923
+c14,plasmacytoid dendritic cells,E-GEOD-24785
+c14,plasmacytoid dendritic cells,GSE24785
+c14,plasmacytoid dendritic cells,ZENODO_7627118
+c15,plasmacytoid dendritic cells,GSE24726
+c15,plasmacytoid dendritic cells,IMMPORT_SDY282_2
+c15,plasmacytoid dendritic cells,GSE10147
+c15,plasmacytoid dendritic cells,GSE24740
+c15,plasmacytoid dendritic cells,GSE105827
+c15,plasmacytoid dendritic cells,GSE236923
+c15,plasmacytoid dendritic cells,GSE23212
+c15,plasmacytoid dendritic cells,IMMPORT_SDY1773
+c15,plasmacytoid dendritic cells,GSE11943
+c15,plasmacytoid dendritic cells,GSE24785
+original query,pinealocyte,GSE115723
+original query,pinealocyte,S-EPMC6197868
+original query,pinealocyte,NCBI_SRA_SRP150402
+original query,pinealocyte,S-EPMC2757586
+original query,pinealocyte,S-EPMC3176642
+original query,pinealocyte,S-EPMC5489258
+original query,pinealocyte,S-EPMC4692493
+original query,pinealocyte,S-EPMC4870883
+original query,pinealocyte,S-EPMC2629408
+original query,pinealocyte,S-EPMC6758905
+c1,pinealocyte,GSE115723
+c1,pinealocyte,S-EPMC6197868
+c1,pinealocyte,NCBI_SRA_SRP150402
+c1,pinealocyte,S-EPMC2757586
+c1,pinealocyte,S-EPMC3176642
+c1,pinealocyte,S-EPMC5489258
+c1,pinealocyte,S-EPMC4692493
+c1,pinealocyte,S-EPMC4870883
+c1,pinealocyte,S-EPMC2629408
+c1,pinealocyte,GSE142476
+c2,pinealocyte,GSE115723
+c2,pinealocyte,S-EPMC6197868
+c2,pinealocyte,NCBI_SRA_SRP150402
+c2,pinealocyte,S-EPMC2757586
+c2,pinealocyte,S-EPMC3176642
+c2,pinealocyte,S-EPMC5489258
+c2,pinealocyte,S-EPMC4692493
+c2,pinealocyte,S-EPMC4870883
+c2,pinealocyte,S-EPMC2629408
+c2,pinealocyte,GSE142476
+c3,pinealocyte,GSE115723
+c3,pinealocyte,S-EPMC6197868
+c3,pinealocyte,NCBI_SRA_SRP150402
+c3,pinealocyte,S-EPMC2757586
+c3,pinealocyte,S-EPMC3176642
+c3,pinealocyte,S-EPMC5489258
+c3,pinealocyte,S-EPMC4692493
+c3,pinealocyte,S-EPMC4870883
+c3,pinealocyte,S-EPMC2629408
+c3,pinealocyte,GSE142476
+c4,pinealocyte,GSE115723
+c4,pinealocyte,S-EPMC6197868
+c4,pinealocyte,NCBI_SRA_SRP150402
+c4,pinealocyte,S-EPMC2757586
+c4,pinealocyte,S-EPMC3176642
+c4,pinealocyte,S-EPMC5489258
+c4,pinealocyte,S-EPMC4692493
+c4,pinealocyte,S-EPMC4870883
+c4,pinealocyte,GSE142476
+c4,pinealocyte,GSE24625
+c5,pinealocyte,GSE115723
+c5,pinealocyte,S-EPMC6197868
+c5,pinealocyte,NCBI_SRA_SRP150402
+c5,pinealocyte,S-EPMC2757586
+c5,pinealocyte,GSE142476
+c5,pinealocyte,GSE24625
+c5,pinealocyte,GSE35396
+c5,pinealocyte,S-EPMC3176642
+c5,pinealocyte,S-EPMC5489258
+c5,pinealocyte,NCBI_PMC_PMC10481356
+c6,pinealocyte,GSE115723
+c6,pinealocyte,S-EPMC6197868
+c6,pinealocyte,NCBI_SRA_SRP150402
+c6,pinealocyte,S-EPMC2757586
+c6,pinealocyte,S-EPMC3176642
+c6,pinealocyte,S-EPMC5489258
+c6,pinealocyte,S-EPMC4692493
+c6,pinealocyte,S-EPMC4870883
+c6,pinealocyte,S-EPMC2629408
+c6,pinealocyte,GSE142476
+c7,pinealocyte,GSE115723
+c7,pinealocyte,S-EPMC6197868
+c7,pinealocyte,NCBI_SRA_SRP150402
+c7,pinealocyte,S-EPMC2757586
+c7,pinealocyte,S-EPMC3176642
+c7,pinealocyte,S-EPMC5489258
+c7,pinealocyte,S-EPMC4692493
+c7,pinealocyte,S-EPMC4870883
+c7,pinealocyte,S-EPMC2629408
+c7,pinealocyte,GSE142476
+c8,pinealocyte,GSE115723
+c8,pinealocyte,S-EPMC6197868
+c8,pinealocyte,NCBI_SRA_SRP150402
+c8,pinealocyte,S-EPMC2757586
+c8,pinealocyte,S-EPMC3176642
+c8,pinealocyte,S-EPMC5489258
+c8,pinealocyte,S-EPMC4692493
+c8,pinealocyte,S-EPMC4870883
+c8,pinealocyte,S-EPMC2629408
+c8,pinealocyte,GSE142476
+c9,pinealocyte,GSE115723
+c9,pinealocyte,S-EPMC6197868
+c9,pinealocyte,NCBI_SRA_SRP150402
+c9,pinealocyte,S-EPMC2757586
+c9,pinealocyte,S-EPMC3176642
+c9,pinealocyte,S-EPMC5489258
+c9,pinealocyte,S-EPMC4692493
+c9,pinealocyte,S-EPMC4870883
+c9,pinealocyte,GSE142476
+c9,pinealocyte,GSE24625
+c10,pinealocyte,GSE115723
+c10,pinealocyte,S-EPMC6197868
+c10,pinealocyte,NCBI_SRA_SRP150402
+c10,pinealocyte,S-EPMC2757586
+c10,pinealocyte,S-EPMC3176642
+c10,pinealocyte,GSE142476
+c10,pinealocyte,GSE24625
+c10,pinealocyte,GSE35396
+c10,pinealocyte,S-EPMC5489258
+c10,pinealocyte,S-EPMC4692493
+c11,pinealocyte,GSE115723
+c11,pinealocyte,S-EPMC6197868
+c11,pinealocyte,NCBI_SRA_SRP150402
+c11,pinealocyte,S-EPMC2757586
+c11,pinealocyte,S-EPMC3176642
+c11,pinealocyte,S-EPMC5489258
+c11,pinealocyte,S-EPMC4692493
+c11,pinealocyte,S-EPMC4870883
+c11,pinealocyte,S-EPMC2629408
+c11,pinealocyte,GSE142476
+c12,pinealocyte,GSE115723
+c12,pinealocyte,S-EPMC6197868
+c12,pinealocyte,NCBI_SRA_SRP150402
+c12,pinealocyte,S-EPMC2757586
+c12,pinealocyte,S-EPMC3176642
+c12,pinealocyte,S-EPMC5489258
+c12,pinealocyte,S-EPMC4692493
+c12,pinealocyte,S-EPMC4870883
+c12,pinealocyte,S-EPMC2629408
+c12,pinealocyte,GSE142476
+c13,pinealocyte,GSE115723
+c13,pinealocyte,S-EPMC6197868
+c13,pinealocyte,NCBI_SRA_SRP150402
+c13,pinealocyte,S-EPMC2757586
+c13,pinealocyte,S-EPMC3176642
+c13,pinealocyte,S-EPMC5489258
+c13,pinealocyte,S-EPMC4692493
+c13,pinealocyte,S-EPMC4870883
+c13,pinealocyte,S-EPMC2629408
+c13,pinealocyte,GSE142476
+c14,pinealocyte,GSE115723
+c14,pinealocyte,S-EPMC6197868
+c14,pinealocyte,NCBI_SRA_SRP150402
+c14,pinealocyte,S-EPMC2757586
+c14,pinealocyte,S-EPMC3176642
+c14,pinealocyte,S-EPMC5489258
+c14,pinealocyte,S-EPMC4692493
+c14,pinealocyte,S-EPMC4870883
+c14,pinealocyte,S-EPMC2629408
+c14,pinealocyte,GSE142476
+c15,pinealocyte,GSE115723
+c15,pinealocyte,S-EPMC6197868
+c15,pinealocyte,NCBI_SRA_SRP150402
+c15,pinealocyte,S-EPMC2757586
+c15,pinealocyte,S-EPMC3176642
+c15,pinealocyte,S-EPMC5489258
+c15,pinealocyte,S-EPMC4692493
+c15,pinealocyte,S-EPMC4870883
+c15,pinealocyte,GSE142476
+c15,pinealocyte,GSE24625
+original query,metabolomics,ST000105
+original query,metabolomics,ST000011
+original query,metabolomics,ST000486
+original query,metabolomics,NCBI_SRA_SRP397433
+original query,metabolomics,Mendeley_nk9fpwsp2r
+original query,metabolomics,ZENODO_6091673
+original query,metabolomics,ZENODO_7845393
+original query,metabolomics,ST002020
+original query,metabolomics,ZENODO_5555821
+original query,metabolomics,ST000270
+c1,metabolomics,ST000105
+c1,metabolomics,ST000011
+c1,metabolomics,ST000486
+c1,metabolomics,Mendeley_nk9fpwsp2r
+c1,metabolomics,ZENODO_5555821
+c1,metabolomics,ZENODO_6091673
+c1,metabolomics,ZENODO_7845393
+c1,metabolomics,ST002020
+c1,metabolomics,ST000270
+c1,metabolomics,ST000137
+c2,metabolomics,ST000105
+c2,metabolomics,ST000011
+c2,metabolomics,ST000486
+c2,metabolomics,Mendeley_nk9fpwsp2r
+c2,metabolomics,ZENODO_5555821
+c2,metabolomics,ZENODO_6091673
+c2,metabolomics,ZENODO_7845393
+c2,metabolomics,ST002020
+c2,metabolomics,ST000270
+c2,metabolomics,ST000137
+c3,metabolomics,ST000105
+c3,metabolomics,ST000011
+c3,metabolomics,ST000486
+c3,metabolomics,Mendeley_nk9fpwsp2r
+c3,metabolomics,ZENODO_5555821
+c3,metabolomics,ZENODO_6091673
+c3,metabolomics,ZENODO_7845393
+c3,metabolomics,GSE9648
+c3,metabolomics,DRYAD_doi.org:10.5061:dryad.866t1g1mt
+c3,metabolomics,ST002020
+c4,metabolomics,GSE9648
+c4,metabolomics,Mendeley_nk9fpwsp2r
+c4,metabolomics,DRYAD_doi.org:10.5061:dryad.866t1g1mt
+c4,metabolomics,ST000105
+c4,metabolomics,ST000011
+c4,metabolomics,ST000486
+c4,metabolomics,DDE_e06a03e8338c63e2
+c4,metabolomics,ZENODO_5555821
+c4,metabolomics,ZENODO_6091673
+c4,metabolomics,ZENODO_7845393
+c5,metabolomics,GSE9648
+c5,metabolomics,DRYAD_doi.org:10.5061:dryad.866t1g1mt
+c5,metabolomics,DDE_e06a03e8338c63e2
+c5,metabolomics,Mendeley_nk9fpwsp2r
+c5,metabolomics,DDE_59ba57e13cd71738
+c5,metabolomics,DDE_fd8b13d984f150ca
+c5,metabolomics,DDE_cd3a6e3fba77bd7e
+c5,metabolomics,DDE_9375897e45d49e25
+c5,metabolomics,DDE_0dbac63bb332af4b
+c5,metabolomics,GSE21720
+c6,metabolomics,ST000105
+c6,metabolomics,ST000011
+c6,metabolomics,ST000486
+c6,metabolomics,Mendeley_nk9fpwsp2r
+c6,metabolomics,ZENODO_5555821
+c6,metabolomics,ZENODO_6091673
+c6,metabolomics,ZENODO_7845393
+c6,metabolomics,ST002020
+c6,metabolomics,ST000270
+c6,metabolomics,ST000137
+c7,metabolomics,ST000105
+c7,metabolomics,ST000011
+c7,metabolomics,ST000486
+c7,metabolomics,Mendeley_nk9fpwsp2r
+c7,metabolomics,ZENODO_5555821
+c7,metabolomics,ZENODO_6091673
+c7,metabolomics,ZENODO_7845393
+c7,metabolomics,ST002020
+c7,metabolomics,ST000270
+c7,metabolomics,ST000137
+c8,metabolomics,Mendeley_nk9fpwsp2r
+c8,metabolomics,ST000105
+c8,metabolomics,ST000011
+c8,metabolomics,ST000486
+c8,metabolomics,ZENODO_5555821
+c8,metabolomics,ZENODO_6091673
+c8,metabolomics,ZENODO_7845393
+c8,metabolomics,DRYAD_doi.org:10.5061:dryad.866t1g1mt
+c8,metabolomics,ST002020
+c8,metabolomics,ST000270
+c9,metabolomics,Mendeley_nk9fpwsp2r
+c9,metabolomics,DRYAD_doi.org:10.5061:dryad.866t1g1mt
+c9,metabolomics,GSE9648
+c9,metabolomics,ST000105
+c9,metabolomics,ST000011
+c9,metabolomics,ST000486
+c9,metabolomics,ZENODO_5555821
+c9,metabolomics,ZENODO_6091673
+c9,metabolomics,ZENODO_7845393
+c9,metabolomics,Mendeley_vwg3ffgdtk
+c10,metabolomics,GSE9648
+c10,metabolomics,DRYAD_doi.org:10.5061:dryad.866t1g1mt
+c10,metabolomics,Mendeley_nk9fpwsp2r
+c10,metabolomics,DDE_e06a03e8338c63e2
+c10,metabolomics,DDE_59ba57e13cd71738
+c10,metabolomics,DDE_fd8b13d984f150ca
+c10,metabolomics,GSE21720
+c10,metabolomics,DDE_cd3a6e3fba77bd7e
+c10,metabolomics,DDE_9375897e45d49e25
+c10,metabolomics,DDE_0dbac63bb332af4b
+c11,metabolomics,ST000105
+c11,metabolomics,ST000011
+c11,metabolomics,ST000486
+c11,metabolomics,Mendeley_nk9fpwsp2r
+c11,metabolomics,ZENODO_5555821
+c11,metabolomics,ZENODO_6091673
+c11,metabolomics,ZENODO_7845393
+c11,metabolomics,ST002020
+c11,metabolomics,ST000270
+c11,metabolomics,ST000137
+c12,metabolomics,ST000105
+c12,metabolomics,ST000011
+c12,metabolomics,ST000486
+c12,metabolomics,Mendeley_nk9fpwsp2r
+c12,metabolomics,ZENODO_5555821
+c12,metabolomics,ZENODO_6091673
+c12,metabolomics,ZENODO_7845393
+c12,metabolomics,ST002020
+c12,metabolomics,ST000270
+c12,metabolomics,ST000137
+c13,metabolomics,Mendeley_nk9fpwsp2r
+c13,metabolomics,ST000105
+c13,metabolomics,ST000011
+c13,metabolomics,ST000486
+c13,metabolomics,ZENODO_5555821
+c13,metabolomics,ZENODO_6091673
+c13,metabolomics,ZENODO_7845393
+c13,metabolomics,DRYAD_doi.org:10.5061:dryad.866t1g1mt
+c13,metabolomics,ZENODO_5855079
+c13,metabolomics,ST002020
+c14,metabolomics,Mendeley_nk9fpwsp2r
+c14,metabolomics,ZENODO_5555821
+c14,metabolomics,ZENODO_6091673
+c14,metabolomics,ZENODO_7845393
+c14,metabolomics,DRYAD_doi.org:10.5061:dryad.866t1g1mt
+c14,metabolomics,ST000105
+c14,metabolomics,ST000011
+c14,metabolomics,ST000486
+c14,metabolomics,ZENODO_5855079
+c14,metabolomics,ZENODO_7442244
+c15,metabolomics,Mendeley_nk9fpwsp2r
+c15,metabolomics,DRYAD_doi.org:10.5061:dryad.866t1g1mt
+c15,metabolomics,ZENODO_5555821
+c15,metabolomics,ZENODO_6091673
+c15,metabolomics,ZENODO_7845393
+c15,metabolomics,GSE9648
+c15,metabolomics,ZENODO_5855079
+c15,metabolomics,Mendeley_vwg3ffgdtk
+c15,metabolomics,ST000105
+c15,metabolomics,ST000011
+original query,gwas,ZENODO_6976231
+original query,gwas,EGAD00010001463
+original query,gwas,EGAD00010000883
+original query,gwas,EGAS00001000917
+original query,gwas,PRJEB24673
+original query,gwas,PRJEB12542
+original query,gwas,NCBI_SRA_SRP022566
+original query,gwas,NCBI_SRA_SRP035381
+original query,gwas,EGAD00010002310
+original query,gwas,EGAS00001001232
+c1,gwas,ZENODO_6976231
+c1,gwas,EGAD00010001463
+c1,gwas,EGAD00010000883
+c1,gwas,EGAS00001000917
+c1,gwas,PRJEB24673
+c1,gwas,PRJEB12542
+c1,gwas,ZENODO_3383141
+c1,gwas,ZENODO_3383130
+c1,gwas,ZENODO_1067750
+c1,gwas,NCBI_SRA_SRP022566
+c2,gwas,ZENODO_6976231
+c2,gwas,EGAD00010001463
+c2,gwas,DRYAD_doi.org:10.5061:dryad.76hdr7sz8
+c2,gwas,ZENODO_3383141
+c2,gwas,ZENODO_3383130
+c2,gwas,ZENODO_1067750
+c2,gwas,EGAD00010000883
+c2,gwas,EGAS00001000917
+c2,gwas,PRJEB24673
+c2,gwas,PRJEB12542
+c3,gwas,ZENODO_6976231
+c3,gwas,DRYAD_doi.org:10.5061:dryad.76hdr7sz8
+c3,gwas,EGAD00010001463
+c3,gwas,Mendeley_xwzp5ymp24
+c3,gwas,ZENODO_3383141
+c3,gwas,ZENODO_3383130
+c3,gwas,ZENODO_1067750
+c3,gwas,Dataverse_10.7910_DVN_2VBLLP
+c3,gwas,Dataverse_10.7910_DVN_NJ7XSO
+c3,gwas,NCBI_SRA_SRP022566
+c4,gwas,DRYAD_doi.org:10.5061:dryad.76hdr7sz8
+c4,gwas,ZENODO_6976231
+c4,gwas,Mendeley_xwzp5ymp24
+c4,gwas,ZENODO_3383141
+c4,gwas,ZENODO_3383130
+c4,gwas,ZENODO_1067750
+c4,gwas,Dataverse_10.7910_DVN_2VBLLP
+c4,gwas,Dataverse_10.7910_DVN_NJ7XSO
+c4,gwas,Mendeley_2zdd47c94h
+c4,gwas,EGAD00010001463
+c5,gwas,DRYAD_doi.org:10.5061:dryad.76hdr7sz8
+c5,gwas,Mendeley_xwzp5ymp24
+c5,gwas,ZENODO_6976231
+c5,gwas,Dataverse_10.7910_DVN_2VBLLP
+c5,gwas,Dataverse_10.7910_DVN_NJ7XSO
+c5,gwas,GSE53567
+c5,gwas,Mendeley_2zdd47c94h
+c5,gwas,ZENODO_3383141
+c5,gwas,ZENODO_3383130
+c5,gwas,GSE76611
+c6,gwas,ZENODO_6976231
+c6,gwas,EGAD00010001463
+c6,gwas,EGAD00010000883
+c6,gwas,EGAS00001000917
+c6,gwas,PRJEB24673
+c6,gwas,PRJEB12542
+c6,gwas,ZENODO_3383141
+c6,gwas,ZENODO_3383130
+c6,gwas,ZENODO_1067750
+c6,gwas,NCBI_SRA_SRP022566
+c7,gwas,ZENODO_6976231
+c7,gwas,EGAD00010001463
+c7,gwas,ZENODO_3383141
+c7,gwas,DRYAD_doi.org:10.5061:dryad.76hdr7sz8
+c7,gwas,ZENODO_3383130
+c7,gwas,ZENODO_1067750
+c7,gwas,EGAD00010000883
+c7,gwas,EGAS00001000917
+c7,gwas,PRJEB24673
+c7,gwas,PRJEB12542
+c8,gwas,ZENODO_6976231
+c8,gwas,DRYAD_doi.org:10.5061:dryad.76hdr7sz8
+c8,gwas,ZENODO_3383141
+c8,gwas,ZENODO_3383130
+c8,gwas,EGAD00010001463
+c8,gwas,ZENODO_1067750
+c8,gwas,Mendeley_xwzp5ymp24
+c8,gwas,Dataverse_10.7910_DVN_2VBLLP
+c8,gwas,Dataverse_10.7910_DVN_NJ7XSO
+c8,gwas,ZENODO_6302654
+c9,gwas,DRYAD_doi.org:10.5061:dryad.76hdr7sz8
+c9,gwas,ZENODO_6976231
+c9,gwas,Mendeley_xwzp5ymp24
+c9,gwas,ZENODO_3383141
+c9,gwas,ZENODO_3383130
+c9,gwas,ZENODO_1067750
+c9,gwas,Dataverse_10.7910_DVN_NJ7XSO
+c9,gwas,Dataverse_10.7910_DVN_2VBLLP
+c9,gwas,Mendeley_2zdd47c94h
+c9,gwas,EGAD00010001463
+c10,gwas,DRYAD_doi.org:10.5061:dryad.76hdr7sz8
+c10,gwas,ZENODO_6976231
+c10,gwas,Mendeley_xwzp5ymp24
+c10,gwas,Dataverse_10.7910_DVN_NJ7XSO
+c10,gwas,Dataverse_10.7910_DVN_2VBLLP
+c10,gwas,Mendeley_2zdd47c94h
+c10,gwas,ZENODO_3383141
+c10,gwas,ZENODO_3383130
+c10,gwas,ZENODO_1067750
+c10,gwas,DRYAD_doi.org:10.5061:dryad.612jm644q
+c11,gwas,ZENODO_6976231
+c11,gwas,EGAD00010001463
+c11,gwas,EGAD00010000883
+c11,gwas,EGAS00001000917
+c11,gwas,PRJEB24673
+c11,gwas,PRJEB12542
+c11,gwas,ZENODO_3383141
+c11,gwas,ZENODO_3383130
+c11,gwas,ZENODO_1067750
+c11,gwas,NCBI_SRA_SRP022566
+c12,gwas,ZENODO_6976231
+c12,gwas,EGAD00010001463
+c12,gwas,ZENODO_3383141
+c12,gwas,ZENODO_3383130
+c12,gwas,ZENODO_1067750
+c12,gwas,EGAD00010000883
+c12,gwas,EGAS00001000917
+c12,gwas,PRJEB24673
+c12,gwas,PRJEB12542
+c12,gwas,DRYAD_doi.org:10.5061:dryad.76hdr7sz8
+c13,gwas,ZENODO_6976231
+c13,gwas,DRYAD_doi.org:10.5061:dryad.76hdr7sz8
+c13,gwas,ZENODO_3383141
+c13,gwas,ZENODO_3383130
+c13,gwas,ZENODO_1067750
+c13,gwas,Mendeley_xwzp5ymp24
+c13,gwas,EGAD00010001463
+c13,gwas,ZENODO_6302654
+c13,gwas,ZENODO_4289137
+c13,gwas,Dataverse_10.7910_DVN_NJ7XSO
+c14,gwas,ZENODO_6976231
+c14,gwas,DRYAD_doi.org:10.5061:dryad.76hdr7sz8
+c14,gwas,ZENODO_3383141
+c14,gwas,ZENODO_3383130
+c14,gwas,Mendeley_xwzp5ymp24
+c14,gwas,ZENODO_1067750
+c14,gwas,Dataverse_10.7910_DVN_NJ7XSO
+c14,gwas,Dataverse_10.7910_DVN_2VBLLP
+c14,gwas,ZENODO_6302654
+c14,gwas,ZENODO_4289137
+c15,gwas,DRYAD_doi.org:10.5061:dryad.76hdr7sz8
+c15,gwas,ZENODO_6976231
+c15,gwas,Mendeley_xwzp5ymp24
+c15,gwas,Dataverse_10.7910_DVN_NJ7XSO
+c15,gwas,ZENODO_3383141
+c15,gwas,ZENODO_3383130
+c15,gwas,ZENODO_1067750
+c15,gwas,Dataverse_10.7910_DVN_2VBLLP
+c15,gwas,Mendeley_2zdd47c94h
+c15,gwas,ZENODO_6302654
+original query,tuberculin skin test,S-EPMC2718400
+original query,tuberculin skin test,PRJEB33786
+original query,tuberculin skin test,S-EPMC5810304
+original query,tuberculin skin test,S-EPMC3297651
+original query,tuberculin skin test,S-EPMC3297098
+original query,tuberculin skin test,S-EPMC6485058
+original query,tuberculin skin test,S-EPMC6494673
+original query,tuberculin skin test,ZENODO_1325041
+original query,tuberculin skin test,E-MTAB-3254
+original query,tuberculin skin test,PRJNA308835
+c1,tuberculin skin test,S-EPMC2718400
+c1,tuberculin skin test,PRJEB33786
+c1,tuberculin skin test,S-EPMC5810304
+c1,tuberculin skin test,S-EPMC3297651
+c1,tuberculin skin test,S-EPMC3297098
+c1,tuberculin skin test,S-EPMC6485058
+c1,tuberculin skin test,S-EPMC6494673
+c1,tuberculin skin test,ZENODO_1325041
+c1,tuberculin skin test,E-MTAB-3254
+c1,tuberculin skin test,E-MTAB-6815
+c2,tuberculin skin test,S-EPMC2718400
+c2,tuberculin skin test,S-EPMC5810304
+c2,tuberculin skin test,PRJEB33786
+c2,tuberculin skin test,S-EPMC3297651
+c2,tuberculin skin test,S-EPMC3297098
+c2,tuberculin skin test,S-EPMC6485058
+c2,tuberculin skin test,S-EPMC6494673
+c2,tuberculin skin test,ZENODO_1325041
+c2,tuberculin skin test,E-MTAB-3254
+c2,tuberculin skin test,E-MTAB-6815
+c3,tuberculin skin test,S-EPMC2718400
+c3,tuberculin skin test,S-EPMC5810304
+c3,tuberculin skin test,S-EPMC3297651
+c3,tuberculin skin test,S-EPMC3297098
+c3,tuberculin skin test,S-EPMC6485058
+c3,tuberculin skin test,ZENODO_1325041
+c3,tuberculin skin test,S-EPMC6494673
+c3,tuberculin skin test,PRJEB33786
+c3,tuberculin skin test,E-MTAB-3254
+c3,tuberculin skin test,E-MTAB-6815
+c4,tuberculin skin test,S-EPMC2718400
+c4,tuberculin skin test,S-EPMC5810304
+c4,tuberculin skin test,S-EPMC3297651
+c4,tuberculin skin test,S-EPMC3297098
+c4,tuberculin skin test,ZENODO_1325041
+c4,tuberculin skin test,S-EPMC6485058
+c4,tuberculin skin test,S-EPMC6494673
+c4,tuberculin skin test,E-MTAB-3254
+c4,tuberculin skin test,E-MTAB-6815
+c4,tuberculin skin test,S-EPMC2994848
+c5,tuberculin skin test,S-EPMC2718400
+c5,tuberculin skin test,S-EPMC5810304
+c5,tuberculin skin test,S-EPMC3297651
+c5,tuberculin skin test,S-EPMC3297098
+c5,tuberculin skin test,ZENODO_1325041
+c5,tuberculin skin test,S-EPMC6485058
+c5,tuberculin skin test,S-EPMC6494673
+c5,tuberculin skin test,GSE76873
+c5,tuberculin skin test,E-MTAB-3254
+c5,tuberculin skin test,E-MTAB-6815
+c6,tuberculin skin test,S-EPMC2718400
+c6,tuberculin skin test,PRJEB33786
+c6,tuberculin skin test,S-EPMC5810304
+c6,tuberculin skin test,S-EPMC3297651
+c6,tuberculin skin test,S-EPMC3297098
+c6,tuberculin skin test,S-EPMC6485058
+c6,tuberculin skin test,S-EPMC6494673
+c6,tuberculin skin test,ZENODO_1325041
+c6,tuberculin skin test,E-MTAB-3254
+c6,tuberculin skin test,E-MTAB-6815
+c7,tuberculin skin test,S-EPMC2718400
+c7,tuberculin skin test,S-EPMC5810304
+c7,tuberculin skin test,PRJEB33786
+c7,tuberculin skin test,S-EPMC3297651
+c7,tuberculin skin test,S-EPMC3297098
+c7,tuberculin skin test,S-EPMC6485058
+c7,tuberculin skin test,ZENODO_1325041
+c7,tuberculin skin test,S-EPMC6494673
+c7,tuberculin skin test,E-MTAB-3254
+c7,tuberculin skin test,E-MTAB-6815
+c8,tuberculin skin test,S-EPMC2718400
+c8,tuberculin skin test,S-EPMC5810304
+c8,tuberculin skin test,S-EPMC3297651
+c8,tuberculin skin test,S-EPMC3297098
+c8,tuberculin skin test,ZENODO_1325041
+c8,tuberculin skin test,S-EPMC6485058
+c8,tuberculin skin test,PRJEB33786
+c8,tuberculin skin test,S-EPMC6494673
+c8,tuberculin skin test,E-MTAB-3254
+c8,tuberculin skin test,E-MTAB-6815
+c9,tuberculin skin test,S-EPMC2718400
+c9,tuberculin skin test,S-EPMC5810304
+c9,tuberculin skin test,ZENODO_1325041
+c9,tuberculin skin test,S-EPMC3297651
+c9,tuberculin skin test,S-EPMC3297098
+c9,tuberculin skin test,S-EPMC6485058
+c9,tuberculin skin test,S-EPMC6494673
+c9,tuberculin skin test,E-MTAB-3254
+c9,tuberculin skin test,E-MTAB-6815
+c9,tuberculin skin test,S-EPMC2994848
+c10,tuberculin skin test,S-EPMC2718400
+c10,tuberculin skin test,ZENODO_1325041
+c10,tuberculin skin test,S-EPMC5810304
+c10,tuberculin skin test,S-EPMC3297651
+c10,tuberculin skin test,S-EPMC3297098
+c10,tuberculin skin test,S-EPMC6485058
+c10,tuberculin skin test,S-EPMC6494673
+c10,tuberculin skin test,E-MTAB-3254
+c10,tuberculin skin test,E-MTAB-6815
+c10,tuberculin skin test,Dataverse_10.7910_DVN_QTZ9UM
+c11,tuberculin skin test,S-EPMC2718400
+c11,tuberculin skin test,PRJEB33786
+c11,tuberculin skin test,S-EPMC5810304
+c11,tuberculin skin test,S-EPMC3297651
+c11,tuberculin skin test,S-EPMC3297098
+c11,tuberculin skin test,S-EPMC6485058
+c11,tuberculin skin test,ZENODO_1325041
+c11,tuberculin skin test,S-EPMC6494673
+c11,tuberculin skin test,E-MTAB-3254
+c11,tuberculin skin test,E-MTAB-6815
+c12,tuberculin skin test,S-EPMC2718400
+c12,tuberculin skin test,PRJEB33786
+c12,tuberculin skin test,S-EPMC5810304
+c12,tuberculin skin test,S-EPMC3297651
+c12,tuberculin skin test,ZENODO_1325041
+c12,tuberculin skin test,S-EPMC3297098
+c12,tuberculin skin test,S-EPMC6485058
+c12,tuberculin skin test,S-EPMC6494673
+c12,tuberculin skin test,E-MTAB-3254
+c12,tuberculin skin test,E-MTAB-6815
+c13,tuberculin skin test,S-EPMC2718400
+c13,tuberculin skin test,ZENODO_1325041
+c13,tuberculin skin test,S-EPMC5810304
+c13,tuberculin skin test,S-EPMC3297651
+c13,tuberculin skin test,PRJEB33786
+c13,tuberculin skin test,S-EPMC3297098
+c13,tuberculin skin test,S-EPMC6485058
+c13,tuberculin skin test,S-EPMC6494673
+c13,tuberculin skin test,E-MTAB-3254
+c13,tuberculin skin test,E-MTAB-6815
+c14,tuberculin skin test,S-EPMC2718400
+c14,tuberculin skin test,ZENODO_1325041
+c14,tuberculin skin test,S-EPMC5810304
+c14,tuberculin skin test,S-EPMC3297651
+c14,tuberculin skin test,S-EPMC3297098
+c14,tuberculin skin test,S-EPMC6485058
+c14,tuberculin skin test,S-EPMC6494673
+c14,tuberculin skin test,E-MTAB-3254
+c14,tuberculin skin test,PRJEB33786
+c14,tuberculin skin test,E-MTAB-6815
+c15,tuberculin skin test,S-EPMC2718400
+c15,tuberculin skin test,ZENODO_1325041
+c15,tuberculin skin test,S-EPMC5810304
+c15,tuberculin skin test,S-EPMC3297651
+c15,tuberculin skin test,S-EPMC3297098
+c15,tuberculin skin test,S-EPMC6485058
+c15,tuberculin skin test,S-EPMC6494673
+c15,tuberculin skin test,E-MTAB-3254
+c15,tuberculin skin test,VIVLI_cf0f037b-b893-4e29-85e5-cac3303e5b86
+c15,tuberculin skin test,Dataverse_10.7910_DVN_QTZ9UM
+original query,mycobacterium,NCBI_SRA_SRP403130
+original query,mycobacterium,NCBI_SRA_SRP347153
+original query,mycobacterium,PRJNA308282
+original query,mycobacterium,NCBI_SRA_SRP265214
+original query,mycobacterium,NCBI_SRA_SRP068570
+original query,mycobacterium,NCBI_SRA_SRP333117
+original query,mycobacterium,NCBI_SRA_SRP239253
+original query,mycobacterium,S-EPMC4850692
+original query,mycobacterium,NCBI_SRA_SRP313616
+original query,mycobacterium,NCBI_SRA_SRP300216
+c1,mycobacterium,GSE179966
+c1,mycobacterium,GSE21932
+c1,mycobacterium,GSE15023
+c1,mycobacterium,GSE97559
+c1,mycobacterium,GSE140113
+c1,mycobacterium,NCBI_SRA_SRP403130
+c1,mycobacterium,GSE31732
+c1,mycobacterium,GSE64133
+c1,mycobacterium,GSE36341
+c1,mycobacterium,GSE34623
+c2,mycobacterium,GSE21932
+c2,mycobacterium,GSE179966
+c2,mycobacterium,GSE15023
+c2,mycobacterium,GSE97559
+c2,mycobacterium,GSE37823
+c2,mycobacterium,GSE140113
+c2,mycobacterium,GSE31732
+c2,mycobacterium,GSE83814
+c2,mycobacterium,GSE64133
+c2,mycobacterium,GSE36341
+c3,mycobacterium,GSE21932
+c3,mycobacterium,GSE37823
+c3,mycobacterium,GSE83814
+c3,mycobacterium,DDE_ca3a3b19afb2670c
+c3,mycobacterium,GSE222815
+c3,mycobacterium,GSE179966
+c3,mycobacterium,DDE_2328930bf234efc1
+c3,mycobacterium,DDE_da51e1e4a852e31b
+c3,mycobacterium,DDE_5a22d9f2b997344e
+c3,mycobacterium,GSE201641
+c4,mycobacterium,GSE21932
+c4,mycobacterium,GSE37823
+c4,mycobacterium,GSE83814
+c4,mycobacterium,DDE_ca3a3b19afb2670c
+c4,mycobacterium,GSE222815
+c4,mycobacterium,DDE_2328930bf234efc1
+c4,mycobacterium,DDE_da51e1e4a852e31b
+c4,mycobacterium,DDE_5a22d9f2b997344e
+c4,mycobacterium,GSE201641
+c4,mycobacterium,GSE17234
+c5,mycobacterium,GSE21932
+c5,mycobacterium,GSE37823
+c5,mycobacterium,DDE_ca3a3b19afb2670c
+c5,mycobacterium,GSE83814
+c5,mycobacterium,DDE_2328930bf234efc1
+c5,mycobacterium,DDE_da51e1e4a852e31b
+c5,mycobacterium,GSE222815
+c5,mycobacterium,DDE_5a22d9f2b997344e
+c5,mycobacterium,GSE201641
+c5,mycobacterium,DDE_9d4642688294f97e
+c6,mycobacterium,GSE179966
+c6,mycobacterium,GSE21932
+c6,mycobacterium,GSE15023
+c6,mycobacterium,NCBI_SRA_SRP403130
+c6,mycobacterium,GSE97559
+c6,mycobacterium,GSE140113
+c6,mycobacterium,NCBI_SRA_SRP347153
+c6,mycobacterium,GSE31732
+c6,mycobacterium,NCBI_SRA_SRP265214
+c6,mycobacterium,GSE64133
+c7,mycobacterium,GSE21932
+c7,mycobacterium,GSE179966
+c7,mycobacterium,GSE15023
+c7,mycobacterium,GSE97559
+c7,mycobacterium,GSE140113
+c7,mycobacterium,GSE31732
+c7,mycobacterium,GSE64133
+c7,mycobacterium,GSE36341
+c7,mycobacterium,GSE37823
+c7,mycobacterium,GSE34623
+c8,mycobacterium,GSE21932
+c8,mycobacterium,DDE_ca3a3b19afb2670c
+c8,mycobacterium,GSE37823
+c8,mycobacterium,GSE179966
+c8,mycobacterium,GSE83814
+c8,mycobacterium,DDE_2328930bf234efc1
+c8,mycobacterium,DDE_da51e1e4a852e31b
+c8,mycobacterium,GSE222815
+c8,mycobacterium,GSE15023
+c8,mycobacterium,GSE97559
+c9,mycobacterium,GSE21932
+c9,mycobacterium,DDE_ca3a3b19afb2670c
+c9,mycobacterium,DDE_2328930bf234efc1
+c9,mycobacterium,DDE_da51e1e4a852e31b
+c9,mycobacterium,GSE37823
+c9,mycobacterium,GSE83814
+c9,mycobacterium,DDE_9d4642688294f97e
+c9,mycobacterium,GSE222815
+c9,mycobacterium,DDE_5a22d9f2b997344e
+c9,mycobacterium,DDE_a27e565bf4c044a3
+c10,mycobacterium,GSE21932
+c10,mycobacterium,DDE_ca3a3b19afb2670c
+c10,mycobacterium,DDE_2328930bf234efc1
+c10,mycobacterium,DDE_da51e1e4a852e31b
+c10,mycobacterium,DDE_9d4642688294f97e
+c10,mycobacterium,GSE37823
+c10,mycobacterium,GSE83814
+c10,mycobacterium,DDE_a27e565bf4c044a3
+c10,mycobacterium,GSE222815
+c10,mycobacterium,DDE_5a22d9f2b997344e
+c11,mycobacterium,NCBI_SRA_SRP403130
+c11,mycobacterium,GSE179966
+c11,mycobacterium,NCBI_SRA_SRP347153
+c11,mycobacterium,NCBI_SRA_SRP265214
+c11,mycobacterium,GSE15023
+c11,mycobacterium,GSE21932
+c11,mycobacterium,GSE97559
+c11,mycobacterium,NCBI_SRA_SRP068570
+c11,mycobacterium,GSE140113
+c11,mycobacterium,NCBI_SRA_SRP333117
+c12,mycobacterium,GSE21932
+c12,mycobacterium,GSE179966
+c12,mycobacterium,GSE15023
+c12,mycobacterium,GSE97559
+c12,mycobacterium,GSE140113
+c12,mycobacterium,GSE31732
+c12,mycobacterium,GSE64133
+c12,mycobacterium,GSE36341
+c12,mycobacterium,GSE34623
+c12,mycobacterium,GSE60376
+c13,mycobacterium,GSE21932
+c13,mycobacterium,DDE_ca3a3b19afb2670c
+c13,mycobacterium,GSE179966
+c13,mycobacterium,DDE_2328930bf234efc1
+c13,mycobacterium,DDE_da51e1e4a852e31b
+c13,mycobacterium,GSE15023
+c13,mycobacterium,GSE97559
+c13,mycobacterium,GSE140113
+c13,mycobacterium,GSE37823
+c13,mycobacterium,GSE31732
+c14,mycobacterium,GSE21932
+c14,mycobacterium,DDE_ca3a3b19afb2670c
+c14,mycobacterium,DDE_2328930bf234efc1
+c14,mycobacterium,DDE_da51e1e4a852e31b
+c14,mycobacterium,DDE_9d4642688294f97e
+c14,mycobacterium,DDE_a27e565bf4c044a3
+c14,mycobacterium,GSE37823
+c14,mycobacterium,GSE83814
+c14,mycobacterium,GSE179966
+c14,mycobacterium,GSE222815
+c15,mycobacterium,DDE_ca3a3b19afb2670c
+c15,mycobacterium,DDE_2328930bf234efc1
+c15,mycobacterium,DDE_da51e1e4a852e31b
+c15,mycobacterium,DDE_9d4642688294f97e
+c15,mycobacterium,GSE21932
+c15,mycobacterium,DDE_a27e565bf4c044a3
+c15,mycobacterium,DDE_c34b19473faa5896
+c15,mycobacterium,GSE37823
+c15,mycobacterium,GSE83814
+c15,mycobacterium,DDE_67bb1cfa4f251a8a
+original query,hiv,NCBI_SRA_SRP260443
+original query,hiv,VIVLI_1749e227-99eb-4847-bfc2-10f90b30ae4a
+original query,hiv,VIVLI_2ecba9d6-e773-4cba-9808-1b61baf1ed4a
+original query,hiv,S-EPMC5531482
+original query,hiv,NCBI_SRA_SRP268712
+original query,hiv,S-EPMC4061532
+original query,hiv,S-EPMC6045793
+original query,hiv,S-EPMC6641208
+original query,hiv,S-EPMC6811520
+original query,hiv,S-EPMC6544251
+c1,hiv,VIVLI_1749e227-99eb-4847-bfc2-10f90b30ae4a
+c1,hiv,VIVLI_2ecba9d6-e773-4cba-9808-1b61baf1ed4a
+c1,hiv,NCBI_SRA_SRP260443
+c1,hiv,S-EPMC5531482
+c1,hiv,S-EPMC4061532
+c1,hiv,NICHD_DASH_Dataset_424498
+c1,hiv,NICHD_DASH_Dataset_424499
+c1,hiv,NICHD_DASH_Dataset_424500
+c1,hiv,NICHD_DASH_Dataset_424502
+c1,hiv,NICHD_DASH_Dataset_424505
+c2,hiv,VIVLI_1749e227-99eb-4847-bfc2-10f90b30ae4a
+c2,hiv,VIVLI_2ecba9d6-e773-4cba-9808-1b61baf1ed4a
+c2,hiv,NICHD_DASH_Dataset_424498
+c2,hiv,NICHD_DASH_Dataset_424499
+c2,hiv,NICHD_DASH_Dataset_424500
+c2,hiv,NICHD_DASH_Dataset_424502
+c2,hiv,NICHD_DASH_Dataset_424505
+c2,hiv,NICHD_DASH_Dataset_424506
+c2,hiv,NICHD_DASH_Dataset_424527
+c2,hiv,NICHD_DASH_Dataset_424545
+c3,hiv,VIVLI_1749e227-99eb-4847-bfc2-10f90b30ae4a
+c3,hiv,VIVLI_2ecba9d6-e773-4cba-9808-1b61baf1ed4a
+c3,hiv,Dataverse_10.7910_DVN_OVEAC9
+c3,hiv,NICHD_DASH_Dataset_424498
+c3,hiv,NICHD_DASH_Dataset_424499
+c3,hiv,NICHD_DASH_Dataset_424500
+c3,hiv,NICHD_DASH_Dataset_424502
+c3,hiv,NICHD_DASH_Dataset_424505
+c3,hiv,NICHD_DASH_Dataset_424506
+c3,hiv,NICHD_DASH_Dataset_424527
+c4,hiv,Dataverse_10.7910_DVN_OVEAC9
+c4,hiv,GSE18464
+c4,hiv,GSE157198
+c4,hiv,NICHD_DASH_Dataset_424498
+c4,hiv,NICHD_DASH_Dataset_424499
+c4,hiv,NICHD_DASH_Dataset_424500
+c4,hiv,NICHD_DASH_Dataset_424502
+c4,hiv,NICHD_DASH_Dataset_424505
+c4,hiv,NICHD_DASH_Dataset_424506
+c4,hiv,NICHD_DASH_Dataset_424527
+c5,hiv,IMMPORT_SDY1535
+c5,hiv,GSE18464
+c5,hiv,GSE157198
+c5,hiv,GSE41731
+c5,hiv,GSE198525
+c5,hiv,GSE139327
+c5,hiv,GSE18468
+c5,hiv,GSE140800
+c5,hiv,GSE192384
+c5,hiv,GSE38908
+c6,hiv,VIVLI_1749e227-99eb-4847-bfc2-10f90b30ae4a
+c6,hiv,VIVLI_2ecba9d6-e773-4cba-9808-1b61baf1ed4a
+c6,hiv,NCBI_SRA_SRP260443
+c6,hiv,S-EPMC5531482
+c6,hiv,VIVLI_903d9d03-3179-4657-b2f9-e0fe92b7f1da
+c6,hiv,S-EPMC4061532
+c6,hiv,NICHD_DASH_Dataset_424498
+c6,hiv,NICHD_DASH_Dataset_424499
+c6,hiv,NICHD_DASH_Dataset_424500
+c6,hiv,NICHD_DASH_Dataset_424502
+c7,hiv,VIVLI_1749e227-99eb-4847-bfc2-10f90b30ae4a
+c7,hiv,VIVLI_2ecba9d6-e773-4cba-9808-1b61baf1ed4a
+c7,hiv,VIVLI_903d9d03-3179-4657-b2f9-e0fe92b7f1da
+c7,hiv,Dataverse_10.7910_DVN_OVEAC9
+c7,hiv,VIVLI_03ada9f4-ccc0-441f-ab69-8574449a8c86
+c7,hiv,VIVLI_665ac0b9-d719-49f6-a9c9-df4f04c9d89b
+c7,hiv,VIVLI_02021d26-0e96-424c-8fec-77cbd204fd8d
+c7,hiv,VIVLI_7a8a7234-ada3-465b-a608-347b5e74a542
+c7,hiv,NICHD_DASH_Dataset_424498
+c7,hiv,NICHD_DASH_Dataset_424499
+c8,hiv,VIVLI_1749e227-99eb-4847-bfc2-10f90b30ae4a
+c8,hiv,VIVLI_2ecba9d6-e773-4cba-9808-1b61baf1ed4a
+c8,hiv,Dataverse_10.7910_DVN_OVEAC9
+c8,hiv,VIVLI_903d9d03-3179-4657-b2f9-e0fe92b7f1da
+c8,hiv,DRYAD_doi.org:10.5061:dryad.wpzgmsbnz
+c8,hiv,VIVLI_03ada9f4-ccc0-441f-ab69-8574449a8c86
+c8,hiv,VIVLI_665ac0b9-d719-49f6-a9c9-df4f04c9d89b
+c8,hiv,VIVLI_02021d26-0e96-424c-8fec-77cbd204fd8d
+c8,hiv,VIVLI_7a8a7234-ada3-465b-a608-347b5e74a542
+c8,hiv,NICHD_DASH_Dataset_424498
+c9,hiv,VIVLI_1749e227-99eb-4847-bfc2-10f90b30ae4a
+c9,hiv,VIVLI_2ecba9d6-e773-4cba-9808-1b61baf1ed4a
+c9,hiv,Dataverse_10.7910_DVN_OVEAC9
+c9,hiv,DRYAD_doi.org:10.5061:dryad.wpzgmsbnz
+c9,hiv,VIVLI_903d9d03-3179-4657-b2f9-e0fe92b7f1da
+c9,hiv,IMMPORT_SDY1535
+c9,hiv,DRYAD_doi.org:10.5061:dryad.np5hqbzx5
+c9,hiv,VIVLI_03ada9f4-ccc0-441f-ab69-8574449a8c86
+c9,hiv,VIVLI_665ac0b9-d719-49f6-a9c9-df4f04c9d89b
+c9,hiv,VIVLI_02021d26-0e96-424c-8fec-77cbd204fd8d
+c10,hiv,IMMPORT_SDY1535
+c10,hiv,Dataverse_10.7910_DVN_OVEAC9
+c10,hiv,VIVLI_1749e227-99eb-4847-bfc2-10f90b30ae4a
+c10,hiv,VIVLI_2ecba9d6-e773-4cba-9808-1b61baf1ed4a
+c10,hiv,DRYAD_doi.org:10.5061:dryad.wpzgmsbnz
+c10,hiv,GSE18464
+c10,hiv,DRYAD_doi.org:10.5061:dryad.np5hqbzx5
+c10,hiv,GSE157198
+c10,hiv,GSE41731
+c10,hiv,GSE198525
+c11,hiv,VIVLI_1749e227-99eb-4847-bfc2-10f90b30ae4a
+c11,hiv,VIVLI_2ecba9d6-e773-4cba-9808-1b61baf1ed4a
+c11,hiv,VIVLI_903d9d03-3179-4657-b2f9-e0fe92b7f1da
+c11,hiv,NCBI_SRA_SRP260443
+c11,hiv,S-EPMC5531482
+c11,hiv,VIVLI_03ada9f4-ccc0-441f-ab69-8574449a8c86
+c11,hiv,VIVLI_665ac0b9-d719-49f6-a9c9-df4f04c9d89b
+c11,hiv,VIVLI_02021d26-0e96-424c-8fec-77cbd204fd8d
+c11,hiv,VIVLI_7a8a7234-ada3-465b-a608-347b5e74a542
+c11,hiv,S-EPMC4061532
+c12,hiv,VIVLI_1749e227-99eb-4847-bfc2-10f90b30ae4a
+c12,hiv,VIVLI_2ecba9d6-e773-4cba-9808-1b61baf1ed4a
+c12,hiv,VIVLI_903d9d03-3179-4657-b2f9-e0fe92b7f1da
+c12,hiv,VIVLI_03ada9f4-ccc0-441f-ab69-8574449a8c86
+c12,hiv,VIVLI_665ac0b9-d719-49f6-a9c9-df4f04c9d89b
+c12,hiv,VIVLI_02021d26-0e96-424c-8fec-77cbd204fd8d
+c12,hiv,VIVLI_7a8a7234-ada3-465b-a608-347b5e74a542
+c12,hiv,Dataverse_10.7910_DVN_OVEAC9
+c12,hiv,VIVLI_7ac8687d-79c8-4860-8141-83776849e2df
+c12,hiv,VIVLI_242c4b5a-19b3-4a51-b885-05358ed89db6
+c13,hiv,VIVLI_1749e227-99eb-4847-bfc2-10f90b30ae4a
+c13,hiv,VIVLI_2ecba9d6-e773-4cba-9808-1b61baf1ed4a
+c13,hiv,VIVLI_903d9d03-3179-4657-b2f9-e0fe92b7f1da
+c13,hiv,VIVLI_03ada9f4-ccc0-441f-ab69-8574449a8c86
+c13,hiv,VIVLI_665ac0b9-d719-49f6-a9c9-df4f04c9d89b
+c13,hiv,VIVLI_02021d26-0e96-424c-8fec-77cbd204fd8d
+c13,hiv,VIVLI_7a8a7234-ada3-465b-a608-347b5e74a542
+c13,hiv,Dataverse_10.7910_DVN_OVEAC9
+c13,hiv,VIVLI_7ac8687d-79c8-4860-8141-83776849e2df
+c13,hiv,VIVLI_242c4b5a-19b3-4a51-b885-05358ed89db6
+c14,hiv,VIVLI_1749e227-99eb-4847-bfc2-10f90b30ae4a
+c14,hiv,VIVLI_2ecba9d6-e773-4cba-9808-1b61baf1ed4a
+c14,hiv,VIVLI_903d9d03-3179-4657-b2f9-e0fe92b7f1da
+c14,hiv,VIVLI_03ada9f4-ccc0-441f-ab69-8574449a8c86
+c14,hiv,VIVLI_665ac0b9-d719-49f6-a9c9-df4f04c9d89b
+c14,hiv,VIVLI_02021d26-0e96-424c-8fec-77cbd204fd8d
+c14,hiv,VIVLI_7a8a7234-ada3-465b-a608-347b5e74a542
+c14,hiv,VIVLI_7ac8687d-79c8-4860-8141-83776849e2df
+c14,hiv,Dataverse_10.7910_DVN_OVEAC9
+c14,hiv,VIVLI_242c4b5a-19b3-4a51-b885-05358ed89db6
+c15,hiv,VIVLI_1749e227-99eb-4847-bfc2-10f90b30ae4a
+c15,hiv,VIVLI_2ecba9d6-e773-4cba-9808-1b61baf1ed4a
+c15,hiv,VIVLI_903d9d03-3179-4657-b2f9-e0fe92b7f1da
+c15,hiv,VIVLI_03ada9f4-ccc0-441f-ab69-8574449a8c86
+c15,hiv,VIVLI_665ac0b9-d719-49f6-a9c9-df4f04c9d89b
+c15,hiv,VIVLI_02021d26-0e96-424c-8fec-77cbd204fd8d
+c15,hiv,VIVLI_7a8a7234-ada3-465b-a608-347b5e74a542
+c15,hiv,VIVLI_7ac8687d-79c8-4860-8141-83776849e2df
+c15,hiv,VIVLI_242c4b5a-19b3-4a51-b885-05358ed89db6
+c15,hiv,Dataverse_10.7910_DVN_OVEAC9

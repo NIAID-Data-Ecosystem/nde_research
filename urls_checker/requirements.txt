@@ -1,3 +1,3 @@
 aiohttp
 gspread
-
+python-dotenv

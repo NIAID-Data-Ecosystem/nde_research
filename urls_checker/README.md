@@ -65,7 +65,7 @@ The Google Sheet must contain a header row and the following columns:
 ## 🚀 Running the Script
 
 ```bash
-python your_script_name.py
+python urls_checker.py
 ```
 
 Make sure `credentials.json` and `secrets.env` are in the same directory as the script.

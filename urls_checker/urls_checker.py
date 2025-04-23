@@ -9,6 +9,7 @@ import os
 import logging
 from datetime import datetime
 from dotenv import load_dotenv
+from pathlib import Path
 
 
 logging.basicConfig(

@@ -1,0 +1,89 @@
+name: Program Collections Automation
+
+on:
+  # Trigger on pushes to main branch (when new data sources are added)
+  push:
+    branches: [ main ]
+    paths:
+      - 'program_collections_generator/data/**'
+
+  # Trigger on schedule (every 2 hours during business hours)
+  schedule:
+    - cron: '0 */2 * * *'
+
+  # Allow manual triggering
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Target environment'
+        required: true
+        default: 'both'
+        type: choice
+        options:
+        - staging
+        - production
+        - both
+      force_update:
+        description: 'Force update even if no changes'
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  generate-collections:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout nde_research
+      uses: actions/checkout@v4
+      with:
+        path: nde_research
+
+    - name: Checkout nde-metadata-corrections
+      uses: actions/checkout@v4
+      with:
+        repository: NIAID-Data-Ecosystem/nde-metadata-corrections
+        path: nde-metadata-corrections
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas openpyxl requests
+
+    - name: Run program collections automation with build monitoring
+      run: |
+        cd nde_research/program_collections_generator
+        python program_collections_automation.py --environment ${{ github.event.inputs.environment || 'both' }}
+
+    - name: Check for changes
+      id: check_changes
+      run: |
+        cd nde-metadata-corrections
+        if git diff --quiet; then
+          echo "changes=false" >> $GITHUB_OUTPUT
+        else
+          echo "changes=true" >> $GITHUB_OUTPUT
+        fi
+
+    - name: Commit and push changes
+      if: steps.check_changes.outputs.changes == 'true'
+      run: |
+        cd nde-metadata-corrections
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Automated update of program collections - $(date -u)"
+        git push
+
+    - name: Create summary
+      run: |
+        echo "## Program Collections Update Summary" >> $GITHUB_STEP_SUMMARY
+        echo "- **Environment**: ${{ github.event.inputs.environment || 'both' }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Changes detected**: ${{ steps.check_changes.outputs.changes }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Timestamp**: $(date -u)" >> $GITHUB_STEP_SUMMARY

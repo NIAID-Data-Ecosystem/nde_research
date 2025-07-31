@@ -1,0 +1,95 @@
+name: Build Monitor - Program Collections
+
+on:
+  # Check for new builds every hour during business hours (UTC)
+  schedule:
+    - cron: '0 8-20 * * 1-5'  # Every hour from 8 AM to 8 PM UTC, Mon-Fri
+
+  # Manual trigger for immediate build check
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Environment to check'
+        required: true
+        default: 'staging'
+        type: choice
+        options:
+        - staging
+        - production
+        - both
+
+jobs:
+  check-builds:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout nde_research
+      uses: actions/checkout@v4
+      with:
+        path: nde_research
+
+    - name: Checkout nde-metadata-corrections
+      uses: actions/checkout@v4
+      with:
+        repository: NIAID-Data-Ecosystem/nde-metadata-corrections
+        path: nde-metadata-corrections
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas openpyxl requests
+
+    - name: Check for new builds and update if needed
+      id: build_check
+      run: |
+        cd nde_research/program_collections_generator
+
+        # Run with build monitoring (won't update if no new build)
+        if python program_collections_automation.py --environment ${{ github.event.inputs.environment || 'staging' }}; then
+          echo "status=success" >> $GITHUB_OUTPUT
+        else
+          echo "status=failed" >> $GITHUB_OUTPUT
+        fi
+
+    - name: Check for changes in corrections repo
+      id: check_changes
+      run: |
+        cd nde-metadata-corrections
+        if git diff --quiet; then
+          echo "changes=false" >> $GITHUB_OUTPUT
+          echo "message=No updates needed - no new builds detected" >> $GITHUB_OUTPUT
+        else
+          echo "changes=true" >> $GITHUB_OUTPUT
+          echo "message=Program collections updated due to new build" >> $GITHUB_OUTPUT
+        fi
+
+    - name: Commit and push changes
+      if: steps.check_changes.outputs.changes == 'true'
+      run: |
+        cd nde-metadata-corrections
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action - Build Monitor"
+        git add .
+        git commit -m "Auto-update: New build detected - $(date -u)"
+        git push
+
+    - name: Create summary
+      run: |
+        echo "## Build Monitor Summary" >> $GITHUB_STEP_SUMMARY
+        echo "- **Environment**: ${{ github.event.inputs.environment || 'staging' }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Status**: ${{ steps.build_check.outputs.status }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Changes**: ${{ steps.check_changes.outputs.changes }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Message**: ${{ steps.check_changes.outputs.message }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Timestamp**: $(date -u)" >> $GITHUB_STEP_SUMMARY
+
+        if [ "${{ steps.check_changes.outputs.changes }}" == "true" ]; then
+          echo "🚀 **Program collections were updated due to new build!**" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "ℹ️ **No updates needed - no new builds detected**" >> $GITHUB_STEP_SUMMARY
+        fi

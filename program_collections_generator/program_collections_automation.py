@@ -9,12 +9,15 @@ It can be run manually or integrated into CI/CD pipelines.
 import argparse
 import json
 import logging
+import os
 import sys
 from pathlib import Path
 from typing import Dict, List, Tuple
 
 import pandas as pd
 import requests
+from google.oauth2 import service_account
+from googleapiclient.discovery import build
 
 # Setup logging
 logging.basicConfig(
@@ -104,24 +107,85 @@ class ProgramCollectionsGenerator:
 
         return approved_prod, control_transferred, act_codes, ic_codes
 
+    def _get_google_sheets_credentials(self):
+        """Get Google Sheets API credentials from environment or file"""
+        # Try to get credentials from environment variable (for GitHub Actions)
+        creds_json = os.environ.get('GOOGLE_SHEETS_CREDENTIALS')
+        if creds_json:
+            try:
+                credentials_info = json.loads(creds_json)
+                credentials = service_account.Credentials.from_service_account_info(
+                    credentials_info,
+                    scopes=['https://www.googleapis.com/auth/spreadsheets.readonly']
+                )
+                return credentials
+            except Exception as e:
+                logger.warning(f"Failed to load credentials from environment: {e}")
+        
+        # Try to load from service account file
+        creds_file = self.data_path / 'service-account-key.json'
+        if creds_file.exists():
+            try:
+                credentials = service_account.Credentials.from_service_account_file(
+                    str(creds_file),
+                    scopes=['https://www.googleapis.com/auth/spreadsheets.readonly']
+                )
+                return credentials
+            except Exception as e:
+                logger.warning(f"Failed to load credentials from file: {e}")
+        
+        return None
+
     def download_program_data(self) -> pd.DataFrame:
-        """Download program metadata from Google Sheets"""
+        """Download program metadata from Google Sheets using API authentication"""
+        # Extract spreadsheet ID from the URL
+        sheet_id = "16ioasEqMoXuv2tgJs7xlMgD_sPLvrxs7Cp3rwz273YE"
+        
         try:
             logger.info("Downloading program metadata...")
-            response = requests.get(self.sheets_url, timeout=60)
-            response.raise_for_status()
+            
+            # Try authenticated Google Sheets API first
+            credentials = self._get_google_sheets_credentials()
+            if credentials:
+                logger.info("Using Google Sheets API with service account")
+                service = build('sheets', 'v4', credentials=credentials)
+                
+                # Get the data from the 'metadata' sheet
+                range_name = 'metadata'  # Adjust if your sheet has a different name
+                result = service.spreadsheets().values().get(
+                    spreadsheetId=sheet_id,
+                    range=range_name
+                ).execute()
+                
+                values = result.get('values', [])
+                if not values:
+                    raise Exception("No data found in Google Sheet")
+                
+                # Convert to DataFrame
+                headers = values[0]
+                data = values[1:] if len(values) > 1 else []
+                df = pd.DataFrame(data, columns=headers)
+                
+                logger.info(f"Downloaded {len(df)} programs via Google Sheets API")
+                return df
+            
+            else:
+                logger.warning("No Google Sheets credentials found, trying direct download")
+                # Fallback to direct download (will fail for private sheets)
+                response = requests.get(self.sheets_url, timeout=60)
+                response.raise_for_status()
 
-            # Save and read Excel file
-            temp_file = self.data_path / 'temp_collections.xlsx'
-            with open(temp_file, 'wb') as f:
-                f.write(response.content)
+                # Save and read Excel file
+                temp_file = self.data_path / 'temp_collections.xlsx'
+                with open(temp_file, 'wb') as f:
+                    f.write(response.content)
 
-            df = pd.read_excel(temp_file, sheet_name='metadata',
-                               engine='openpyxl')
-            temp_file.unlink()
+                df = pd.read_excel(temp_file, sheet_name='metadata',
+                                   engine='openpyxl')
+                temp_file.unlink()
 
-            logger.info(f"Downloaded {len(df)} programs")
-            return df
+                logger.info(f"Downloaded {len(df)} programs")
+                return df
 
         except Exception as e:
             logger.error(f"Download failed: {e}")

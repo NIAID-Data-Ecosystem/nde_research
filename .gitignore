@@ -20,3 +20,7 @@ tool_suitability_research/text2term_test/cache/*
 
 # VS Code settings
 .vscode/
+
+# Google Service Account Keys (sensitive)
+**/service-account-key.json
+**/*service-account*.json

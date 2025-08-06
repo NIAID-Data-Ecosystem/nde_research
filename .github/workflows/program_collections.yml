@@ -54,9 +54,12 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install pandas openpyxl requests
+        cd nde_research/program_collections_generator
+        pip install -r requirements.txt
 
     - name: Run program collections automation with build monitoring
+      env:
+        GOOGLE_SHEETS_CREDENTIALS: ${{ secrets.GOOGLE_SHEETS_CREDENTIALS }}
       run: |
         cd nde_research/program_collections_generator
         python program_collections_automation.py --environment ${{ github.event.inputs.environment || 'both' }}

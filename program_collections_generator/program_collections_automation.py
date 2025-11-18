@@ -310,24 +310,29 @@ class ProgramCollectionsGenerator:
             try:
                 filename = row['fileName']
 
-                # Determine target environment
-                if filename in approved_prod:
-                    target_env = 'production'
-                else:
-                    target_env = 'staging'
+                write_staging = environment in ['staging', 'both']
+                write_production = (
+                    filename in approved_prod and
+                    environment in ['production', 'both']
+                )
 
-                # Skip if environment filter doesn't match
-                if environment != 'both' and environment != target_env:
+                # Skip entirely if neither environment applies
+                if not write_staging and not write_production:
                     continue
 
-                # Generate metadata file
-                self._create_metadata_file(row, target_env)
+                if write_staging:
+                    self._create_metadata_file(row, 'staging')
+                    self._create_records_file(row, 'staging', act_codes,
+                                              ic_codes, control_transferred)
+                    logger.info(
+                        f"Generated staging files for {filename}")
 
-                # Generate records file
-                self._create_records_file(row, target_env, act_codes,
-                                          ic_codes, control_transferred)
-
-                logger.info(f"Generated files for {filename} ({target_env})")
+                if write_production:
+                    self._create_metadata_file(row, 'production')
+                    self._create_records_file(row, 'production', act_codes,
+                                              ic_codes, control_transferred)
+                    logger.info(
+                        f"Generated production files for {filename}")
 
             except Exception as e:
                 logger.error(f"Error processing {filename}: {e}")
@@ -355,9 +360,13 @@ class ProgramCollectionsGenerator:
 
         # Write file
         if environment == 'production':
-            output_dir = self.correction_path / 'collections_corrections_production'
+            output_dir = (
+                self.correction_path / 'collections_corrections_production'
+            )
         else:
-            output_dir = self.correction_path / 'collections_corrections_staging'
+            output_dir = (
+                self.correction_path / 'collections_corrections_staging'
+            )
 
         output_dir.mkdir(exist_ok=True)
         output_file = output_dir / f'{filename}_correction.json'
@@ -398,9 +407,13 @@ class ProgramCollectionsGenerator:
 
         # Write records file
         if environment == 'production':
-            output_dir = self.correction_path / 'collections_corrections_production'
+            output_dir = (
+                self.correction_path / 'collections_corrections_production'
+            )
         else:
-            output_dir = self.correction_path / 'collections_corrections_staging'
+            output_dir = (
+                self.correction_path / 'collections_corrections_staging'
+            )
 
         output_dir.mkdir(exist_ok=True)
         output_file = output_dir / f'{filename}_records.txt'
@@ -410,18 +423,23 @@ class ProgramCollectionsGenerator:
                 if "immport" in record_id:
                     clean_id = record_id.replace("immport_", "")
                     f.write(
-                        f'https://data.niaid.nih.gov/resources?id={clean_id}\n')
+                        f'https://data.niaid.nih.gov/resources?id={clean_id}\n'
+                    )
                 else:
                     f.write(
-                        f'https://data.niaid.nih.gov/resources?id={record_id}\n')
+                        'https://data.niaid.nih.gov/resources?id='
+                        f'{record_id}\n'
+                    )
 
     def _get_prior_records(self, filename: str, environment: str) -> List[str]:
         """Get prior records for programs with transferred control"""
         try:
             if environment == 'production':
-                base_url = ("https://raw.githubusercontent.com/"
-                            "NIAID-Data-Ecosystem/nde-metadata-corrections/"
-                            "refs/heads/main/collections_corrections_production/")
+                base_url = (
+                    "https://raw.githubusercontent.com/"
+                    "NIAID-Data-Ecosystem/nde-metadata-corrections/"
+                    "refs/heads/main/collections_corrections_production/"
+                )
             else:
                 base_url = ("https://raw.githubusercontent.com/"
                             "NIAID-Data-Ecosystem/nde-metadata-corrections/"
